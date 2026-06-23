@@ -1,0 +1,415 @@
+window.PRODUCT_DATA = [
+  {
+    "id": "tongrentang-lingzhi-spore-capsule",
+    "name": "同仁堂灵芝孢子粉胶囊",
+    "brand": "同仁堂",
+    "manufacturerType": "famous_pharma",
+    "functionCategory": [
+      "immunity",
+      "beauty"
+    ],
+    "materialCategory": "ganoderma",
+    "dosageForm": "capsule",
+    "specification": "60粒/瓶",
+    "packaging": "gift_box",
+    "targetPopulation": [
+      "elderly",
+      "adult"
+    ],
+    "efficacyLevel": "conditioning",
+    "certification": "blue_hat",
+    "origin": "吉林长白山",
+    "salesChannel": "omni_channel",
+    "priceMin": 198,
+    "priceMax": 298,
+    "profitMargin": 35,
+    "referenceSales": 12500,
+    "salesDataType": "estimated",
+    "salesDataPeriod": "2025Q4",
+    "description": "选用长白山优质灵芝孢子，破壁率≥98%，每粒含灵芝多糖≥10mg",
+    "listingUrls": [
+      {
+        "platform": "淘宝",
+        "url": "https://item.taobao.com/example001",
+        "platformPrice": 258,
+        "collectedAt": "2026-06-15"
+      },
+      {
+        "platform": "京东",
+        "url": "https://item.jd.com/example001",
+        "platformPrice": 268,
+        "collectedAt": "2026-06-15"
+      }
+    ],
+    "dataVersion": "2026-06"
+  },
+  {
+    "id": "tangchen-beibao-sleep-tea",
+    "name": "汤臣倍健褪黑素助眠茶",
+    "brand": "汤臣倍健",
+    "manufacturerType": "specialty_health",
+    "functionCategory": [
+      "sleep"
+    ],
+    "materialCategory": "other",
+    "dosageForm": "tea",
+    "specification": "30袋/盒",
+    "packaging": "single_box",
+    "targetPopulation": [
+      "adult",
+      "elderly"
+    ],
+    "efficacyLevel": "health",
+    "certification": "sc_food",
+    "origin": "广东广州",
+    "salesChannel": "online_only",
+    "priceMin": 89,
+    "priceMax": 129,
+    "profitMargin": 45,
+    "referenceSales": 8700,
+    "salesDataType": "exact",
+    "salesDataPeriod": "2026Q1",
+    "description": "含褪黑素与酸枣仁提取物，温和助眠",
+    "listingUrls": [
+      {
+        "platform": "淘宝",
+        "url": "https://item.taobao.com/example002",
+        "platformPrice": 99,
+        "collectedAt": "2026-06-10"
+      }
+    ],
+    "dataVersion": "2026-06"
+  },
+  {
+    "id": "dongeejiao-donkeyhide-paste",
+    "name": "东阿阿胶阿胶膏",
+    "brand": "东阿阿胶",
+    "manufacturerType": "famous_pharma",
+    "functionCategory": [
+      "beauty",
+      "kidney"
+    ],
+    "materialCategory": "donkey_hide",
+    "dosageForm": "paste",
+    "specification": "250g/盒",
+    "packaging": "gift_box",
+    "targetPopulation": [
+      "female",
+      "adult"
+    ],
+    "efficacyLevel": "conditioning",
+    "certification": "blue_hat",
+    "origin": "山东东阿",
+    "salesChannel": "omni_channel",
+    "priceMin": 368,
+    "priceMax": 568,
+    "profitMargin": 25,
+    "referenceSales": 32000,
+    "salesDataType": "estimated",
+    "salesDataPeriod": "2025Q4",
+    "description": "选用优质驴皮，传统工艺熬制，补血养颜",
+    "listingUrls": [
+      {
+        "platform": "淘宝",
+        "url": "https://item.taobao.com/example003",
+        "platformPrice": 398,
+        "collectedAt": "2026-06-15"
+      },
+      {
+        "platform": "京东",
+        "url": "https://item.jd.com/example003",
+        "platformPrice": 428,
+        "collectedAt": "2026-06-15"
+      },
+      {
+        "platform": "拼多多",
+        "url": "https://mobile.yangkeduo.com/example003",
+        "platformPrice": 358,
+        "collectedAt": "2026-06-14"
+      }
+    ],
+    "dataVersion": "2026-06"
+  },
+  {
+    "id": "taiji-huoxiang-zhengqi-liquid",
+    "name": "太极藿香正气口服液",
+    "brand": "太极集团",
+    "manufacturerType": "famous_pharma",
+    "functionCategory": [
+      "digestion"
+    ],
+    "materialCategory": "other",
+    "dosageForm": "liquid",
+    "specification": "10ml×10支/盒",
+    "packaging": "family_pack",
+    "targetPopulation": [
+      "general",
+      "adult"
+    ],
+    "efficacyLevel": "treatment_adjunct",
+    "certification": "gmp",
+    "origin": "重庆涪陵",
+    "salesChannel": "omni_channel",
+    "priceMin": 25,
+    "priceMax": 38,
+    "profitMargin": 18,
+    "referenceSales": 56000,
+    "salesDataType": "exact",
+    "salesDataPeriod": "2026Q1",
+    "description": "解表化湿，理气和中，用于外感风寒、内伤湿滞",
+    "listingUrls": [
+      {
+        "platform": "淘宝",
+        "url": "https://item.taobao.com/example004",
+        "platformPrice": 28,
+        "collectedAt": "2026-06-12"
+      },
+      {
+        "platform": "京东",
+        "url": "https://item.jd.com/example004",
+        "platformPrice": 32,
+        "collectedAt": "2026-06-12"
+      }
+    ],
+    "dataVersion": "2026-06"
+  },
+  {
+    "id": "yiling-lianhua-qingwen-capsule",
+    "name": "以岭连花清瘟胶囊",
+    "brand": "以岭药业",
+    "manufacturerType": "famous_pharma",
+    "functionCategory": [
+      "immunity"
+    ],
+    "materialCategory": "other",
+    "dosageForm": "capsule",
+    "specification": "36粒/盒",
+    "packaging": "single_box",
+    "targetPopulation": [
+      "adult",
+      "general"
+    ],
+    "efficacyLevel": "treatment_adjunct",
+    "certification": "gmp",
+    "origin": "河北石家庄",
+    "salesChannel": "omni_channel",
+    "priceMin": 14.8,
+    "priceMax": 25,
+    "profitMargin": 12,
+    "referenceSales": 120000,
+    "salesDataType": "estimated",
+    "salesDataPeriod": "2025H2",
+    "description": "清瘟解毒，宣肺泄热",
+    "listingUrls": [
+      {
+        "platform": "淘宝",
+        "url": "https://item.taobao.com/example005",
+        "platformPrice": 16.8,
+        "collectedAt": "2026-06-15"
+      },
+      {
+        "platform": "京东",
+        "url": "https://item.jd.com/example005",
+        "platformPrice": 18.5,
+        "collectedAt": "2026-06-15"
+      }
+    ],
+    "dataVersion": "2026-06"
+  },
+  {
+    "id": "renhe-kidney-tonic-pill",
+    "name": "仁和肾宝片",
+    "brand": "仁和药业",
+    "manufacturerType": "specialty_health",
+    "functionCategory": [
+      "kidney"
+    ],
+    "materialCategory": "other",
+    "dosageForm": "pill",
+    "specification": "120片/瓶",
+    "packaging": "single_box",
+    "targetPopulation": [
+      "male",
+      "adult",
+      "elderly"
+    ],
+    "efficacyLevel": "conditioning",
+    "certification": "blue_hat",
+    "origin": "江西樟树",
+    "salesChannel": "omni_channel",
+    "priceMin": 168,
+    "priceMax": 238,
+    "profitMargin": 40,
+    "referenceSales": 18500,
+    "salesDataType": "estimated",
+    "salesDataPeriod": "2025Q4",
+    "description": "温补肾阳，扶正固本",
+    "listingUrls": [
+      {
+        "platform": "淘宝",
+        "url": "https://item.taobao.com/example006",
+        "platformPrice": 188,
+        "collectedAt": "2026-06-13"
+      }
+    ],
+    "dataVersion": "2026-06"
+  },
+  {
+    "id": "watsons-calcium-vitamind-tablet",
+    "name": "屈臣氏钙维生素D片",
+    "brand": "屈臣氏",
+    "manufacturerType": "oem",
+    "functionCategory": [
+      "bone"
+    ],
+    "materialCategory": "other",
+    "dosageForm": "tablet",
+    "specification": "100片/瓶",
+    "packaging": "single_box",
+    "targetPopulation": [
+      "elderly",
+      "children",
+      "pregnant",
+      "female"
+    ],
+    "efficacyLevel": "health",
+    "certification": "sc_food",
+    "origin": "广东深圳",
+    "salesChannel": "online_only",
+    "priceMin": 79,
+    "priceMax": 99,
+    "profitMargin": 50,
+    "referenceSales": 6300,
+    "salesDataType": "exact",
+    "salesDataPeriod": "2026Q1",
+    "description": "每片含钙300mg+维生素D3 5μg",
+    "listingUrls": [
+      {
+        "platform": "淘宝",
+        "url": "https://item.taobao.com/example007",
+        "platformPrice": 79,
+        "collectedAt": "2026-06-10"
+      }
+    ],
+    "dataVersion": "2026-06"
+  },
+  {
+    "id": "jzt-haoyangyang-goji-granule",
+    "name": "九芝堂好漾漾枸杞颗粒",
+    "brand": "九芝堂",
+    "manufacturerType": "famous_pharma",
+    "functionCategory": [
+      "beauty",
+      "immunity"
+    ],
+    "materialCategory": "goji",
+    "dosageForm": "granule",
+    "specification": "5g×20袋/盒",
+    "packaging": "single_box",
+    "targetPopulation": [
+      "female",
+      "adult"
+    ],
+    "efficacyLevel": "health",
+    "certification": "sc_food",
+    "origin": "宁夏中宁",
+    "salesChannel": "online_only",
+    "priceMin": 128,
+    "priceMax": 168,
+    "profitMargin": 38,
+    "referenceSales": 4200,
+    "salesDataType": "estimated",
+    "salesDataPeriod": "2025Q4",
+    "description": "宁夏中宁枸杞提取物，含枸杞多糖≥20%",
+    "listingUrls": [
+      {
+        "platform": "淘宝",
+        "url": "https://item.taobao.com/example008",
+        "platformPrice": 138,
+        "collectedAt": "2026-06-15"
+      }
+    ],
+    "dataVersion": "2026-06"
+  },
+  {
+    "id": "yunnan-baiyao-sanqi-powder",
+    "name": "云南白药三七粉",
+    "brand": "云南白药",
+    "manufacturerType": "famous_pharma",
+    "functionCategory": [
+      "bone",
+      "immunity"
+    ],
+    "materialCategory": "astragalus",
+    "dosageForm": "powder",
+    "specification": "3g×30袋/盒",
+    "packaging": "single_box",
+    "targetPopulation": [
+      "elderly",
+      "adult"
+    ],
+    "efficacyLevel": "conditioning",
+    "certification": "blue_hat",
+    "origin": "云南文山",
+    "salesChannel": "omni_channel",
+    "priceMin": 258,
+    "priceMax": 358,
+    "profitMargin": 30,
+    "referenceSales": 9800,
+    "salesDataType": "exact",
+    "salesDataPeriod": "2026Q1",
+    "description": "文山道地三七，经超微粉碎工艺",
+    "listingUrls": [
+      {
+        "platform": "淘宝",
+        "url": "https://item.taobao.com/example009",
+        "platformPrice": 278,
+        "collectedAt": "2026-06-14"
+      },
+      {
+        "platform": "京东",
+        "url": "https://item.jd.com/example009",
+        "platformPrice": 298,
+        "collectedAt": "2026-06-14"
+      }
+    ],
+    "dataVersion": "2026-06"
+  },
+  {
+    "id": "byhealth-sangao-astragalus-tea",
+    "name": "汤臣倍健降三高黄芪茶",
+    "brand": "汤臣倍健",
+    "manufacturerType": "specialty_health",
+    "functionCategory": [
+      "sangan"
+    ],
+    "materialCategory": "astragalus",
+    "dosageForm": "tea",
+    "specification": "3g×40袋/盒",
+    "packaging": "gift_box",
+    "targetPopulation": [
+      "elderly",
+      "adult"
+    ],
+    "efficacyLevel": "health",
+    "certification": "sc_food",
+    "origin": "山西浑源",
+    "salesChannel": "online_only",
+    "priceMin": 158,
+    "priceMax": 198,
+    "profitMargin": 42,
+    "referenceSales": null,
+    "salesDataType": null,
+    "salesDataPeriod": null,
+    "description": "黄芪甲苷含量≥0.08%，辅助调节血压血脂",
+    "listingUrls": [
+      {
+        "platform": "淘宝",
+        "url": "https://item.taobao.com/example010",
+        "platformPrice": 168,
+        "collectedAt": "2026-06-15"
+      }
+    ],
+    "dataVersion": "2026-06"
+  }
+];

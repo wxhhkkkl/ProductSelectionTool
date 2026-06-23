@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>药食同源电商选品工具</title>
+  <link rel="stylesheet" href="css/reset.css">
+  <link rel="stylesheet" href="css/layout.css">
+  <link rel="stylesheet" href="css/components.css">
+  <link rel="stylesheet" href="css/responsive.css">
+</head>
+<body>
+
+  <!-- Header -->
+  <header class="app-header">
+    <span class="logo">🌿 药食同源选品</span>
+    <span class="subtitle" id="data-info">加载中...</span>
+  </header>
+
+  <!-- Body -->
+  <div class="app-body">
+    <!-- Filter Sidebar -->
+    <aside class="sidebar" id="filter-panel">
+      <div class="filter-actions">
+        <button id="filter-reset">重置筛选</button>
+      </div>
+    </aside>
+
+    <!-- Main Content -->
+    <main class="main-content">
+      <!-- Toolbar -->
+      <div class="toolbar" id="toolbar">
+        <div class="search-bar" id="search-bar-container"></div>
+        <div class="sort-dropdown">
+          <select id="sort-select">
+            <option value="sales_desc">销量降序</option>
+            <option value="price_asc">价格升序</option>
+            <option value="price_desc">价格降序</option>
+            <option value="profit_desc">利润降序</option>
+          </select>
+        </div>
+        <span id="result-count" style="font-size:13px;color:var(--color-text-secondary);"></span>
+      </div>
+
+      <!-- Product List -->
+      <div class="product-list-container" id="product-list"></div>
+    </main>
+  </div>
+
+  <!-- Compare Bar (bottom) -->
+  <div class="compare-bar" id="compare-bar">
+    <span id="compare-count">已选 0 个产品</span>
+    <button id="compare-btn" disabled>开始对比（需选2-4个）</button>
+    <button id="compare-clear">清除选择</button>
+  </div>
+
+  <!-- Detail Overlay -->
+  <div class="overlay hidden" id="detail-overlay">
+    <div class="overlay-panel detail-panel" id="detail-panel"></div>
+  </div>
+
+  <!-- Compare Overlay -->
+  <div class="overlay hidden" id="compare-overlay">
+    <div class="overlay-panel compare-panel" id="compare-panel"></div>
+  </div>
+
+  <!-- Mobile filter toggle -->
+  <button id="mobile-filter-toggle" style="display:none;position:fixed;bottom:20px;right:20px;z-index:999;width:48px;height:48px;border-radius:50%;background:var(--color-primary);color:white;border:none;font-size:20px;box-shadow:var(--shadow-lg);">☰</button>
+
+  <!-- Scripts: dependency order matters -->
+  <!-- 1. Utilities -->
+  <script src="js/utils/dom.js"></script>
+  <script src="js/utils/format.js"></script>
+  <script src="js/utils/storage.js"></script>
+
+  <!-- 2. Data Layer -->
+  <script src="js/data/schema.js"></script>
+  <script src="js/data/store.js"></script>
+  <script src="js/data/loader.js"></script>
+
+  <!-- 3. Engines -->
+  <script src="js/engine/filter.js"></script>
+  <script src="js/engine/search.js"></script>
+  <script src="js/engine/sort.js"></script>
+
+  <!-- 4. UI Components -->
+  <script src="js/ui/filter-panel.js"></script>
+  <script src="js/ui/search-bar.js"></script>
+  <script src="js/ui/product-list.js"></script>
+  <script src="js/ui/product-detail.js"></script>
+  <script src="js/ui/compare-view.js"></script>
+
+  <!-- 5. App Controller -->
+  <script src="js/app.js"></script>
+
+  <!-- 6. Data (inline sample data for standalone use) -->
+  <script src="tests/fixtures/products.jsonp.js"></script>
+
+</body>
+</html>

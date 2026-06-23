@@ -1,0 +1,19 @@
+{
+  "name": "product-selection-tool",
+  "version": "1.0.0",
+  "description": "药食同源电商选品工具 - Pure H5 SPA for medicinal-food product selection",
+  "private": true,
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:coverage": "vitest run --coverage",
+    "test:e2e": "playwright test",
+    "serve": "npx serve ."
+  },
+  "devDependencies": {
+    "vitest": "^2.1.0",
+    "@vitest/coverage-v8": "^2.1.0",
+    "playwright": "^1.48.0",
+    "jsdom": "^25.0.0"
+  }
+}

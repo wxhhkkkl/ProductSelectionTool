@@ -213,6 +213,14 @@ App.Engine = App.Engine || {};
   }
 
   /**
+   * Get all indexed product IDs.
+   * @returns {string[]}
+   */
+  function getAllIds() {
+    return allIds.slice();
+  }
+
+  /**
    * Reset all indexes.
    */
   function reset() {
@@ -226,6 +234,7 @@ App.Engine = App.Engine || {};
     filter: filter,
     getDimensionValues: getDimensionValues,
     getTotalCount: getTotalCount,
+    getAllIds: getAllIds,
     reset: reset
   };
 })();

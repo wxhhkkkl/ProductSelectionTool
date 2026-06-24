@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<title>Diagnostic Test</title>
+<style>
+body { font-family: sans-serif; padding: 20px; }
+.pass { color: green; } .fail { color: red; } .info { color: blue; }
+pre { background: #f5f5f5; padding: 10px; max-height: 200px; overflow: auto; }
+</style>
+</head>
+<body>
+<h1>ProductSelectionTool Diagnostics</h1>
+<div id="results"></div>
+
+<script src="data/products/all-products.jsonp.js"></script>
+<script>
+var out = document.getElementById('results');
+function log(msg, cls) {
+  var p = document.createElement('p');
+  p.className = cls || 'info';
+  p.textContent = msg;
+  out.appendChild(p);
+}
+
+// Test 1: Data loaded?
+if (window.PRODUCT_DATA && Array.isArray(window.PRODUCT_DATA)) {
+  log('✅ Test 1 PASS: window.PRODUCT_DATA exists, ' + window.PRODUCT_DATA.length + ' products', 'pass');
+  // Show first product name
+  if (window.PRODUCT_DATA.length > 0) {
+    log('  First product: ' + window.PRODUCT_DATA[0].name + ' | ' + window.PRODUCT_DATA[0].brand, 'info');
+  }
+} else {
+  log('❌ Test 1 FAIL: window.PRODUCT_DATA is ' + typeof window.PRODUCT_DATA, 'fail');
+}
+
+// Test 2: Load scripts manually
+var scripts = [
+  'js/utils/dom.js',
+  'js/utils/format.js',
+  'js/utils/storage.js',
+  'js/data/schema.js',
+  'js/data/store.js',
+  'js/data/loader.js',
+  'js/engine/filter.js',
+  'js/engine/search.js',
+  'js/engine/sort.js',
+];
+var loaded = 0;
+var failed = [];
+scripts.forEach(function(src) {
+  var s = document.createElement('script');
+  s.src = src;
+  s.onload = function() { loaded++; };
+  s.onerror = function() { failed.push(src); };
+  document.head.appendChild(s);
+});
+
+// Test 3: After a delay, check if App namespace exists
+setTimeout(function() {
+  log('Scripts loaded: ' + loaded + '/' + scripts.length, 'info');
+  if (failed.length > 0) {
+    log('❌ Failed scripts: ' + failed.join(', '), 'fail');
+  }
+
+  if (window.App) {
+    log('✅ window.App exists', 'pass');
+    if (window.App.Data && window.App.Data.Schema) {
+      log('✅ App.Data.Schema exists', 'pass');
+    } else {
+      log('❌ App.Data.Schema missing', 'fail');
+    }
+    if (window.App.Data && window.App.Data.Store) {
+      log('✅ App.Data.Store exists', 'pass');
+    } else {
+      log('❌ App.Data.Store missing', 'fail');
+    }
+    if (window.App.Engine && window.App.Engine.Filter) {
+      log('✅ App.Engine.Filter exists', 'pass');
+    } else {
+      log('❌ App.Engine.Filter missing', 'fail');
+    }
+  } else {
+    log('❌ window.App is undefined', 'fail');
+  }
+
+  // Test 4: Try basic validation
+  if (window.App && window.App.Data && window.App.Data.Schema && window.PRODUCT_DATA) {
+    try {
+      var result = window.App.Data.Schema.validateProduct(window.PRODUCT_DATA[0]);
+      if (result.valid) {
+        log('✅ Test 4 PASS: First product passes validation', 'pass');
+      } else {
+        log('❌ Test 4 FAIL: Validation errors: ' + JSON.stringify(result.errors), 'fail');
+      }
+    } catch(e) {
+      log('❌ Test 4 ERROR: ' + e.message, 'fail');
+    }
+  }
+
+  // Test 5: Try IndexedDB
+  if (window.indexedDB) {
+    log('✅ IndexedDB is available', 'pass');
+  } else {
+    log('❌ IndexedDB NOT available', 'fail');
+  }
+}, 500);
+</script>
+</body>
+</html>

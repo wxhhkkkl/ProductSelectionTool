@@ -130,7 +130,9 @@ App.UI = App.UI || {};
       if (dim.type === 'multi') {
         var values = [];
         if (App.Engine && App.Engine.Filter) {
-          values = App.Engine.Filter.getDimensionValues(dim.key, currentIds.length > 0 ? currentIds : []);
+          // Use all IDs when no filter active, or filtered IDs when filter is applied
+          var baseIds = currentIds.length > 0 ? currentIds : App.Engine.Filter.getAllIds();
+          values = App.Engine.Filter.getDimensionValues(dim.key, baseIds);
         }
         if (values.length === 0) {
           // Show available values from global data
@@ -142,6 +144,10 @@ App.UI = App.UI || {};
           optionsContainer.appendChild(opt);
         }
       } else if (dim.type === 'range') {
+        // "不限" option — clears the range filter
+        var unlimitedOpt = createRangeOption(dim, '不限', null, null);
+        optionsContainer.appendChild(unlimitedOpt);
+
         if (dim.rangeKey === 'priceRange') {
           for (var p = 0; p < PRICE_RANGES.length; p++) {
             var pr = PRICE_RANGES[p];
@@ -190,7 +196,12 @@ App.UI = App.UI || {};
 
     function createRangeOption(dim, labelText, min, max) {
       var checked = false;
-      if (criteria[dim.rangeKey]) {
+      var isUnlimited = (min === null && max === null);
+
+      if (isUnlimited) {
+        // "不限" is checked when no range filter is set
+        checked = !criteria[dim.rangeKey];
+      } else if (criteria[dim.rangeKey]) {
         checked = criteria[dim.rangeKey].min === min && criteria[dim.rangeKey].max === max;
       }
 
@@ -204,7 +215,11 @@ App.UI = App.UI || {};
 
       input.addEventListener('change', function () {
         if (input.checked) {
-          criteria[dim.rangeKey] = { min: min, max: max === Infinity ? 999999 : max };
+          if (isUnlimited) {
+            delete criteria[dim.rangeKey];
+          } else {
+            criteria[dim.rangeKey] = { min: min, max: max === Infinity ? 999999 : max };
+          }
           emitChange();
         }
       });
@@ -272,7 +287,7 @@ App.UI = App.UI || {};
     function updateCounts(ids) {
       currentIds = ids;
       // Re-render sections to update counts
-      // (In production, we'd update counts without full re-render)
+      render();
     }
 
     function onChange(cb) {
@@ -289,7 +304,20 @@ App.UI = App.UI || {};
           { value: 'bone', count: 0 },
           { value: 'beauty', count: 0 },
           { value: 'sangan', count: 0 },
-          { value: 'kidney', count: 0 }
+          { value: 'kidney', count: 0 },
+          { value: 'throat', count: 0 },
+          { value: 'brain', count: 0 },
+          { value: 'antioxidant', count: 0 },
+          { value: 'eye', count: 0 },
+          { value: 'vitamin', count: 0 },
+          { value: 'herb', count: 0 },
+          { value: 'cereal', count: 0 },
+          { value: 'protein', count: 0 },
+          { value: 'probiotic', count: 0 },
+          { value: 'mineral', count: 0 },
+          { value: 'collagen', count: 0 },
+          { value: 'liver', count: 0 },
+          { value: 'bee', count: 0 }
         ],
         targetPopulation: [
           { value: 'children', count: 0 },

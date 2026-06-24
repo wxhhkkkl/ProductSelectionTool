@@ -32,6 +32,9 @@ App.Utils = App.Utils || {};
           el.addEventListener(key.substring(2).toLowerCase(), attrs[key]);
         } else if (key === 'html') {
           el.innerHTML = attrs[key];
+        } else if (key === 'checked' || key === 'disabled' || key === 'selected' || key === 'multiple' || key === 'readonly') {
+          // Boolean DOM properties — use property assignment, not setAttribute
+          el[key] = attrs[key];
         } else {
           el.setAttribute(key, attrs[key]);
         }

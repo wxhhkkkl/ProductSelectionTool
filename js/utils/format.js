@@ -91,8 +91,12 @@ App.Utils = App.Utils || {};
   };
 
   var FUNCTION_CATEGORY_LABELS = {
-    immunity: '免疫力', sleep: '助眠安神', digestion: '消化调理',
-    bone: '骨骼健康', beauty: '美容养颜', sangan: '降三高', kidney: '补肾益气'
+    immunity: '增强免疫力', sleep: '助眠安神', digestion: '健脾消食',
+    bone: '强健骨骼', beauty: '美容养颜', sangan: '调节三高', kidney: '补肾益气',
+    throat: '清咽润喉', brain: '益智健脑', antioxidant: '抗氧化', eye: '护眼明目',
+    vitamin: '基础维生素', herb: '中药食材', cereal: '谷物膳食',
+    protein: '蛋白质补充', probiotic: '益生菌', mineral: '矿物质补充', collagen: '胶原蛋白',
+    liver: '护肝养肝', bee: '蜂产品'
   };
 
   var MATERIAL_LABELS = {

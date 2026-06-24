@@ -26,7 +26,10 @@ App.Data = App.Data || {};
   };
 
   var VALID_FUNCTION_CATEGORIES = [
-    'immunity', 'sleep', 'digestion', 'bone', 'beauty', 'sangan', 'kidney'
+    'immunity', 'sleep', 'digestion', 'bone', 'beauty', 'sangan', 'kidney',
+    'throat', 'brain', 'antioxidant', 'eye',
+    'vitamin', 'herb', 'cereal', 'protein', 'probiotic', 'mineral', 'collagen',
+    'liver', 'bee'
   ];
 
   var VALID_MATERIAL_CATEGORIES = [

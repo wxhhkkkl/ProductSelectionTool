@@ -25,12 +25,6 @@ App.UI = App.UI || {};
       getLabel: F.formatPopulationLabel
     },
     {
-      key: 'efficacyLevel',
-      label: '疗效程度',
-      type: 'multi',
-      getLabel: F.formatEfficacyLabel
-    },
-    {
       key: 'dosageForm',
       label: '剂型',
       type: 'multi',
@@ -327,11 +321,6 @@ App.UI = App.UI || {};
           { value: 'male', count: 0 },
           { value: 'female', count: 0 },
           { value: 'general', count: 0 }
-        ],
-        efficacyLevel: [
-          { value: 'health', count: 0 },
-          { value: 'conditioning', count: 0 },
-          { value: 'treatment_adjunct', count: 0 }
         ],
         dosageForm: [
           { value: 'tablet', count: 0 },

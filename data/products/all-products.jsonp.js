@@ -25,15 +25,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=zhishutang001",
+        "url": "https://s.taobao.com/search?q=%E8%8A%9D%E7%B4%A0%E5%A0%82%E7%A0%B4%E5%A3%81%E7%81%B5%E8%8A%9D%E5%AD%A2%E5%AD%90%E7%B2%89",
         "platformPrice": 498,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
       },
       {
         "platform": "京东",
-        "url": "https://item.jd.com/zhishutang001.html",
+        "url": "https://search.jd.com/Search?keyword=%E8%8A%9D%E7%B4%A0%E5%A0%82%E7%A0%B4%E5%A3%81%E7%81%B5%E8%8A%9D%E5%AD%A2%E5%AD%90%E7%B2%89",
         "platformPrice": 528,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0001-f44d4d",
@@ -68,9 +68,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=zhikangji001",
+        "url": "https://s.taobao.com/search?q=%E8%8A%9D%E5%BA%B7%E7%BA%AA%E7%A0%B4%E5%A3%81%E7%81%B5%E8%8A%9D%E5%AD%A2%E5%AD%90%E7%B2%89%E8%83%B6%E5%9B%8A",
         "platformPrice": 298,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%8A%9D%E5%BA%B7%E7%BA%AA%E7%A0%B4%E5%A3%81%E7%81%B5%E8%8A%9D%E5%AD%A2%E5%AD%90%E7%B2%89%E8%83%B6%E5%9B%8A",
+        "platformPrice": 333,
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0002-c695de",
@@ -105,9 +111,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=chidashi001",
+        "url": "https://s.taobao.com/search?q=%E8%B5%A4%E5%A4%A7%E5%B8%88%E6%9C%89%E6%9C%BA%E7%81%B5%E8%8A%9D%E5%AD%A2%E5%AD%90%E7%B2%89",
         "platformPrice": 598,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%B5%A4%E5%A4%A7%E5%B8%88%E6%9C%89%E6%9C%BA%E7%81%B5%E8%8A%9D%E5%AD%A2%E5%AD%90%E7%B2%89",
+        "platformPrice": 648,
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0003-529df6",
@@ -142,9 +154,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=xianzhilou001",
+        "url": "https://s.taobao.com/search?q=%E4%BB%99%E8%8A%9D%E6%A5%BC%E6%9C%89%E6%9C%BA%E7%81%B5%E8%8A%9D%E5%AD%A2%E5%AD%90%E7%B2%89",
         "platformPrice": 398,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E4%BB%99%E8%8A%9D%E6%A5%BC%E6%9C%89%E6%9C%BA%E7%81%B5%E8%8A%9D%E5%AD%A2%E5%AD%90%E7%B2%89",
+        "platformPrice": 428,
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0004-288323",
@@ -179,9 +197,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=shouxiangu001",
+        "url": "https://s.taobao.com/search?q=%E5%AF%BF%E4%BB%99%E8%B0%B7%E7%A0%B4%E5%A3%81%E7%81%B5%E8%8A%9D%E5%AD%A2%E5%AD%90%E7%B2%89",
         "platformPrice": 498,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%AF%BF%E4%BB%99%E8%B0%B7%E7%A0%B4%E5%A3%81%E7%81%B5%E8%8A%9D%E5%AD%A2%E5%AD%90%E7%B2%89",
+        "platformPrice": 563,
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0005-6e09bd",
@@ -216,9 +240,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=xiuzheng001",
+        "url": "https://s.taobao.com/search?q=%E4%BF%AE%E6%AD%A3%E7%A0%B4%E5%A3%81%E7%81%B5%E8%8A%9D%E5%AD%A2%E5%AD%90%E7%B2%89",
         "platformPrice": 258,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%E7%A0%B4%E5%A3%81%E7%81%B5%E8%8A%9D%E5%AD%A2%E5%AD%90%E7%B2%89",
+        "platformPrice": 263,
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0006-9ce024",
@@ -254,15 +284,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=trtlingzhi001",
+        "url": "https://s.taobao.com/search?q=%E5%90%8C%E4%BB%81%E5%A0%82%E7%81%B5%E8%8A%9D%E5%AD%A2%E5%AD%90%E7%B2%89%E8%83%B6%E5%9B%8A",
         "platformPrice": 258,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
       },
       {
         "platform": "京东",
-        "url": "https://item.jd.com/trtlingzhi001.html",
+        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%E7%81%B5%E8%8A%9D%E5%AD%A2%E5%AD%90%E7%B2%89%E8%83%B6%E5%9B%8A",
         "platformPrice": 268,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0007-1cf552",
@@ -297,9 +327,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=hqytlingzhi001",
+        "url": "https://s.taobao.com/search?q=%E8%83%A1%E5%BA%86%E4%BD%99%E5%A0%82%E7%81%B5%E8%8A%9D%E5%AD%A2%E5%AD%90%E7%B2%89",
         "platformPrice": 628,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%83%A1%E5%BA%86%E4%BD%99%E5%A0%82%E7%81%B5%E8%8A%9D%E5%AD%A2%E5%AD%90%E7%B2%89",
+        "platformPrice": 713,
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0008-5b3510",
@@ -336,15 +372,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=trthuangqi001",
+        "url": "https://s.taobao.com/search?q=%E5%90%8C%E4%BB%81%E5%A0%82%E9%BB%84%E8%8A%AA%E7%B2%BE%E5%8F%A3%E6%9C%8D%E6%B6%B2",
         "platformPrice": 188,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
       },
       {
         "platform": "京东",
-        "url": "https://item.jd.com/trthuangqi001.html",
+        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%E9%BB%84%E8%8A%AA%E7%B2%BE%E5%8F%A3%E6%9C%8D%E6%B6%B2",
         "platformPrice": 198,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0009-1cf552",
@@ -381,9 +417,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=gubentang001",
+        "url": "https://s.taobao.com/search?q=%E5%9B%BA%E6%9C%AC%E5%A0%82%E9%BB%84%E8%8A%AA%E5%85%9A%E5%8F%82%E8%B1%86%E6%B5%86%E7%B2%89",
         "platformPrice": 69,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%9B%BA%E6%9C%AC%E5%A0%82%E9%BB%84%E8%8A%AA%E5%85%9A%E5%8F%82%E8%B1%86%E6%B5%86%E7%B2%89",
+        "platformPrice": 74,
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0010-518c5e",
@@ -420,9 +462,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=qilixiang001",
+        "url": "https://s.taobao.com/search?q=%E6%9D%9E%E9%87%8C%E9%A6%99%E9%BB%84%E8%8A%AA%E5%88%87%E7%89%87",
         "platformPrice": 35,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%9D%9E%E9%87%8C%E9%A6%99%E9%BB%84%E8%8A%AA%E5%88%87%E7%89%87",
+        "platformPrice": 39,
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0011-5f55de",
@@ -457,9 +505,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=renhehuangqi001",
+        "url": "https://s.taobao.com/search?q=%E4%BB%81%E5%92%8C%E9%BB%84%E8%8A%AA%E5%8F%A3%E6%9C%8D%E6%B6%B2",
         "platformPrice": 148,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E4%BB%81%E5%92%8C%E9%BB%84%E8%8A%AA%E5%8F%A3%E6%9C%8D%E6%B6%B2",
+        "platformPrice": 158,
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0012-53c812",
@@ -495,15 +549,21 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=fudonghai001",
+        "url": "https://s.taobao.com/search?q=%E7%A6%8F%E4%B8%9C%E6%B5%B7%E9%85%B8%E6%9E%A3%E4%BB%81%E8%86%8F",
         "platformPrice": 39,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
       },
       {
         "platform": "抖音电商",
         "url": "https://haohuo.jinritemai.com/views/product/fudonghai001",
         "platformPrice": 35,
         "collectedAt": "2026-06-15"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%A6%8F%E4%B8%9C%E6%B5%B7%E9%85%B8%E6%9E%A3%E4%BB%81%E8%86%8F",
+        "platformPrice": 39,
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0013-8ee3d7",
@@ -538,9 +598,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=fudonghai002",
+        "url": "https://s.taobao.com/search?q=%E7%A6%8F%E4%B8%9C%E6%B5%B7%E9%85%B8%E6%9E%A3%E4%BB%81%E5%8E%9F%E6%B5%86%E5%B0%8F%E7%9D%A1%E7%93%B6",
         "platformPrice": 79,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%A6%8F%E4%B8%9C%E6%B5%B7%E9%85%B8%E6%9E%A3%E4%BB%81%E5%8E%9F%E6%B5%86%E5%B0%8F%E7%9D%A1%E7%93%B6",
+        "platformPrice": 84,
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0014-8ee3d7",
@@ -574,15 +640,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=trtsuanzaoren001",
+        "url": "https://s.taobao.com/search?q=%E5%90%8C%E4%BB%81%E5%A0%82%E8%A5%BF%E6%B4%8B%E5%8F%82%E9%85%B8%E6%9E%A3%E4%BB%81%E8%86%8F",
         "platformPrice": 118,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
       },
       {
         "platform": "京东",
-        "url": "https://item.jd.com/trtsuanzaoren001.html",
+        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%E8%A5%BF%E6%B4%8B%E5%8F%82%E9%85%B8%E6%9E%A3%E4%BB%81%E8%86%8F",
         "platformPrice": 128,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0015-1cf552",
@@ -617,9 +683,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=leiyunshang001",
+        "url": "https://s.taobao.com/search?q=%E9%9B%B7%E5%85%81%E4%B8%8A%E9%85%B8%E6%9E%A3%E4%BB%81%E8%86%8F",
         "platformPrice": 118,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%9B%B7%E5%85%81%E4%B8%8A%E9%85%B8%E6%9E%A3%E4%BB%81%E8%86%8F",
+        "platformPrice": 118,
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0016-caad68",
@@ -655,9 +727,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=fhctsuanzaoren001",
+        "url": "https://s.taobao.com/search?q=%E6%96%B9%E5%9B%9E%E6%98%A5%E5%A0%82%E9%85%B8%E6%9E%A3%E4%BB%81%E8%86%8F",
         "platformPrice": 138,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%96%B9%E5%9B%9E%E6%98%A5%E5%A0%82%E9%85%B8%E6%9E%A3%E4%BB%81%E8%86%8F",
+        "platformPrice": 138,
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0017-324cb4",
@@ -693,9 +771,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=yiling001",
+        "url": "https://s.taobao.com/search?q=%E4%BB%A5%E5%B2%AD%E8%8D%AF%E4%B8%9A%E6%99%9A%E5%BF%85%E5%AE%89%E7%BA%A2%E5%8F%82%E7%9F%B3%E6%A6%B4%E9%A5%AE",
         "platformPrice": 99,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E4%BB%A5%E5%B2%AD%E8%8D%AF%E4%B8%9A%E6%99%9A%E5%BF%85%E5%AE%89%E7%BA%A2%E5%8F%82%E7%9F%B3%E6%A6%B4%E9%A5%AE",
+        "platformPrice": 109,
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0018-04bc54",
@@ -731,9 +815,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=ziranzhiyao001",
+        "url": "https://s.taobao.com/search?q=%E8%87%AA%E7%84%B6%E4%B9%8B%E9%92%A5%E8%A4%AA%E9%BB%91%E7%B4%A0%E7%BB%B4%E7%94%9F%E7%B4%A0B6%E7%89%87",
         "platformPrice": 89,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%87%AA%E7%84%B6%E4%B9%8B%E9%92%A5%E8%A4%AA%E9%BB%91%E7%B4%A0%E7%BB%B4%E7%94%9F%E7%B4%A0B6%E7%89%87",
+        "platformPrice": 104,
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0019-60d3cb",
@@ -767,9 +857,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=olly001",
+        "url": "https://s.taobao.com/search?q=OLLY%E8%A4%AA%E9%BB%91%E7%B4%A0%E7%9D%A1%E7%9C%A0%E8%BD%AF%E7%B3%96",
         "platformPrice": 129,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=OLLY%E8%A4%AA%E9%BB%91%E7%B4%A0%E7%9D%A1%E7%9C%A0%E8%BD%AF%E7%B3%96",
+        "platformPrice": 139,
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0020-bf1ecf",
@@ -804,9 +900,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=vitafusion001",
+        "url": "https://s.taobao.com/search?q=vitafusion%E8%A4%AA%E9%BB%91%E7%B4%A0%E8%BD%AF%E7%B3%96",
         "platformPrice": 119,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=vitafusion%E8%A4%AA%E9%BB%91%E7%B4%A0%E8%BD%AF%E7%B3%96",
+        "platformPrice": 119,
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0021-543fbe",
@@ -843,15 +945,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=jiangzhong001",
+        "url": "https://s.taobao.com/search?q=%E6%B1%9F%E4%B8%AD%E5%81%A5%E8%83%83%E6%B6%88%E9%A3%9F%E7%89%87",
         "platformPrice": 19,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
       },
       {
         "platform": "京东",
-        "url": "https://item.jd.com/jiangzhong001.html",
+        "url": "https://search.jd.com/Search?keyword=%E6%B1%9F%E4%B8%AD%E5%81%A5%E8%83%83%E6%B6%88%E9%A3%9F%E7%89%87",
         "platformPrice": 22,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0022-e1ae57",
@@ -887,9 +989,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=jiangzhong002",
+        "url": "https://s.taobao.com/search?q=%E6%B1%9F%E4%B8%AD%E7%8C%B4%E5%A7%91%E7%B1%B3%E7%A8%80",
         "platformPrice": 128,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%B1%9F%E4%B8%AD%E7%8C%B4%E5%A7%91%E7%B1%B3%E7%A8%80",
+        "platformPrice": 133,
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0023-e1ae57",
@@ -924,9 +1032,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=trtshanzha001",
+        "url": "https://s.taobao.com/search?q=%E5%90%8C%E4%BB%81%E5%A0%82%E5%A4%A7%E5%B1%B1%E6%A5%82%E4%B8%B8",
         "platformPrice": 18,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%E5%A4%A7%E5%B1%B1%E6%A5%82%E4%B8%B8",
+        "platformPrice": 19,
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0024-1cf552",
@@ -961,9 +1075,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=xiuzheng002",
+        "url": "https://s.taobao.com/search?q=%E4%BF%AE%E6%AD%A3%E9%B8%A1%E5%86%85%E9%87%91%E5%B1%B1%E6%A5%82%E5%92%80%E5%9A%BC%E7%89%87",
         "platformPrice": 48,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E4%BF%AE%E6%AD%A3%E9%B8%A1%E5%86%85%E9%87%91%E5%B1%B1%E6%A5%82%E5%92%80%E5%9A%BC%E7%89%87",
+        "platformPrice": 53,
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0025-9ce024",
@@ -1000,9 +1120,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=renhe002",
+        "url": "https://s.taobao.com/search?q=%E4%BB%81%E5%92%8C%E7%9B%8A%E7%94%9F%E8%8F%8C%E5%9B%BA%E4%BD%93%E9%A5%AE%E6%96%99",
         "platformPrice": 88,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E4%BB%81%E5%92%8C%E7%9B%8A%E7%94%9F%E8%8F%8C%E5%9B%BA%E4%BD%93%E9%A5%AE%E6%96%99",
+        "platformPrice": 88,
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0026-53c812",
@@ -1038,15 +1164,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=tcbj001",
+        "url": "https://s.taobao.com/search?q=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%E7%9B%8A%E7%94%9F%E8%8F%8C%E5%9B%BA%E4%BD%93%E9%A5%AE%E6%96%99",
         "platformPrice": 158,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
       },
       {
         "platform": "京东",
-        "url": "https://item.jd.com/tcbj001.html",
+        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%E7%9B%8A%E7%94%9F%E8%8F%8C%E5%9B%BA%E4%BD%93%E9%A5%AE%E6%96%99",
         "platformPrice": 168,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0027-69248c",
@@ -1081,9 +1207,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=bishengyuan001",
+        "url": "https://s.taobao.com/search?q=%E7%A2%A7%E7%94%9F%E6%BA%90%E5%B8%B8%E6%B6%A6%E8%8C%B6",
         "platformPrice": 35,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%A2%A7%E7%94%9F%E6%BA%90%E5%B8%B8%E6%B6%A6%E8%8C%B6",
+        "platformPrice": 39,
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0028-170683",
@@ -1119,9 +1251,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=huaishantang001",
+        "url": "https://s.taobao.com/search?q=%E6%80%80%E5%B1%B1%E5%A0%82%E9%93%81%E6%A3%8D%E5%B1%B1%E8%8D%AF%E7%B2%89",
         "platformPrice": 78,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%80%80%E5%B1%B1%E5%A0%82%E9%93%81%E6%A3%8D%E5%B1%B1%E8%8D%AF%E7%B2%89",
+        "platformPrice": 78,
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0029-e910d4",
@@ -1156,15 +1294,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=tcbj002",
+        "url": "https://s.taobao.com/search?q=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%E6%B0%A8%E7%B3%96%E8%BD%AF%E9%AA%A8%E7%B4%A0%E9%92%99%E7%89%87",
         "platformPrice": 198,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
       },
       {
         "platform": "京东",
-        "url": "https://item.jd.com/tcbj002.html",
+        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%E6%B0%A8%E7%B3%96%E8%BD%AF%E9%AA%A8%E7%B4%A0%E9%92%99%E7%89%87",
         "platformPrice": 218,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0030-69248c",
@@ -1198,9 +1336,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=jianliduo001",
+        "url": "https://s.taobao.com/search?q=%E5%81%A5%E5%8A%9B%E5%A4%9A%E6%B0%A8%E7%B3%96%E8%BD%AF%E9%AA%A8%E7%B4%A0%E9%92%99%E7%89%87",
         "platformPrice": 238,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%81%A5%E5%8A%9B%E5%A4%9A%E6%B0%A8%E7%B3%96%E8%BD%AF%E9%AA%A8%E7%B4%A0%E9%92%99%E7%89%87",
+        "platformPrice": 248,
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0031-ee9546",
@@ -1238,15 +1382,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=trtliuwei001",
+        "url": "https://s.taobao.com/search?q=%E5%90%8C%E4%BB%81%E5%A0%82%E5%85%AD%E5%91%B3%E5%9C%B0%E9%BB%84%E4%B8%B8",
         "platformPrice": 38,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
       },
       {
         "platform": "京东",
-        "url": "https://item.jd.com/trtliuwei001.html",
+        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%E5%85%AD%E5%91%B3%E5%9C%B0%E9%BB%84%E4%B8%B8",
         "platformPrice": 42,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0032-1cf552",
@@ -1281,9 +1425,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=gaierqi001",
+        "url": "https://s.taobao.com/search?q=%E9%92%99%E5%B0%94%E5%A5%87%E6%B7%BB%E4%BD%B3%E7%89%87",
         "platformPrice": 118,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%92%99%E5%B0%94%E5%A5%87%E6%B7%BB%E4%BD%B3%E7%89%87",
+        "platformPrice": 119,
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0033-19f137",
@@ -1320,9 +1470,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=diqiao001",
+        "url": "https://s.taobao.com/search?q=%E8%BF%AA%E5%B7%A7%E9%92%99%E7%BB%B4%E7%94%9F%E7%B4%A0D%E5%92%80%E5%9A%BC%E7%89%87",
         "platformPrice": 89,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%BF%AA%E5%B7%A7%E9%92%99%E7%BB%B4%E7%94%9F%E7%B4%A0D%E5%92%80%E5%9A%BC%E7%89%87",
+        "platformPrice": 94,
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0034-f7867b",
@@ -1358,15 +1514,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=taohuaji001",
+        "url": "https://s.taobao.com/search?q=%E4%B8%9C%E9%98%BF%E9%98%BF%E8%83%B6%E6%A1%83%E8%8A%B1%E5%A7%AC%E9%98%BF%E8%83%B6%E7%B3%95",
         "platformPrice": 298,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
       },
       {
         "platform": "京东",
-        "url": "https://item.jd.com/taohuaji001.html",
+        "url": "https://search.jd.com/Search?keyword=%E4%B8%9C%E9%98%BF%E9%98%BF%E8%83%B6%E6%A1%83%E8%8A%B1%E5%A7%AC%E9%98%BF%E8%83%B6%E7%B3%95",
         "platformPrice": 318,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0035-b0ec25",
@@ -1403,15 +1559,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=ejiao001",
+        "url": "https://s.taobao.com/search?q=%E4%B8%9C%E9%98%BF%E9%98%BF%E8%83%B6%E9%98%BF%E8%83%B6%E5%9D%97",
         "platformPrice": 998,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
       },
       {
         "platform": "京东",
-        "url": "https://item.jd.com/ejiao001.html",
+        "url": "https://search.jd.com/Search?keyword=%E4%B8%9C%E9%98%BF%E9%98%BF%E8%83%B6%E9%98%BF%E8%83%B6%E5%9D%97",
         "platformPrice": 1080,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0036-b0ec25",
@@ -1446,9 +1602,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=gubentang002",
+        "url": "https://s.taobao.com/search?q=%E5%9B%BA%E6%9C%AC%E5%A0%82%E4%BA%BA%E5%8F%82%E9%98%BF%E8%83%B6%E5%8F%A3%E6%9C%8D%E6%B6%B2",
         "platformPrice": 198,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%9B%BA%E6%9C%AC%E5%A0%82%E4%BA%BA%E5%8F%82%E9%98%BF%E8%83%B6%E5%8F%A3%E6%9C%8D%E6%B6%B2",
+        "platformPrice": 213,
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0037-518c5e",
@@ -1483,9 +1645,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=trtejiao001",
+        "url": "https://s.taobao.com/search?q=%E5%90%8C%E4%BB%81%E5%A0%82%E9%98%BF%E8%83%B6%E7%B3%95",
         "platformPrice": 368,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%E9%98%BF%E8%83%B6%E7%B3%95",
+        "platformPrice": 398,
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0038-1cf552",
@@ -1521,9 +1689,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=tcbj003",
+        "url": "https://s.taobao.com/search?q=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%E8%83%B6%E5%8E%9F%E8%9B%8B%E7%99%BD%E8%82%BD",
         "platformPrice": 238,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%E8%83%B6%E5%8E%9F%E8%9B%8B%E7%99%BD%E8%82%BD",
+        "platformPrice": 248,
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0039-69248c",
@@ -1560,9 +1734,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=qilixiang002",
+        "url": "https://s.taobao.com/search?q=%E6%9D%9E%E9%87%8C%E9%A6%99%E9%BB%91%E6%9E%B8%E6%9D%9E%E5%8E%9F%E6%B5%86",
         "platformPrice": 69,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%9D%9E%E9%87%8C%E9%A6%99%E9%BB%91%E6%9E%B8%E6%9D%9E%E5%8E%9F%E6%B5%86",
+        "platformPrice": 69,
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0040-5f55de",
@@ -1597,9 +1777,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=jiuzhitang001",
+        "url": "https://s.taobao.com/search?q=%E4%B9%9D%E8%8A%9D%E5%A0%82%E9%A9%B4%E8%83%B6%E8%A1%A5%E8%A1%80%E9%A2%97%E7%B2%92",
         "platformPrice": 88,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E4%B9%9D%E8%8A%9D%E5%A0%82%E9%A9%B4%E8%83%B6%E8%A1%A5%E8%A1%80%E9%A2%97%E7%B2%92",
+        "platformPrice": 98,
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0041-57e569",
@@ -1634,9 +1820,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=aodong001",
+        "url": "https://s.taobao.com/search?q=%E6%95%96%E4%B8%9C%E5%BD%93%E5%BD%92%E8%A1%A5%E8%A1%80%E5%8F%A3%E6%9C%8D%E6%B6%B2",
         "platformPrice": 128,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%95%96%E4%B8%9C%E5%BD%93%E5%BD%92%E8%A1%A5%E8%A1%80%E5%8F%A3%E6%9C%8D%E6%B6%B2",
+        "platformPrice": 128,
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0042-ff60b5",
@@ -1672,15 +1864,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=yunnanbaiyao001",
+        "url": "https://s.taobao.com/search?q=%E4%BA%91%E5%8D%97%E7%99%BD%E8%8D%AF%E4%B8%89%E4%B8%83%E7%B2%89",
         "platformPrice": 298,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
       },
       {
         "platform": "京东",
-        "url": "https://item.jd.com/yunnanbaiyao001.html",
+        "url": "https://search.jd.com/Search?keyword=%E4%BA%91%E5%8D%97%E7%99%BD%E8%8D%AF%E4%B8%89%E4%B8%83%E7%B2%89",
         "platformPrice": 328,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0043-11ce9e",
@@ -1715,9 +1907,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=trtsanqi001",
+        "url": "https://s.taobao.com/search?q=%E5%90%8C%E4%BB%81%E5%A0%82%E4%B8%89%E4%B8%83%E7%B2%89",
         "platformPrice": 258,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%E4%B8%89%E4%B8%83%E7%B2%89",
+        "platformPrice": 263,
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0044-1cf552",
@@ -1753,9 +1951,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=tianshili001",
+        "url": "https://s.taobao.com/search?q=%E5%A4%A9%E5%A3%AB%E5%8A%9B%E5%A4%8D%E6%96%B9%E4%B8%B9%E5%8F%82%E6%BB%B4%E4%B8%B8",
         "platformPrice": 32,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%A4%A9%E5%A3%AB%E5%8A%9B%E5%A4%8D%E6%96%B9%E4%B8%B9%E5%8F%82%E6%BB%B4%E4%B8%B8",
+        "platformPrice": 35,
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0045-b81ea7",
@@ -1790,9 +1994,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=bishengyuan002",
+        "url": "https://s.taobao.com/search?q=%E7%A2%A7%E7%94%9F%E6%BA%90%E5%B1%B1%E6%A5%82%E5%86%B3%E6%98%8E%E5%AD%90%E8%8C%B6",
         "platformPrice": 35,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%A2%A7%E7%94%9F%E6%BA%90%E5%B1%B1%E6%A5%82%E5%86%B3%E6%98%8E%E5%AD%90%E8%8C%B6",
+        "platformPrice": 35,
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0046-170683",
@@ -1826,9 +2036,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=trtshanzha002",
+        "url": "https://s.taobao.com/search?q=%E5%90%8C%E4%BB%81%E5%A0%82%E5%B1%B1%E6%A5%82%E9%99%8D%E5%8E%8B%E8%8C%B6",
         "platformPrice": 68,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%90%8C%E4%BB%81%E5%A0%82%E5%B1%B1%E6%A5%82%E9%99%8D%E5%8E%8B%E8%8C%B6",
+        "platformPrice": 68,
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0047-1cf552",
@@ -1863,9 +2079,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=tcbj004",
+        "url": "https://s.taobao.com/search?q=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%E9%B1%BC%E6%B2%B9%E8%BD%AF%E8%83%B6%E5%9B%8A",
         "platformPrice": 158,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%E9%B1%BC%E6%B2%B9%E8%BD%AF%E8%83%B6%E5%9B%8A",
+        "platformPrice": 163,
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0048-69248c",
@@ -1900,9 +2122,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=baiyunshan001",
+        "url": "https://s.taobao.com/search?q=%E7%BB%9E%E8%82%A1%E8%93%9D%E6%80%BB%E8%8B%B7%E7%89%87",
         "platformPrice": 48,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%BB%9E%E8%82%A1%E8%93%9D%E6%80%BB%E8%8B%B7%E7%89%87",
+        "platformPrice": 53,
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0049-6e104c",
@@ -1938,9 +2166,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=renhe003",
+        "url": "https://s.taobao.com/search?q=%E4%BB%81%E5%92%8C%E8%82%BE%E5%AE%9D%E7%89%87",
         "platformPrice": 198,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E4%BB%81%E5%92%8C%E8%82%BE%E5%AE%9D%E7%89%87",
+        "platformPrice": 213,
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0050-53c812",
@@ -1977,9 +2211,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=zhongjing001",
+        "url": "https://s.taobao.com/search?q=%E4%BB%B2%E6%99%AF%E5%85%AD%E5%91%B3%E5%9C%B0%E9%BB%84%E4%B8%B8",
         "platformPrice": 35,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E4%BB%B2%E6%99%AF%E5%85%AD%E5%91%B3%E5%9C%B0%E9%BB%84%E4%B8%B8",
+        "platformPrice": 37,
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0051-e20f4f",
@@ -2014,9 +2254,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=jiuzhitang002",
+        "url": "https://s.taobao.com/search?q=%E4%B9%9D%E8%8A%9D%E5%A0%82%E5%85%AD%E5%91%B3%E5%9C%B0%E9%BB%84%E4%B8%B8",
         "platformPrice": 38,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E4%B9%9D%E8%8A%9D%E5%A0%82%E5%85%AD%E5%91%B3%E5%9C%B0%E9%BB%84%E4%B8%B8",
+        "platformPrice": 40,
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0052-57e569",
@@ -2052,9 +2298,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=huiren001",
+        "url": "https://s.taobao.com/search?q=%E6%B1%87%E4%BB%81%E8%82%BE%E5%AE%9D%E7%89%87",
         "platformPrice": 238,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%B1%87%E4%BB%81%E8%82%BE%E5%AE%9D%E7%89%87",
+        "platformPrice": 248,
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0053-72a2a6",
@@ -2091,9 +2343,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=gubentang003",
+        "url": "https://s.taobao.com/search?q=%E5%9B%BA%E6%9C%AC%E5%A0%82%E9%BB%84%E7%B2%BE%E6%9E%B8%E6%9D%9E%E8%8C%B6",
         "platformPrice": 69,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%9B%BA%E6%9C%AC%E5%A0%82%E9%BB%84%E7%B2%BE%E6%9E%B8%E6%9D%9E%E8%8C%B6",
+        "platformPrice": 69,
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0054-518c5e",
@@ -2128,9 +2386,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=aodong002",
+        "url": "https://s.taobao.com/search?q=%E6%95%96%E4%B8%9C%E7%8E%9B%E5%92%96%E7%89%87",
         "platformPrice": 118,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%95%96%E4%B8%9C%E7%8E%9B%E5%92%96%E7%89%87",
+        "platformPrice": 123,
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0055-ff60b5",
@@ -2165,9 +2429,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=kangenbei001",
+        "url": "https://s.taobao.com/search?q=%E5%BA%B7%E6%81%A9%E8%B4%9D%E7%8E%9B%E5%92%96%E5%92%80%E5%9A%BC%E7%89%87",
         "platformPrice": 98,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%BA%B7%E6%81%A9%E8%B4%9D%E7%8E%9B%E5%92%96%E5%92%80%E5%9A%BC%E7%89%87",
+        "platformPrice": 98,
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0056-27ac2e",
@@ -2202,9 +2472,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=taiji001",
+        "url": "https://s.taobao.com/search?q=%E5%A4%AA%E6%9E%81%E8%A1%A5%E8%82%BE%E7%9B%8A%E5%AF%BF%E8%83%B6%E5%9B%8A",
         "platformPrice": 108,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%A4%AA%E6%9E%81%E8%A1%A5%E8%82%BE%E7%9B%8A%E5%AF%BF%E8%83%B6%E5%9B%8A",
+        "platformPrice": 108,
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0057-ed2e8c",
@@ -2241,9 +2517,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=yanzhiwu001",
+        "url": "https://s.taobao.com/search?q=%E7%87%95%E4%B9%8B%E5%B1%8B%E7%A2%97%E7%87%95",
         "platformPrice": 498,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%87%95%E4%B9%8B%E5%B1%8B%E7%A2%97%E7%87%95",
+        "platformPrice": 548,
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0058-36dc9f",
@@ -2279,9 +2561,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=xiaoxiandun001",
+        "url": "https://s.taobao.com/search?q=%E5%B0%8F%E4%BB%99%E7%82%96%E9%B2%9C%E7%82%96%E7%87%95%E7%AA%9D",
         "platformPrice": 498,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%B0%8F%E4%BB%99%E7%82%96%E9%B2%9C%E7%82%96%E7%87%95%E7%AA%9D",
+        "platformPrice": 598,
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0059-5c5f06",
@@ -2316,9 +2604,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=senshan001",
+        "url": "https://s.taobao.com/search?q=%E6%A3%AE%E5%B1%B1%E9%93%81%E7%9A%AE%E7%9F%B3%E6%96%9B",
         "platformPrice": 368,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%A3%AE%E5%B1%B1%E9%93%81%E7%9A%AE%E7%9F%B3%E6%96%9B",
+        "platformPrice": 383,
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0060-0aa498",
@@ -2355,9 +2649,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=qilixiang003",
+        "url": "https://s.taobao.com/search?q=%E6%9D%9E%E9%87%8C%E9%A6%99%E5%AE%81%E5%A4%8F%E6%9E%B8%E6%9D%9E",
         "platformPrice": 29,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%9D%9E%E9%87%8C%E9%A6%99%E5%AE%81%E5%A4%8F%E6%9E%B8%E6%9D%9E",
+        "platformPrice": 29,
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0061-5f55de",
@@ -2394,9 +2694,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=zhengguanzhuang001",
+        "url": "https://s.taobao.com/search?q=%E6%AD%A3%E5%AE%98%E5%BA%84%E9%AB%98%E4%B8%BD%E5%8F%82%E8%86%8F",
         "platformPrice": 498,
-        "collectedAt": "2026-06-15"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%AD%A3%E5%AE%98%E5%BA%84%E9%AB%98%E4%B8%BD%E5%8F%82%E8%86%8F",
+        "platformPrice": 548,
+        "collectedAt": "2026-06-25"
       }
     ],
     "id": "p0062-c3c1a6",
@@ -2434,9 +2740,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1463-cbe588",
+        "url": "https://s.taobao.com/search?q=%E9%87%91%E5%A5%A5%E5%8A%9B%E7%89%8C%E5%A4%A7%E8%B1%86%E5%BC%82%E9%BB%84%E9%85%AE%E7%BB%B4E%E8%BD%AF%E8%83%B6%E5%9B%8A",
         "platformPrice": 198,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%87%91%E5%A5%A5%E5%8A%9B%E7%89%8C%E5%A4%A7%E8%B1%86%E5%BC%82%E9%BB%84%E9%85%AE%E7%BB%B4E%E8%BD%AF%E8%83%B6%E5%9B%8A",
+        "platformPrice": 198,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "金奥力「金奥力牌大豆异黄酮维E软胶囊」主打美容养颜、基础维生素，采用胶囊剂型（50g（500mg*100粒））单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合女性、成人、通用人群使用。产地未知，全渠道销售。",
@@ -2472,9 +2784,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1372-9687c3",
+        "url": "https://s.taobao.com/search?q=%E6%88%90%E9%95%BF%E5%BF%AB%E4%B9%90%E7%89%8C%E5%A4%8D%E5%90%88%E7%BB%B4%E7%94%9F%E7%B4%A0%E8%BD%AF%E7%89%87%EF%BC%88%E6%9E%9C%E5%91%B3%E5%9E%8B%EF%BC%89",
         "platformPrice": 128,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%88%90%E9%95%BF%E5%BF%AB%E4%B9%90%E7%89%8C%E5%A4%8D%E5%90%88%E7%BB%B4%E7%94%9F%E7%B4%A0%E8%BD%AF%E7%89%87%EF%BC%88%E6%9E%9C%E5%91%B3%E5%9E%8B%EF%BC%89",
+        "platformPrice": 128,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "成长快乐「成长快乐牌复合维生素软片（果味型）」主打基础维生素，采用片剂剂型（240g）单盒装。该产品获国家蓝帽保健食品认证，定位为日常保健。适合儿童、成人、通用人群使用。产地未知，全渠道销售。",
@@ -2509,9 +2827,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1451-4c1ba8",
+        "url": "https://s.taobao.com/search?q=%E9%87%91%E5%A5%A5%E5%8A%9B%E7%89%8C%E7%BA%B3%E8%B1%86%E7%BA%A2%E6%9B%B2%E8%83%B6%E5%9B%8A",
         "platformPrice": 58,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%87%91%E5%A5%A5%E5%8A%9B%E7%89%8C%E7%BA%B3%E8%B1%86%E7%BA%A2%E6%9B%B2%E8%83%B6%E5%9B%8A",
+        "platformPrice": 58,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "金奥力「金奥力牌纳豆红曲胶囊」主打增强免疫力，采用胶囊剂型（0.4g*100粒）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -2546,9 +2870,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1466-f8ff44",
+        "url": "https://s.taobao.com/search?q=%E7%BB%B4%E7%94%9F%E7%B4%A0E%E7%B1%BB",
         "platformPrice": 64,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%BB%B4%E7%94%9F%E7%B4%A0E%E7%B1%BB",
+        "platformPrice": 64,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "维生「维生素E类」主打基础维生素，采用片剂剂型（0.45g*100粒）单盒装。该产品获国家蓝帽保健食品认证，定位为日常保健。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -2583,9 +2913,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1409-3d95c1",
+        "url": "https://s.taobao.com/search?q=%E5%A4%A9%E5%A4%A9%E9%92%99%E5%92%80%E5%9A%BC%E7%89%87",
         "platformPrice": 39,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%A4%A9%E5%A4%A9%E9%92%99%E5%92%80%E5%9A%BC%E7%89%87",
+        "platformPrice": 39,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "天天钙咀「天天钙咀嚼片」主打强健骨骼，采用片剂剂型（1g*100片）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -2620,9 +2956,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1361-4316c8",
+        "url": "https://s.taobao.com/search?q=%E9%93%81%E9%94%8C%E9%92%99%E7%B1%BB",
         "platformPrice": 75,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%93%81%E9%94%8C%E9%92%99%E7%B1%BB",
+        "platformPrice": 75,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "铁锌钙类「铁锌钙类」主打增强免疫力，采用片剂剂型（1g*100片）单盒装。该产品获国家蓝帽保健食品认证，定位为日常保健。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -2658,9 +3000,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1358-109a56",
+        "url": "https://s.taobao.com/search?q=%E6%B5%B7%E7%8E%8B%E9%87%91%E6%A8%BD%E7%89%8C%E7%89%A1%E8%9B%8E%E5%A4%A7%E8%B1%86%E8%82%BD%E8%82%89%E7%A2%B1%E5%8F%A3%E6%9C%8D%E6%B6%B2",
         "platformPrice": 24,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%B5%B7%E7%8E%8B%E9%87%91%E6%A8%BD%E7%89%8C%E7%89%A1%E8%9B%8E%E5%A4%A7%E8%B1%86%E8%82%BD%E8%82%89%E7%A2%B1%E5%8F%A3%E6%9C%8D%E6%B6%B2",
+        "platformPrice": 24,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "海王「海王金樽牌牡蛎大豆肽肉碱口服液」主打补肾益气、护肝养肝，采用口服液剂型（50ml/瓶）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地广东深圳，全渠道销售。",
@@ -2696,9 +3044,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1418-4e87f4",
+        "url": "https://s.taobao.com/search?q=%E6%88%90%E9%95%BF%E5%BF%AB%E4%B9%90%E5%A4%9A%E7%A7%8D%E7%BB%B4%E7%94%9F%E7%B4%A0%E9%92%99%E5%92%80%E5%9A%BC%E7%89%87(%E5%B7%A7%E5%85%8B%E5%8A%9B%E5%91%B3)",
         "platformPrice": 137,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%88%90%E9%95%BF%E5%BF%AB%E4%B9%90%E5%A4%9A%E7%A7%8D%E7%BB%B4%E7%94%9F%E7%B4%A0%E9%92%99%E5%92%80%E5%9A%BC%E7%89%87(%E5%B7%A7%E5%85%8B%E5%8A%9B%E5%91%B3)",
+        "platformPrice": 137,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "成长快乐「成长快乐多种维生素钙咀嚼片(巧克力味)」主打强健骨骼，采用片剂剂型（1.5g*80片）单盒装。该产品获SC食品生产许可，定位为日常保健。适合儿童、成人、通用人群使用。产地未知，线上渠道专供。",
@@ -2735,9 +3089,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1511-4fc7ef",
+        "url": "https://s.taobao.com/search?q=%E6%88%90%E9%95%BF%E5%BF%AB%E4%B9%90%E5%A4%9A%E7%A7%8D%E7%BB%B4%E7%94%9F%E7%B4%A0%E9%94%8C%E5%92%80%E5%9A%BC%E7%89%87(%E7%89%9B%E5%A5%B6%E5%91%B3)",
         "platformPrice": 132,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%88%90%E9%95%BF%E5%BF%AB%E4%B9%90%E5%A4%9A%E7%A7%8D%E7%BB%B4%E7%94%9F%E7%B4%A0%E9%94%8C%E5%92%80%E5%9A%BC%E7%89%87(%E7%89%9B%E5%A5%B6%E5%91%B3)",
+        "platformPrice": 132,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "成长快乐「成长快乐多种维生素锌咀嚼片(牛奶味)」主打矿物质补充、基础维生素，采用片剂剂型（1.5g*80片）单盒装。该产品获SC食品生产许可，定位为日常保健。适合儿童、成人、通用人群使用。产地未知，线上渠道专供。",
@@ -2773,9 +3133,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1357-08226c",
+        "url": "https://s.taobao.com/search?q=%E9%92%99%E7%BB%B4%E7%94%9F%E7%B4%A0D%E7%89%87",
         "platformPrice": 37,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%92%99%E7%BB%B4%E7%94%9F%E7%B4%A0D%E7%89%87",
+        "platformPrice": 37,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "钙维「钙维生素D片」主打强健骨骼、矿物质补充，采用片剂剂型（100片）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -2810,9 +3176,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1448-e0b71a",
+        "url": "https://s.taobao.com/search?q=%E5%8D%93%E6%B8%85%E9%80%9F%E6%BA%B6%E8%8C%B6",
         "platformPrice": 248,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%8D%93%E6%B8%85%E9%80%9F%E6%BA%B6%E8%8C%B6",
+        "platformPrice": 248,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "卓清速溶「卓清速溶茶」主打增强免疫力，采用代用茶剂型（1g/袋*30支）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -2848,9 +3220,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1560-f8cffc",
+        "url": "https://s.taobao.com/search?q=%E6%9E%9C%E7%BB%B4%E5%BA%B7B%E6%97%8F%E7%BB%B4%E7%94%9F%E7%B4%A0%E5%90%AB%E7%89%87(%E6%88%90%E4%BA%BA)(%E9%AB%98%E8%A1%80%E5%8E%8B%E5%9E%8B)",
         "platformPrice": 50,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%9E%9C%E7%BB%B4%E5%BA%B7B%E6%97%8F%E7%BB%B4%E7%94%9F%E7%B4%A0%E5%90%AB%E7%89%87(%E6%88%90%E4%BA%BA)(%E9%AB%98%E8%A1%80%E5%8E%8B%E5%9E%8B)",
+        "platformPrice": 50,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "果维康「果维康B族维生素含片(成人)(高血压型)」主打调节三高、基础维生素，采用片剂剂型（48g(1.2g*40片)）单盒装。该产品获SC食品生产许可，定位为针对性调理。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -2885,9 +3263,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1456-357abf",
+        "url": "https://s.taobao.com/search?q=%E9%98%BF%E5%B0%94%E5%8F%91%E7%89%8C%E5%AF%8C%E9%93%AC%E5%A5%B6%E7%B2%89",
         "platformPrice": 59,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%98%BF%E5%B0%94%E5%8F%91%E7%89%8C%E5%AF%8C%E9%93%AC%E5%A5%B6%E7%B2%89",
+        "platformPrice": 59,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "阿尔发「阿尔发牌富铬奶粉」主打增强免疫力，采用粉剂剂型（400g（25g*16袋））单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -2922,9 +3306,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1353-7251a1",
+        "url": "https://s.taobao.com/search?q=%E4%BA%AC%E9%83%BD%E5%BF%B5%E6%85%88%E8%8F%B4%E6%9E%87%E6%9D%B7%E7%B3%96",
         "platformPrice": 18,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E4%BA%AC%E9%83%BD%E5%BF%B5%E6%85%88%E8%8F%B4%E6%9E%87%E6%9D%B7%E7%B3%96",
+        "platformPrice": 18,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "京都念慈「京都念慈菴枇杷糖」主打清咽润喉，采用颗粒剂剂型（45g(2.5g*18粒)）单盒装。该产品获SC食品生产许可，定位为针对性调理。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -2960,9 +3350,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1451-0c6fc1",
+        "url": "https://s.taobao.com/search?q=%E9%92%99%E7%BB%B4%E7%94%9F%E7%B4%A0D%E5%92%80%E5%9A%BC%E7%89%87(%E7%89%9B%E5%A5%B6%E5%91%B3)",
         "platformPrice": 88,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%92%99%E7%BB%B4%E7%94%9F%E7%B4%A0D%E5%92%80%E5%9A%BC%E7%89%87(%E7%89%9B%E5%A5%B6%E5%91%B3)",
+        "platformPrice": 88,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "钙维「钙维生素D咀嚼片(牛奶味)」主打强健骨骼、矿物质补充，采用片剂剂型（100g(2.0g/片*50片)）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -2997,9 +3393,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1451-50d2dd",
+        "url": "https://s.taobao.com/search?q=%E5%B0%8F%E8%B1%A1%E7%B1%B3%E5%A1%94%E7%89%8C%E7%BB%B4%E7%94%9F%E7%B4%A0D%E8%BD%AF%E8%83%B6%E5%9B%8A",
         "platformPrice": 139,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%B0%8F%E8%B1%A1%E7%B1%B3%E5%A1%94%E7%89%8C%E7%BB%B4%E7%94%9F%E7%B4%A0D%E8%BD%AF%E8%83%B6%E5%9B%8A",
+        "platformPrice": 139,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "小象米塔「小象米塔牌维生素D软胶囊」主打强健骨骼，采用胶囊剂型（250g*30粒）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -3034,9 +3436,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1365-91a783",
+        "url": "https://s.taobao.com/search?q=%E6%9F%A0%E6%AA%AC%E9%85%B8%E8%8B%B9%E6%9E%9C%E9%85%B8%E9%92%99%E7%89%87",
         "platformPrice": 99,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%9F%A0%E6%AA%AC%E9%85%B8%E8%8B%B9%E6%9E%9C%E9%85%B8%E9%92%99%E7%89%87",
+        "platformPrice": 99,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "柠檬酸苹「柠檬酸苹果酸钙片」主打强健骨骼，采用片剂剂型（60片）单盒装。该产品获国家蓝帽保健食品认证，定位为日常保健。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -3072,9 +3480,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1409-b37e35",
+        "url": "https://s.taobao.com/search?q=%E9%98%BF%E8%83%B6%E8%9C%9C%E6%9E%A3(%E6%99%BA%E7%A5%9E%E7%89%8C)",
         "platformPrice": 8,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%98%BF%E8%83%B6%E8%9C%9C%E6%9E%A3(%E6%99%BA%E7%A5%9E%E7%89%8C)",
+        "platformPrice": 8,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "阿胶蜜枣「阿胶蜜枣(智神牌)」主打美容养颜，采用片剂剂型（100g）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合女性、成人、通用人群使用。产地未知，全渠道销售。",
@@ -3110,9 +3524,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1363-f45192",
+        "url": "https://s.taobao.com/search?q=%E5%96%84%E5%85%83%E5%A0%82%E7%89%8C%E5%A4%A7%E8%B1%86%E8%9B%8B%E7%99%BD%E4%B9%B3%E6%B8%85%E8%9B%8B%E7%99%BD%E7%B2%89",
         "platformPrice": 328,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%96%84%E5%85%83%E5%A0%82%E7%89%8C%E5%A4%A7%E8%B1%86%E8%9B%8B%E7%99%BD%E4%B9%B3%E6%B8%85%E8%9B%8B%E7%99%BD%E7%B2%89",
+        "platformPrice": 328,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "善元堂「善元堂牌大豆蛋白乳清蛋白粉」主打增强免疫力、蛋白质补充，采用粉剂剂型（460g/罐）家庭装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地广东广州，全渠道销售。",
@@ -3147,9 +3567,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1411-e581b6",
+        "url": "https://s.taobao.com/search?q=%E5%96%84%E5%85%83%E5%A0%82%E7%89%8C%E7%BB%B4%E7%94%9F%E7%B4%A0C%E5%92%80%E5%9A%BC%E7%89%87",
         "platformPrice": 85,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%96%84%E5%85%83%E5%A0%82%E7%89%8C%E7%BB%B4%E7%94%9F%E7%B4%A0C%E5%92%80%E5%9A%BC%E7%89%87",
+        "platformPrice": 85,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "善元堂「善元堂牌维生素C咀嚼片」主打基础维生素，采用片剂剂型（1.5g*32片）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地广东广州，线上渠道专供。",
@@ -3185,9 +3611,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1369-65e179",
+        "url": "https://s.taobao.com/search?q=%E9%95%BF%E5%85%B4%E7%89%8C%E7%9B%8A%E7%94%9F%E8%8F%8C%E7%B2%89",
         "platformPrice": 106,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%95%BF%E5%85%B4%E7%89%8C%E7%9B%8A%E7%94%9F%E8%8F%8C%E7%B2%89",
+        "platformPrice": 106,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "长兴牌「长兴牌益生菌粉」主打健脾消食、益生菌，采用粉剂剂型（1.5g*5袋）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地广东潮州，全渠道销售。",
@@ -3223,9 +3655,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1453-70bc3f",
+        "url": "https://s.taobao.com/search?q=%E7%BB%B4%E7%94%9F%E7%B4%A0C%E5%92%80%E5%9A%BC%E7%89%87(4-13%E5%B2%81%E8%8D%89%E8%8E%93%E5%91%B3)",
         "platformPrice": 60,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%BB%B4%E7%94%9F%E7%B4%A0C%E5%92%80%E5%9A%BC%E7%89%87(4-13%E5%B2%81%E8%8D%89%E8%8E%93%E5%91%B3)",
+        "platformPrice": 60,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "维生「维生素C咀嚼片(4-13岁草莓味)」主打基础维生素，采用片剂剂型（400mg*60s）单盒装。该产品获SC食品生产许可，定位为日常保健。适合儿童、成人、通用人群使用。产地未知，线上渠道专供。",
@@ -3261,9 +3699,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1451-a7d21d",
+        "url": "https://s.taobao.com/search?q=%E9%92%99%E5%B0%94%E5%A5%87%E6%B0%A8%E7%B3%96%E8%BD%AF%E9%AA%A8%E7%B4%A0%E5%8A%A0%E9%92%99%E7%89%87",
         "platformPrice": 381,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%92%99%E5%B0%94%E5%A5%87%E6%B0%A8%E7%B3%96%E8%BD%AF%E9%AA%A8%E7%B4%A0%E5%8A%A0%E9%92%99%E7%89%87",
+        "platformPrice": 381,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "钙尔奇「钙尔奇氨糖软骨素加钙片」主打强健骨骼、矿物质补充，采用片剂剂型（192g(1.0g*64片/瓶*3瓶)）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地江苏苏州，全渠道销售。",
@@ -3299,9 +3743,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1404-8d14a2",
+        "url": "https://s.taobao.com/search?q=%E5%8F%B6%E9%BB%84%E7%B4%A0%E5%92%80%E5%9A%BC%E7%89%87",
         "platformPrice": 127,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%8F%B6%E9%BB%84%E7%B4%A0%E5%92%80%E5%9A%BC%E7%89%87",
+        "platformPrice": 127,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "叶黄素「叶黄素咀嚼片」主打美容养颜、护眼明目，采用片剂剂型（450mg*10片）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -3336,9 +3786,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1417-c772e9",
+        "url": "https://s.taobao.com/search?q=%E8%BE%85%E9%85%B6Q10%E8%BD%AF%E8%83%B6%E5%9B%8A",
         "platformPrice": 128,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%BE%85%E9%85%B6Q10%E8%BD%AF%E8%83%B6%E5%9B%8A",
+        "platformPrice": 128,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "辅酶Q「辅酶Q10软胶囊」主打抗氧化，采用胶囊剂型（0.4g/粒*30粒）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -3374,9 +3830,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1360-28613d",
+        "url": "https://s.taobao.com/search?q=%E4%BC%98%E5%8A%9B%E7%9B%96%E7%89%8C%E9%92%99%E7%BB%B4%E7%94%9F%E7%B4%A0D%E8%BD%AF%E8%83%B6%E5%9B%8A",
         "platformPrice": 85,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E4%BC%98%E5%8A%9B%E7%9B%96%E7%89%8C%E9%92%99%E7%BB%B4%E7%94%9F%E7%B4%A0D%E8%BD%AF%E8%83%B6%E5%9B%8A",
+        "platformPrice": 85,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "优力盖「优力盖牌钙维生素D软胶囊」主打强健骨骼、矿物质补充，采用胶囊剂型（1.15g/粒*32粒）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -3413,9 +3875,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1415-f0966d",
+        "url": "https://s.taobao.com/search?q=%E9%92%99%E5%B0%94%E5%A5%87%E9%92%99%E7%BB%B4%E7%94%9F%E7%B4%A0D%E8%BD%AF%E8%83%B6%E5%9B%8A(1-6%E5%B2%81)",
         "platformPrice": 129,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%92%99%E5%B0%94%E5%A5%87%E9%92%99%E7%BB%B4%E7%94%9F%E7%B4%A0D%E8%BD%AF%E8%83%B6%E5%9B%8A(1-6%E5%B2%81)",
+        "platformPrice": 129,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "钙尔奇「钙尔奇钙维生素D软胶囊(1-6岁)」主打强健骨骼、矿物质补充，采用胶囊剂型（30.9g(1.03g/粒*30粒)）单盒装。该产品获SC食品生产许可，定位为日常保健。适合儿童、成人、通用人群使用。产地江苏苏州，线上渠道专供。",
@@ -3450,9 +3918,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1451-f51cc1",
+        "url": "https://s.taobao.com/search?q=%E8%8D%89%E7%8F%8A%E7%91%9A%E8%96%84%E8%8D%B7%E5%90%AB%E7%89%87",
         "platformPrice": 14,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%8D%89%E7%8F%8A%E7%91%9A%E8%96%84%E8%8D%B7%E5%90%AB%E7%89%87",
+        "platformPrice": 14,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "草珊瑚「草珊瑚薄荷含片」主打清咽润喉，采用片剂剂型（1.5g*10粒）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -3488,9 +3962,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1405-4a517c",
+        "url": "https://s.taobao.com/search?q=%E8%83%96%E5%A4%A7%E6%B5%B7%E8%8F%8A%E8%8A%B1%E7%B3%96",
         "platformPrice": 14,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%83%96%E5%A4%A7%E6%B5%B7%E8%8F%8A%E8%8A%B1%E7%B3%96",
+        "platformPrice": 14,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "胖大海菊「胖大海菊花糖」主打清咽润喉、中药食材，采用颗粒剂剂型（1.5g*10粒）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -3525,9 +4005,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1560-9eefcd",
+        "url": "https://s.taobao.com/search?q=%E9%9B%AA%E6%A2%A8%E5%B7%9D%E8%B4%9D%E6%9E%87%E6%9D%B7%E5%90%AB%E7%89%87",
         "platformPrice": 14,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%9B%AA%E6%A2%A8%E5%B7%9D%E8%B4%9D%E6%9E%87%E6%9D%B7%E5%90%AB%E7%89%87",
+        "platformPrice": 14,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "雪梨川贝「雪梨川贝枇杷含片」主打清咽润喉，采用片剂剂型（2g*10粒）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -3562,9 +4048,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1409-3437dd",
+        "url": "https://s.taobao.com/search?q=%E6%9E%87%E6%9D%B7%E9%87%91%E9%93%B6%E8%8A%B1%E5%90%AB%E7%89%87",
         "platformPrice": 14,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%9E%87%E6%9D%B7%E9%87%91%E9%93%B6%E8%8A%B1%E5%90%AB%E7%89%87",
+        "platformPrice": 14,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "枇杷金银「枇杷金银花含片」主打清咽润喉，采用片剂剂型（2g*10粒）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -3601,9 +4093,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1415-4c77b8",
+        "url": "https://s.taobao.com/search?q=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%E8%83%B6%E5%8E%9F%E8%9B%8B%E7%99%BD%E9%80%8F%E6%98%8E%E8%B4%A8%E9%85%B8%E9%92%A0%E7%B2%89",
         "platformPrice": 254,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%E8%83%B6%E5%8E%9F%E8%9B%8B%E7%99%BD%E9%80%8F%E6%98%8E%E8%B4%A8%E9%85%B8%E9%92%A0%E7%B2%89",
+        "platformPrice": 254,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "汤臣倍健「汤臣倍健胶原蛋白透明质酸钠粉」主打美容养颜、胶原蛋白，采用粉剂剂型（4.5g*18袋）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合女性、成人、通用人群使用。产地广东珠海，全渠道销售。",
@@ -3639,9 +4137,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1408-71be54",
+        "url": "https://s.taobao.com/search?q=%E4%BC%98%E5%8A%9B%E7%9B%96%E9%92%99%E7%BB%B4%E7%94%9F%E7%B4%A0D%E5%92%80%E5%9A%BC%E7%89%87",
         "platformPrice": 20,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E4%BC%98%E5%8A%9B%E7%9B%96%E9%92%99%E7%BB%B4%E7%94%9F%E7%B4%A0D%E5%92%80%E5%9A%BC%E7%89%87",
+        "platformPrice": 20,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "优力盖「优力盖钙维生素D咀嚼片」主打强健骨骼、矿物质补充，采用片剂剂型（1.5g*10片）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -3677,9 +4181,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1456-e0df36",
+        "url": "https://s.taobao.com/search?q=%E7%BA%BD%E6%96%AF%E8%93%93%E9%92%99%E7%BB%B4%E7%94%9F%E7%B4%A0D%E7%BB%B4%E7%94%9F%E7%B4%A0K%E5%92%80%E5%9A%BC%E7%89%87",
         "platformPrice": 58,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%BA%BD%E6%96%AF%E8%93%93%E9%92%99%E7%BB%B4%E7%94%9F%E7%B4%A0D%E7%BB%B4%E7%94%9F%E7%B4%A0K%E5%92%80%E5%9A%BC%E7%89%87",
+        "platformPrice": 58,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "纽斯蓓钙「纽斯蓓钙维生素D维生素K咀嚼片」主打强健骨骼、矿物质补充，采用片剂剂型（1.2g*30片）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -3714,9 +4224,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1470-9da9f9",
+        "url": "https://s.taobao.com/search?q=%E7%BB%B4%E7%94%9F%E7%B4%A0C%E5%92%80%E5%9A%BC%E7%89%87(%E8%8D%89%E8%8E%93%E5%91%B3)",
         "platformPrice": 9,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%BB%B4%E7%94%9F%E7%B4%A0C%E5%92%80%E5%9A%BC%E7%89%87(%E8%8D%89%E8%8E%93%E5%91%B3)",
+        "platformPrice": 9,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "维生「维生素C咀嚼片(草莓味)」主打基础维生素，采用片剂剂型（0.6g*50片）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -3751,9 +4267,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1416-f7f265",
+        "url": "https://s.taobao.com/search?q=%E7%BB%B4%E7%94%9F%E7%B4%A0C%E5%92%80%E5%9A%BC%E7%89%87(%E6%9F%A0%E6%AA%AC%E5%91%B3)",
         "platformPrice": 9,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%BB%B4%E7%94%9F%E7%B4%A0C%E5%92%80%E5%9A%BC%E7%89%87(%E6%9F%A0%E6%AA%AC%E5%91%B3)",
+        "platformPrice": 9,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "维生「维生素C咀嚼片(柠檬味)」主打基础维生素，采用片剂剂型（0.6g*50片）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -3788,9 +4310,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1457-dd3a94",
+        "url": "https://s.taobao.com/search?q=%E7%BB%B4%E7%94%9F%E7%B4%A0C%E5%92%80%E5%9A%BC%E7%89%87(%E6%B0%B4%E8%9C%9C%E6%A1%83%E5%91%B3)",
         "platformPrice": 9,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%BB%B4%E7%94%9F%E7%B4%A0C%E5%92%80%E5%9A%BC%E7%89%87(%E6%B0%B4%E8%9C%9C%E6%A1%83%E5%91%B3)",
+        "platformPrice": 9,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "维生「维生素C咀嚼片(水蜜桃味)」主打基础维生素，采用片剂剂型（0.6g*50片）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -3826,9 +4354,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1463-bc95d8",
+        "url": "https://s.taobao.com/search?q=%E5%AE%89%E7%90%AA%E7%BA%BD%E7%89%B9%E9%85%BF%E9%85%92%E9%85%B5%E6%AF%8D%E7%B2%89%E8%9B%8B%E7%99%BD%E7%B2%89",
         "platformPrice": 161,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%AE%89%E7%90%AA%E7%BA%BD%E7%89%B9%E9%85%BF%E9%85%92%E9%85%B5%E6%AF%8D%E7%B2%89%E8%9B%8B%E7%99%BD%E7%B2%89",
+        "platformPrice": 161,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "安琪纽特「安琪纽特酿酒酵母粉蛋白粉」主打增强免疫力、蛋白质补充，采用粉剂剂型（454g）家庭装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地湖北宜昌，全渠道销售。",
@@ -3863,9 +4397,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1495-13dcca",
+        "url": "https://s.taobao.com/search?q=%E5%96%84%E5%AD%98%E5%A4%9A%E7%A7%8D%E7%BB%B4%E7%94%9F%E7%B4%A0%E7%9F%BF%E7%89%A9%E8%B4%A8%E5%92%80%E5%9A%BC%E7%89%87",
         "platformPrice": 90,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%96%84%E5%AD%98%E5%A4%9A%E7%A7%8D%E7%BB%B4%E7%94%9F%E7%B4%A0%E7%9F%BF%E7%89%A9%E8%B4%A8%E5%92%80%E5%9A%BC%E7%89%87",
+        "platformPrice": 90,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "善存「善存多种维生素矿物质咀嚼片」主打基础维生素，采用片剂剂型（78g柠檬味(1.95g*40片)）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地江苏苏州，线上渠道专供。",
@@ -3901,9 +4441,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1466-e85a9f",
+        "url": "https://s.taobao.com/search?q=%E7%A6%8F%E6%96%BD%E7%A6%8F%E9%92%99%E7%BB%B4%E7%94%9F%E7%B4%A0D%E8%BD%AF%E8%83%B6%E5%9B%8A",
         "platformPrice": 138,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%A6%8F%E6%96%BD%E7%A6%8F%E9%92%99%E7%BB%B4%E7%94%9F%E7%B4%A0D%E8%BD%AF%E8%83%B6%E5%9B%8A",
+        "platformPrice": 138,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "福施福「福施福钙维生素D软胶囊」主打强健骨骼、矿物质补充，采用胶囊剂型（1g*60粒）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地广东广州，线上渠道专供。",
@@ -3938,9 +4484,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1498-4aecc2",
+        "url": "https://s.taobao.com/search?q=%E7%A6%8F%E6%96%BD%E7%A6%8FDHA%E8%97%BB%E6%B2%B9%E8%BD%AF%E8%83%B6%E5%9B%8A",
         "platformPrice": 299,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%A6%8F%E6%96%BD%E7%A6%8FDHA%E8%97%BB%E6%B2%B9%E8%BD%AF%E8%83%B6%E5%9B%8A",
+        "platformPrice": 299,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "福施福「福施福DHA藻油软胶囊」主打益智健脑，采用胶囊剂型（18g(30mg*60粒)）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地广东广州，全渠道销售。",
@@ -3977,9 +4529,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1405-2c7f21",
+        "url": "https://s.taobao.com/search?q=%E5%AE%9D%E5%BE%B7%E5%A0%82%E7%89%8C%E6%B5%B7%E6%B4%8B%E9%B1%BC%E7%9A%AE%E8%83%B6%E5%8E%9F%E4%BD%8E%E8%81%9A%E8%82%BD%E7%8F%8D%E7%8F%A0%E7%89%87",
         "platformPrice": 96,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%AE%9D%E5%BE%B7%E5%A0%82%E7%89%8C%E6%B5%B7%E6%B4%8B%E9%B1%BC%E7%9A%AE%E8%83%B6%E5%8E%9F%E4%BD%8E%E8%81%9A%E8%82%BD%E7%8F%8D%E7%8F%A0%E7%89%87",
+        "platformPrice": 96,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "宝德堂「宝德堂牌海洋鱼皮胶原低聚肽珍珠片」主打美容养颜、胶原蛋白，采用片剂剂型（0.6g*56片）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合女性、成人、通用人群使用。产地未知，全渠道销售。",
@@ -4015,9 +4573,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1451-6ddb03",
+        "url": "https://s.taobao.com/search?q=%E5%AE%9D%E5%BE%B7%E7%BB%BF%E7%89%9B%E7%89%8C%E4%BA%BA%E5%8F%82%E7%BA%A2%E6%99%AF%E5%A4%A9%E7%89%9B%E7%A3%BA%E9%85%B8%E7%89%87",
         "platformPrice": 138,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%AE%9D%E5%BE%B7%E7%BB%BF%E7%89%9B%E7%89%8C%E4%BA%BA%E5%8F%82%E7%BA%A2%E6%99%AF%E5%A4%A9%E7%89%9B%E7%A3%BA%E9%85%B8%E7%89%87",
+        "platformPrice": 138,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "宝德绿牛「宝德绿牛牌人参红景天牛磺酸片」主打增强免疫力、益智健脑，采用片剂剂型（0.5g*60片）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -4052,9 +4616,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1453-b9be21",
+        "url": "https://s.taobao.com/search?q=%E9%BA%A6%E9%87%91%E5%88%A9%E7%9B%8A%E7%94%9F%E5%85%83%E9%85%B5%E7%B4%A0%E6%9E%9C%E5%86%BB",
         "platformPrice": 15,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%BA%A6%E9%87%91%E5%88%A9%E7%9B%8A%E7%94%9F%E5%85%83%E9%85%B5%E7%B4%A0%E6%9E%9C%E5%86%BB",
+        "platformPrice": 15,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "麦金利益「麦金利益生元酵素果冻」主打健脾消食，采用颗粒剂剂型（15g*10袋(蓝莓味)）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -4090,9 +4660,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1361-6337a5",
+        "url": "https://s.taobao.com/search?q=%E8%B5%9B%E7%BB%B4%E7%89%8C%E6%B0%B4%E9%A3%9E%E8%93%9F%E7%A3%B7%E8%84%82%E7%89%87",
         "platformPrice": 112,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%B5%9B%E7%BB%B4%E7%89%8C%E6%B0%B4%E9%A3%9E%E8%93%9F%E7%A3%B7%E8%84%82%E7%89%87",
+        "platformPrice": 112,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "赛维「赛维牌水飞蓟磷脂片」主打益智健脑、护肝养肝，采用片剂剂型（0.48g/片*60片）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -4127,9 +4703,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1411-e28a74",
+        "url": "https://s.taobao.com/search?q=%E5%A5%87%E4%BA%9A%E7%B1%BD%E5%9D%9A%E6%9E%9C%E8%97%95%E7%B2%89%E7%BE%B9",
         "platformPrice": 10,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%A5%87%E4%BA%9A%E7%B1%BD%E5%9D%9A%E6%9E%9C%E8%97%95%E7%B2%89%E7%BE%B9",
+        "platformPrice": 10,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "奇亚籽坚「奇亚籽坚果藕粉羹」主打谷物膳食，采用粉剂剂型（500g）家庭装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -4164,9 +4746,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1405-62c44b",
+        "url": "https://s.taobao.com/search?q=%E5%81%A5%E5%8A%9B%E5%A4%9A%E6%B0%A8%E7%B3%96%E8%BD%AF%E9%AA%A8%E7%B4%A0%E8%91%9B%E6%A0%B9%E7%89%87",
         "platformPrice": 148,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%81%A5%E5%8A%9B%E5%A4%9A%E6%B0%A8%E7%B3%96%E8%BD%AF%E9%AA%A8%E7%B4%A0%E8%91%9B%E6%A0%B9%E7%89%87",
+        "platformPrice": 148,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "健力多「健力多氨糖软骨素葛根片」主打强健骨骼，采用片剂剂型（1.2g*60s）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地广东珠海，全渠道销售。",
@@ -4202,9 +4790,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1509-e8af4e",
+        "url": "https://s.taobao.com/search?q=%E5%88%9B%E5%96%9C%E7%89%8C%E5%8F%B6%E9%BB%84%E7%B4%A0%E6%A1%91%E6%A4%B9%E8%8F%8A%E8%8A%B1%E5%90%AB%E7%89%87",
         "platformPrice": 38,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%88%9B%E5%96%9C%E7%89%8C%E5%8F%B6%E9%BB%84%E7%B4%A0%E6%A1%91%E6%A4%B9%E8%8F%8A%E8%8A%B1%E5%90%AB%E7%89%87",
+        "platformPrice": 38,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "创喜牌「创喜牌叶黄素桑椹菊花含片」主打美容养颜、护眼明目，采用片剂剂型（17g（0.85g*20片））单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -4239,9 +4833,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1409-7f37b0",
+        "url": "https://s.taobao.com/search?q=%E9%95%BF%E5%85%B4%E7%89%8CDHA%E8%97%BB%E6%B2%B9%E7%89%9B%E7%A3%BA%E9%85%B8%E9%94%8C%E8%BD%AF%E8%83%B6%E5%9B%8A",
         "platformPrice": 146,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%95%BF%E5%85%B4%E7%89%8CDHA%E8%97%BB%E6%B2%B9%E7%89%9B%E7%A3%BA%E9%85%B8%E9%94%8C%E8%BD%AF%E8%83%B6%E5%9B%8A",
+        "platformPrice": 146,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "长兴牌「长兴牌DHA藻油牛磺酸锌软胶囊」主打益智健脑，采用胶囊剂型（500mg/粒*60粒）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地广东潮州，全渠道销售。",
@@ -4276,9 +4876,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1406-245b5d",
+        "url": "https://s.taobao.com/search?q=%E6%BD%98%E9%AB%98%E5%AF%BF%E5%B7%9D%E8%B4%9D%E6%9E%87%E6%9D%B7%E7%B3%96",
         "platformPrice": 27,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%BD%98%E9%AB%98%E5%AF%BF%E5%B7%9D%E8%B4%9D%E6%9E%87%E6%9D%B7%E7%B3%96",
+        "platformPrice": 27,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "潘高寿「潘高寿川贝枇杷糖」主打清咽润喉，采用颗粒剂剂型（44g/盒）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地广东广州，全渠道销售。",
@@ -4313,9 +4919,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1418-955e7c",
+        "url": "https://s.taobao.com/search?q=%E7%87%95%E9%BA%A6%E4%BF%9D%E5%81%A5%E7%89%87",
         "platformPrice": 40,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%87%95%E9%BA%A6%E4%BF%9D%E5%81%A5%E7%89%87",
+        "platformPrice": 40,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "燕麦保健「燕麦保健片」主打谷物膳食，采用片剂剂型（375g（25g*15袋））单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -4350,9 +4962,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1422-56ef97",
+        "url": "https://s.taobao.com/search?q=%E6%83%9F%E9%AB%98C%E7%BB%B4%E7%94%9F%E7%B4%A0C%E5%92%80%E5%9A%BC%E7%89%87%EF%BC%88%E6%A8%B1%E6%A1%83%E5%91%B3%EF%BC%89",
         "platformPrice": 98,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%83%9F%E9%AB%98C%E7%BB%B4%E7%94%9F%E7%B4%A0C%E5%92%80%E5%9A%BC%E7%89%87%EF%BC%88%E6%A8%B1%E6%A1%83%E5%91%B3%EF%BC%89",
+        "platformPrice": 98,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "惟高C「惟高C维生素C咀嚼片（樱桃味）」主打基础维生素，采用片剂剂型（1.25g/片*60片）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -4387,9 +5005,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1324-663579",
+        "url": "https://s.taobao.com/search?q=%E6%96%B0%E6%8A%A4%E5%85%83%E7%89%8C%E7%BB%B4%E7%94%9F%E7%B4%A0C%E5%92%80%E5%9A%BC%E7%89%87%EF%BC%88%E7%94%9C%E6%A9%99%E5%91%B3%EF%BC%89",
         "platformPrice": 53,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%96%B0%E6%8A%A4%E5%85%83%E7%89%8C%E7%BB%B4%E7%94%9F%E7%B4%A0C%E5%92%80%E5%9A%BC%E7%89%87%EF%BC%88%E7%94%9C%E6%A9%99%E5%91%B3%EF%BC%89",
+        "platformPrice": 53,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "新护元「新护元牌维生素C咀嚼片（甜橙味）」主打基础维生素，采用片剂剂型（0.8g/片*60片）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -4425,9 +5049,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1368-2d2969",
+        "url": "https://s.taobao.com/search?q=%E5%A4%9A%E7%BB%B4%E7%94%B7%E5%A3%AB%E7%89%8C%E5%A4%9A%E7%A7%8D%E7%BB%B4%E7%94%9F%E7%B4%A0%E7%9F%BF%E7%89%A9%E8%B4%A8%E7%89%87",
         "platformPrice": 208,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%A4%9A%E7%BB%B4%E7%94%B7%E5%A3%AB%E7%89%8C%E5%A4%9A%E7%A7%8D%E7%BB%B4%E7%94%9F%E7%B4%A0%E7%9F%BF%E7%89%A9%E8%B4%A8%E7%89%87",
+        "platformPrice": 208,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "多维男「多维男士牌多种维生素矿物质片」主打基础维生素，采用片剂剂型（1.5g/片*60片/瓶*2瓶）单盒装。该产品获SC食品生产许可，定位为日常保健。适合男性、成人、通用人群使用。产地未知，线上渠道专供。",
@@ -4463,9 +5093,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1318-905826",
+        "url": "https://s.taobao.com/search?q=%E5%A4%9A%E7%BB%B4%E5%A5%B3%E5%A3%AB%E7%89%8C%E5%A4%9A%E7%A7%8D%E7%BB%B4%E7%94%9F%E7%B4%A0%E7%9F%BF%E7%89%A9%E8%B4%A8%E7%89%87",
         "platformPrice": 195,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%A4%9A%E7%BB%B4%E5%A5%B3%E5%A3%AB%E7%89%8C%E5%A4%9A%E7%A7%8D%E7%BB%B4%E7%94%9F%E7%B4%A0%E7%9F%BF%E7%89%A9%E8%B4%A8%E7%89%87",
+        "platformPrice": 195,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "多维女士「多维女士牌多种维生素矿物质片」主打基础维生素，采用片剂剂型（1.5g/片*60片/瓶*2瓶）单盒装。该产品获SC食品生产许可，定位为日常保健。适合女性、成人、通用人群使用。产地未知，线上渠道专供。",
@@ -4500,9 +5136,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1412-936aa8",
+        "url": "https://s.taobao.com/search?q=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5B%E6%97%8F%E7%BB%B4%E7%94%9F%E7%B4%A0",
         "platformPrice": 226,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5B%E6%97%8F%E7%BB%B4%E7%94%9F%E7%B4%A0",
+        "platformPrice": 226,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "汤臣倍健「汤臣倍健B族维生素」主打基础维生素，采用片剂剂型（100片*2瓶）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地广东珠海，线上渠道专供。",
@@ -4537,9 +5179,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1455-d524dd",
+        "url": "https://s.taobao.com/search?q=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%E7%BB%B4%E7%94%9F%E7%B4%A0C%E7%89%87%EF%BC%88%E7%94%9C%E6%A9%99%E5%91%B3%EF%BC%89",
         "platformPrice": 163,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%E7%BB%B4%E7%94%9F%E7%B4%A0C%E7%89%87%EF%BC%88%E7%94%9C%E6%A9%99%E5%91%B3%EF%BC%89",
+        "platformPrice": 163,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "汤臣倍健「汤臣倍健维生素C片（甜橙味）」主打基础维生素，采用片剂剂型（780mg/片*100片/瓶*2瓶）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地广东珠海，线上渠道专供。",
@@ -4575,9 +5223,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1321-546747",
+        "url": "https://s.taobao.com/search?q=life-space%E7%9B%8A%E7%94%9F%E8%8F%8C%E7%B2%89",
         "platformPrice": 299,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=life-space%E7%9B%8A%E7%94%9F%E8%8F%8C%E7%B2%89",
+        "platformPrice": 299,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "lif「life-space益生菌粉」主打健脾消食、益生菌，采用粉剂剂型（20袋*2盒+8袋*1盒）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -4612,9 +5266,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1414-729d5c",
+        "url": "https://s.taobao.com/search?q=%E9%87%91%E5%8D%81%E6%9C%88%E9%A6%A8%E5%A4%9A%E7%A7%8D%E7%BB%B4%E7%94%9F%E7%B4%A0%E7%9F%BF%E7%89%A9%E8%B4%A8%E7%89%87%E4%B8%80%E6%AE%B5",
         "platformPrice": 398,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%87%91%E5%8D%81%E6%9C%88%E9%A6%A8%E5%A4%9A%E7%A7%8D%E7%BB%B4%E7%94%9F%E7%B4%A0%E7%9F%BF%E7%89%A9%E8%B4%A8%E7%89%87%E4%B8%80%E6%AE%B5",
+        "platformPrice": 398,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "十月馨「金十月馨多种维生素矿物质片一段」主打基础维生素，采用片剂剂型（1g*60片）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地广东广州，线上渠道专供。",
@@ -4649,9 +5309,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1408-113e9e",
+        "url": "https://s.taobao.com/search?q=%22%E9%87%91%E5%8D%81%E6%9C%88%E9%A6%A8%E5%A4%9A%E7%A7%8D%E7%BB%B4%E7%94%9F%E7%B4%A0%E7%9F%BF%E7%89%A9%E8%B4%A8%E7%89%87%E4%BA%8C%E6%AE%B5%09%09%22",
         "platformPrice": 398,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%22%E9%87%91%E5%8D%81%E6%9C%88%E9%A6%A8%E5%A4%9A%E7%A7%8D%E7%BB%B4%E7%94%9F%E7%B4%A0%E7%9F%BF%E7%89%A9%E8%B4%A8%E7%89%87%E4%BA%8C%E6%AE%B5%09%09%22",
+        "platformPrice": 398,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "十月馨「\"金十月馨多种维生素矿物质片二段\t\t\"」主打基础维生素，采用片剂剂型（1g*60片）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地广东广州，线上渠道专供。",
@@ -4686,9 +5352,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1444-602baa",
+        "url": "https://s.taobao.com/search?q=%22%E9%87%91%E5%8D%81%E6%9C%88%E9%A6%A8%E5%A4%9A%E7%A7%8D%E7%BB%B4%E7%94%9F%E7%B4%A0%E7%9F%BF%E7%89%A9%E8%B4%A8%E7%89%87%E4%B8%89%E6%AE%B5%09%09%22",
         "platformPrice": 398,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%22%E9%87%91%E5%8D%81%E6%9C%88%E9%A6%A8%E5%A4%9A%E7%A7%8D%E7%BB%B4%E7%94%9F%E7%B4%A0%E7%9F%BF%E7%89%A9%E8%B4%A8%E7%89%87%E4%B8%89%E6%AE%B5%09%09%22",
+        "platformPrice": 398,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "十月馨「\"金十月馨多种维生素矿物质片三段\t\t\"」主打基础维生素，采用片剂剂型（1.05g*60片）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地广东广州，线上渠道专供。",
@@ -4723,9 +5395,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1352-062a52",
+        "url": "https://s.taobao.com/search?q=%22%E9%87%91%E5%8D%81%E6%9C%88%E9%A6%A8%E5%A4%9A%E7%A7%8D%E7%BB%B4%E7%94%9F%E7%B4%A0%E7%9F%BF%E7%89%A9%E8%B4%A8%E7%89%87%E5%9B%9B%E6%AE%B5%09%09%22",
         "platformPrice": 398,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%22%E9%87%91%E5%8D%81%E6%9C%88%E9%A6%A8%E5%A4%9A%E7%A7%8D%E7%BB%B4%E7%94%9F%E7%B4%A0%E7%9F%BF%E7%89%A9%E8%B4%A8%E7%89%87%E5%9B%9B%E6%AE%B5%09%09%22",
+        "platformPrice": 398,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "十月馨「\"金十月馨多种维生素矿物质片四段\t\t\"」主打基础维生素，采用片剂剂型（1.05g*60片）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地广东广州，线上渠道专供。",
@@ -4760,9 +5438,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1400-7cb013",
+        "url": "https://s.taobao.com/search?q=%E7%A6%8F%E6%96%BD%E7%A6%8F%E5%A4%9A%E7%A7%8D%E7%BB%B4%E7%94%9F%E7%B4%A0%E7%9F%BF%E7%89%A9%E8%B4%A8%E8%BD%AF%E8%83%B6%E5%9B%8A",
         "platformPrice": 165,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%A6%8F%E6%96%BD%E7%A6%8F%E5%A4%9A%E7%A7%8D%E7%BB%B4%E7%94%9F%E7%B4%A0%E7%9F%BF%E7%89%A9%E8%B4%A8%E8%BD%AF%E8%83%B6%E5%9B%8A",
+        "platformPrice": 165,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "福施福「福施福多种维生素矿物质软胶囊」主打基础维生素，采用胶囊剂型（30粒）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地广东广州，线上渠道专供。",
@@ -4797,9 +5481,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1444-ab0a53",
+        "url": "https://s.taobao.com/search?q=%E5%85%BB%E7%94%9F%E5%A0%82%E7%BB%B4%E7%94%9F%E7%B4%A0C%E7%89%87%EF%BC%88%E6%9F%A0%E6%AA%AC%E5%91%B3%EF%BC%89",
         "platformPrice": 68,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%85%BB%E7%94%9F%E5%A0%82%E7%BB%B4%E7%94%9F%E7%B4%A0C%E7%89%87%EF%BC%88%E6%9F%A0%E6%AA%AC%E5%91%B3%EF%BC%89",
+        "platformPrice": 68,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "养生堂「养生堂维生素C片（柠檬味）」主打基础维生素，采用片剂剂型（50mg*300片）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地浙江杭州，线上渠道专供。",
@@ -4835,9 +5525,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1456-d70f2e",
+        "url": "https://s.taobao.com/search?q=%E5%A4%AA%E5%A4%AA%E7%BA%A2%E8%8A%B1%E6%A1%83%E4%BB%81%E5%8F%A3%E6%9C%8D%E6%B6%B2",
         "platformPrice": 465,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%A4%AA%E5%A4%AA%E7%BA%A2%E8%8A%B1%E6%A1%83%E4%BB%81%E5%8F%A3%E6%9C%8D%E6%B6%B2",
+        "platformPrice": 465,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "太太「太太红花桃仁口服液」主打增强免疫力，采用口服液剂型（10ml*60支）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合女性、成人、通用人群使用。产地未知，全渠道销售。",
@@ -4872,9 +5568,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1355-26c611",
+        "url": "https://s.taobao.com/search?q=%E8%9C%82%E8%9C%9C%E8%8F%8A%E8%8A%B1%E6%B8%85%E6%B8%85%E5%AE%9D",
         "platformPrice": 22,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%9C%82%E8%9C%9C%E8%8F%8A%E8%8A%B1%E6%B8%85%E6%B8%85%E5%AE%9D",
+        "platformPrice": 22,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "蜂蜜菊「蜂蜜菊花清清宝」主打增强免疫力，采用片剂剂型（8g*20s）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -4910,9 +5612,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1456-ee34d3",
+        "url": "https://s.taobao.com/search?q=%E9%87%91%E9%93%B6%E8%8A%B1%E6%B8%85%E6%B8%85%E5%AE%9D",
         "platformPrice": 32,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%87%91%E9%93%B6%E8%8A%B1%E6%B8%85%E6%B8%85%E5%AE%9D",
+        "platformPrice": 32,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "金银花清「金银花清清宝」主打增强免疫力、中药食材，采用片剂剂型（8g*30s）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -4947,9 +5655,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1408-033c9f",
+        "url": "https://s.taobao.com/search?q=%E5%9B%9E%E5%A5%B6%E5%AE%9D",
         "platformPrice": 28,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%9B%9E%E5%A5%B6%E5%AE%9D",
+        "platformPrice": 28,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "回奶宝「回奶宝」主打增强免疫力，采用片剂剂型（6g*24s）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -4984,9 +5698,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1451-0e25dc",
+        "url": "https://s.taobao.com/search?q=%E7%BB%B4%E7%94%9F%E7%B4%A0C%E5%90%AB%E7%89%87",
         "platformPrice": 25,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%BB%B4%E7%94%9F%E7%B4%A0C%E5%90%AB%E7%89%87",
+        "platformPrice": 25,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "维生「维生素C含片」主打基础维生素，采用片剂剂型（60s）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -5022,9 +5742,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1403-b448a0",
+        "url": "https://s.taobao.com/search?q=%E7%BD%97%E6%B1%89%E6%9E%9C%E7%B3%96",
         "platformPrice": 15,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%BD%97%E6%B1%89%E6%9E%9C%E7%B3%96",
+        "platformPrice": 15,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "罗汉果糖「罗汉果糖」主打增强免疫力、中药食材，采用颗粒剂剂型（40g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -5060,9 +5786,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1355-62c107",
+        "url": "https://s.taobao.com/search?q=%E8%83%96%E5%A4%A7%E6%B5%B7%E7%B3%96",
         "platformPrice": 14,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%83%96%E5%A4%A7%E6%B5%B7%E7%B3%96",
+        "platformPrice": 14,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "胖大海糖「胖大海糖」主打清咽润喉、中药食材，采用颗粒剂剂型（40g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -5097,9 +5829,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1369-1c8849",
+        "url": "https://s.taobao.com/search?q=%E8%8A%AA%E5%8F%82%E8%8C%B6",
         "platformPrice": 319,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%8A%AA%E5%8F%82%E8%8C%B6",
+        "platformPrice": 319,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "芪参茶「芪参茶」主打增强免疫力，采用代用茶剂型（2.5g*30袋）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -5134,9 +5872,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1465-c957ed",
+        "url": "https://s.taobao.com/search?q=SWISSE%40%E9%B1%BC%E6%B2%B9%E8%BD%AF%E8%83%B6%E5%9B%8A",
         "platformPrice": 198,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=SWISSE%40%E9%B1%BC%E6%B2%B9%E8%BD%AF%E8%83%B6%E5%9B%8A",
+        "platformPrice": 198,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "SWI「SWISSE@鱼油软胶囊」主打调节三高，采用胶囊剂型（72g（0.8g*90粒））单盒装。该产品获SC食品生产许可，定位为针对性调理。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -5172,9 +5916,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1455-5ba63f",
+        "url": "https://s.taobao.com/search?q=%E5%81%A5%E6%9E%97%E5%9C%A8%E7%BA%BF%E8%9B%8B%E7%99%BD%E7%B2%89",
         "platformPrice": 226,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%81%A5%E6%9E%97%E5%9C%A8%E7%BA%BF%E8%9B%8B%E7%99%BD%E7%B2%89",
+        "platformPrice": 226,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "健林「健林在线蛋白粉」主打增强免疫力、蛋白质补充，采用粉剂剂型（400g（10g*40袋））单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -5209,9 +5959,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1458-c7d35d",
+        "url": "https://s.taobao.com/search?q=%E9%94%8C%E7%A1%92%E5%AE%9D%E7%89%87",
         "platformPrice": 117,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%94%8C%E7%A1%92%E5%AE%9D%E7%89%87",
+        "platformPrice": 117,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "锌硒宝片「锌硒宝片」主打矿物质补充，采用片剂剂型（0.25g*80片）单盒装。该产品获国家蓝帽保健食品认证，定位为日常保健。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -5247,9 +6003,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1445-a5ca30",
+        "url": "https://s.taobao.com/search?q=%E9%92%99%E7%BB%B4%E7%94%9F%E7%B4%A0D%E8%BD%AF%E8%83%B6%E5%9B%8A%EF%BC%88%E5%AF%8C%E8%8E%B1%E6%AC%A3%EF%BC%89",
         "platformPrice": 198,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%92%99%E7%BB%B4%E7%94%9F%E7%B4%A0D%E8%BD%AF%E8%83%B6%E5%9B%8A%EF%BC%88%E5%AF%8C%E8%8E%B1%E6%AC%A3%EF%BC%89",
+        "platformPrice": 198,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "富莱欣「钙维生素D软胶囊（富莱欣）」主打强健骨骼、矿物质补充，采用胶囊剂型（1.2g*200粒）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -5285,9 +6047,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1502-ec7ea1",
+        "url": "https://s.taobao.com/search?q=%E7%99%BE%E5%90%88%E5%BA%B7%E7%89%8C%E7%BB%B4%E7%94%9F%E7%B4%A0C%E5%87%9D%E8%83%B6%E7%B3%96%E6%9E%9C%EF%BC%88%E7%94%9C%E6%A9%99%E5%91%B3%EF%BC%89",
         "platformPrice": 25,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%99%BE%E5%90%88%E5%BA%B7%E7%89%8C%E7%BB%B4%E7%94%9F%E7%B4%A0C%E5%87%9D%E8%83%B6%E7%B3%96%E6%9E%9C%EF%BC%88%E7%94%9C%E6%A9%99%E5%91%B3%EF%BC%89",
+        "platformPrice": 25,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "百合康「百合康牌维生素C凝胶糖果（甜橙味）」主打基础维生素、中药食材，采用片剂剂型（3g*30粒）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -5323,9 +6091,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1548-da5dcc",
+        "url": "https://s.taobao.com/search?q=%E7%99%BE%E5%90%88%E5%BA%B7%E7%89%8C%E9%94%8C%E5%87%9D%E8%83%B6%E7%B3%96%E6%9E%9C%EF%BC%88%E9%9D%92%E8%8B%B9%E6%9E%9C%E5%91%B3%EF%BC%89",
         "platformPrice": 24,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%99%BE%E5%90%88%E5%BA%B7%E7%89%8C%E9%94%8C%E5%87%9D%E8%83%B6%E7%B3%96%E6%9E%9C%EF%BC%88%E9%9D%92%E8%8B%B9%E6%9E%9C%E5%91%B3%EF%BC%89",
+        "platformPrice": 24,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "百合康「百合康牌锌凝胶糖果（青苹果味）」主打增强免疫力、中药食材，采用片剂剂型（3g*30粒）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -5362,9 +6136,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1457-8e61bc",
+        "url": "https://s.taobao.com/search?q=%E7%99%BE%E5%90%88%E5%BA%B7%E7%89%8C%E9%92%99%E7%BB%B4%E7%94%9F%E7%B4%A0D%E5%87%9D%E8%83%B6%E7%B3%96%E6%9E%9C%EF%BC%88%E7%89%9B%E5%A5%B6%E5%91%B3%EF%BC%89",
         "platformPrice": 25,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%99%BE%E5%90%88%E5%BA%B7%E7%89%8C%E9%92%99%E7%BB%B4%E7%94%9F%E7%B4%A0D%E5%87%9D%E8%83%B6%E7%B3%96%E6%9E%9C%EF%BC%88%E7%89%9B%E5%A5%B6%E5%91%B3%EF%BC%89",
+        "platformPrice": 25,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "百合康「百合康牌钙维生素D凝胶糖果（牛奶味）」主打强健骨骼、矿物质补充、中药食材，采用片剂剂型（3g*30粒）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -5402,9 +6182,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1418-819d6f",
+        "url": "https://s.taobao.com/search?q=%E5%AF%8C%E8%8E%B1%E6%AC%A3%E7%BB%B4%E7%94%9F%E7%B4%A0C%E6%B5%B7%E6%B4%8B%E9%B1%BC%E7%9A%AE%E8%83%B6%E5%8E%9F%E8%82%BD%E5%8F%A3%E6%9C%8D%E6%B6%B2%EF%BC%88%E8%8B%B9%E6%9E%9C%E5%91%B3%EF%BC%89",
         "platformPrice": 338,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%AF%8C%E8%8E%B1%E6%AC%A3%E7%BB%B4%E7%94%9F%E7%B4%A0C%E6%B5%B7%E6%B4%8B%E9%B1%BC%E7%9A%AE%E8%83%B6%E5%8E%9F%E8%82%BD%E5%8F%A3%E6%9C%8D%E6%B6%B2%EF%BC%88%E8%8B%B9%E6%9E%9C%E5%91%B3%EF%BC%89",
+        "platformPrice": 338,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "富莱欣「富莱欣维生素C海洋鱼皮胶原肽口服液（苹果味）」主打美容养颜、胶原蛋白、基础维生素，采用口服液剂型（30ml*10支）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合女性、成人、通用人群使用。产地未知，全渠道销售。",
@@ -5439,9 +6225,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1450-2b34fa",
+        "url": "https://s.taobao.com/search?q=%E4%B9%83%E6%8D%B7%E5%B0%94%E7%89%8C%E5%88%9D%E4%B9%B3%E7%B4%A0%E8%83%B6%E5%9B%8A",
         "platformPrice": 37,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E4%B9%83%E6%8D%B7%E5%B0%94%E7%89%8C%E5%88%9D%E4%B9%B3%E7%B4%A0%E8%83%B6%E5%9B%8A",
+        "platformPrice": 37,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "乃捷尔「乃捷尔牌初乳素胶囊」主打增强免疫力，采用胶囊剂型（1.8g（150mg*12粒））单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -5476,9 +6268,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1416-46b97d",
+        "url": "https://s.taobao.com/search?q=%E6%99%BA%E7%81%B5%E9%80%9A%E7%89%8C%E8%BF%AA%E5%84%BF%E8%BD%AF%E8%83%B6%E5%9B%8A",
         "platformPrice": 600,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%99%BA%E7%81%B5%E9%80%9A%E7%89%8C%E8%BF%AA%E5%84%BF%E8%BD%AF%E8%83%B6%E5%9B%8A",
+        "platformPrice": 600,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "智灵通「智灵通牌迪儿软胶囊」主打增强免疫力，采用胶囊剂型（0.375g*45粒*2瓶）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -5513,9 +6311,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1373-e80888",
+        "url": "https://s.taobao.com/search?q=%E6%9D%A5%E7%9B%8A%E7%BB%B4%E7%94%9F%E7%B4%A0C%E5%90%AB%E7%89%87%EF%BC%88%E9%A6%99%E6%A9%99%E5%91%B3%EF%BC%89",
         "platformPrice": 75,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%9D%A5%E7%9B%8A%E7%BB%B4%E7%94%9F%E7%B4%A0C%E5%90%AB%E7%89%87%EF%BC%88%E9%A6%99%E6%A9%99%E5%91%B3%EF%BC%89",
+        "platformPrice": 75,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "来益「来益维生素C含片（香橙味）」主打基础维生素，采用片剂剂型（48g（0.8g*60片））单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -5550,9 +6354,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1455-8aaf25",
+        "url": "https://s.taobao.com/search?q=%E6%9D%A5%E7%9B%8A%E7%BB%B4%E7%94%9F%E7%B4%A0C%E5%90%AB%E7%89%87%EF%BC%88%E8%A5%BF%E6%9F%9A%E5%91%B3%EF%BC%89",
         "platformPrice": 40,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%9D%A5%E7%9B%8A%E7%BB%B4%E7%94%9F%E7%B4%A0C%E5%90%AB%E7%89%87%EF%BC%88%E8%A5%BF%E6%9F%9A%E5%91%B3%EF%BC%89",
+        "platformPrice": 40,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "来益「来益维生素C含片（西柚味）」主打基础维生素，采用片剂剂型（48g（0.8g*60片））单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -5587,9 +6397,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1456-f3aa94",
+        "url": "https://s.taobao.com/search?q=%E6%9D%A5%E7%9B%8A%E7%BB%B4%E7%94%9F%E7%B4%A0C%E5%90%AB%E7%89%87%EF%BC%88%E9%9D%92%E8%8B%B9%E6%9E%9C%E5%91%B3%EF%BC%89",
         "platformPrice": 40,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%9D%A5%E7%9B%8A%E7%BB%B4%E7%94%9F%E7%B4%A0C%E5%90%AB%E7%89%87%EF%BC%88%E9%9D%92%E8%8B%B9%E6%9E%9C%E5%91%B3%EF%BC%89",
+        "platformPrice": 40,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "来益「来益维生素C含片（青苹果味）」主打基础维生素，采用片剂剂型（48g（0.8g*60片））单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -5625,9 +6441,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1458-c48ae5",
+        "url": "https://s.taobao.com/search?q=%E5%8D%97%E6%96%B9%E7%89%8C%E9%BB%91%E8%8A%9D%E9%BA%BB%E7%B3%8A",
         "platformPrice": 46,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%8D%97%E6%96%B9%E7%89%8C%E9%BB%91%E8%8A%9D%E9%BA%BB%E7%B3%8A",
+        "platformPrice": 46,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "南方「南方牌黑芝麻糊」主打美容养颜、谷物膳食，采用膏方剂型（40g*7袋）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -5662,9 +6484,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1352-01216f",
+        "url": "https://s.taobao.com/search?q=%E5%A5%A5%E8%AF%BA%E5%BA%B7%E5%8F%B6%E9%85%B8%E7%89%87",
         "platformPrice": 147,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%A5%A5%E8%AF%BA%E5%BA%B7%E5%8F%B6%E9%85%B8%E7%89%87",
+        "platformPrice": 147,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "奥诺康「奥诺康叶酸片」主打增强免疫力，采用片剂剂型（0.5g*60片）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -5700,9 +6528,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1500-cfa53b",
+        "url": "https://s.taobao.com/search?q=%E8%9C%82%E6%80%A1%E7%89%8C%E8%9C%82%E8%83%B6%E8%BD%AF%E8%83%B6%E5%9B%8A",
         "platformPrice": 128,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%9C%82%E6%80%A1%E7%89%8C%E8%9C%82%E8%83%B6%E8%BD%AF%E8%83%B6%E5%9B%8A",
+        "platformPrice": 128,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "蜂怡「蜂怡牌蜂胶软胶囊」主打增强免疫力、蜂产品，采用胶囊剂型（0.5g*60粒）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -5737,9 +6571,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1363-0238e9",
+        "url": "https://s.taobao.com/search?q=%E6%83%A0%E5%B0%94%E4%B9%90%E8%BE%85%E9%85%B6Q10%E8%BD%AF%E8%83%B6%E5%9B%8A",
         "platformPrice": 238,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%83%A0%E5%B0%94%E4%B9%90%E8%BE%85%E9%85%B6Q10%E8%BD%AF%E8%83%B6%E5%9B%8A",
+        "platformPrice": 238,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "惠尔乐辅「惠尔乐辅酶Q10软胶囊」主打抗氧化，采用胶囊剂型（0.25g*50粒）单盒装。该产品获SC食品生产许可，定位为针对性调理。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -5774,9 +6614,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1456-0f5ff1",
+        "url": "https://s.taobao.com/search?q=%E5%A5%A5%E8%AF%BA%E5%BA%B7%E5%A4%9A%E7%A7%8D%E7%BB%B4%E7%94%9F%E7%B4%A0%E7%89%87",
         "platformPrice": 128,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%A5%A5%E8%AF%BA%E5%BA%B7%E5%A4%9A%E7%A7%8D%E7%BB%B4%E7%94%9F%E7%B4%A0%E7%89%87",
+        "platformPrice": 128,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "奥诺康「奥诺康多种维生素片」主打基础维生素，采用片剂剂型（0.75g*60片）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -5812,9 +6658,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1456-2b7cc7",
+        "url": "https://s.taobao.com/search?q=%E5%A5%A5%E8%AF%BA%E5%BA%B7%E9%B1%BC%E6%B2%B9%E7%BB%B4%E7%94%9F%E7%B4%A0E%E8%BD%AF%E8%83%B6%E5%9B%8A",
         "platformPrice": 118,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%A5%A5%E8%AF%BA%E5%BA%B7%E9%B1%BC%E6%B2%B9%E7%BB%B4%E7%94%9F%E7%B4%A0E%E8%BD%AF%E8%83%B6%E5%9B%8A",
+        "platformPrice": 118,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "奥诺康「奥诺康鱼油维生素E软胶囊」主打调节三高、基础维生素，采用胶囊剂型（1g*100粒）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -5849,9 +6701,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1408-3d4f16",
+        "url": "https://s.taobao.com/search?q=%E5%A5%A5%E8%AF%BA%E5%BA%B7%E7%BB%B4%E7%94%9F%E7%B4%A0E%E8%BD%AF%E8%83%B6%E5%9B%8A%EF%BC%88%E6%88%90%E4%BA%BA%EF%BC%89",
         "platformPrice": 148,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%A5%A5%E8%AF%BA%E5%BA%B7%E7%BB%B4%E7%94%9F%E7%B4%A0E%E8%BD%AF%E8%83%B6%E5%9B%8A%EF%BC%88%E6%88%90%E4%BA%BA%EF%BC%89",
+        "platformPrice": 148,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "奥诺康「奥诺康维生素E软胶囊（成人）」主打基础维生素，采用胶囊剂型（0.25g*60粒）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -5888,9 +6746,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1452-a4a35f",
+        "url": "https://s.taobao.com/search?q=%E5%A5%A5%E8%AF%BA%E5%BA%B7%E7%BE%8A%E8%83%8E%E7%9B%98%E4%B8%B9%E5%8F%82%E8%91%A1%E8%90%84%E7%B1%BD%E8%BD%AF%E8%83%B6%E5%9B%8A",
         "platformPrice": 298,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%A5%A5%E8%AF%BA%E5%BA%B7%E7%BE%8A%E8%83%8E%E7%9B%98%E4%B8%B9%E5%8F%82%E8%91%A1%E8%90%84%E7%B1%BD%E8%BD%AF%E8%83%B6%E5%9B%8A",
+        "platformPrice": 298,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "奥诺康「奥诺康羊胎盘丹参葡萄籽软胶囊」主打美容养颜、调节三高、抗氧化，采用胶囊剂型（850mg*60粒）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -5929,9 +6793,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1413-532ee9",
+        "url": "https://s.taobao.com/search?q=%E5%A5%A5%E8%AF%BA%E5%BA%B7%E8%83%B6%E5%8E%9F%E8%9B%8B%E7%99%BD%E5%A4%A7%E8%B1%86%E8%91%A1%E8%90%84%E7%B1%BD%E7%BB%B4%E7%94%9F%E7%B4%A0E%E8%83%B6%E5%9B%8A",
         "platformPrice": 298,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%A5%A5%E8%AF%BA%E5%BA%B7%E8%83%B6%E5%8E%9F%E8%9B%8B%E7%99%BD%E5%A4%A7%E8%B1%86%E8%91%A1%E8%90%84%E7%B1%BD%E7%BB%B4%E7%94%9F%E7%B4%A0E%E8%83%B6%E5%9B%8A",
+        "platformPrice": 298,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "奥诺康「奥诺康胶原蛋白大豆葡萄籽维生素E胶囊」主打美容养颜、抗氧化、胶原蛋白、基础维生素，采用胶囊剂型（0.32g*60粒）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合女性、成人、通用人群使用。产地未知，全渠道销售。",
@@ -5967,9 +6837,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1451-c3b41f",
+        "url": "https://s.taobao.com/search?q=%E5%B8%B8%E7%BB%B4%E6%95%88%E7%89%8C%E7%9B%8A%E7%94%9F%E8%8F%8C%E7%B2%89",
         "platformPrice": 147,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%B8%B8%E7%BB%B4%E6%95%88%E7%89%8C%E7%9B%8A%E7%94%9F%E8%8F%8C%E7%B2%89",
+        "platformPrice": 147,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "常维效「常维效牌益生菌粉」主打健脾消食、益生菌，采用粉剂剂型（1.5g*12袋）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -6004,9 +6880,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1410-cf1619",
+        "url": "https://s.taobao.com/search?q=%E5%A5%A5%E8%AF%BA%E5%BA%B7%E6%B0%A8%E7%B3%96%E9%92%99%E7%A1%AB%E9%85%B8%E8%BD%AF%E9%AA%A8%E7%B4%A0%E7%89%87",
         "platformPrice": 148,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%A5%A5%E8%AF%BA%E5%BA%B7%E6%B0%A8%E7%B3%96%E9%92%99%E7%A1%AB%E9%85%B8%E8%BD%AF%E9%AA%A8%E7%B4%A0%E7%89%87",
+        "platformPrice": 148,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "奥诺康「奥诺康氨糖钙硫酸软骨素片」主打强健骨骼，采用片剂剂型（0.85g*45片）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -6042,9 +6924,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1395-104aa4",
+        "url": "https://s.taobao.com/search?q=%E5%A5%A5%E8%AF%BA%E5%BA%B7%E9%92%99%E9%95%81%E7%BB%B4%E7%94%9F%E7%B4%A0D%E8%BD%AF%E8%83%B6%E5%9B%8A",
         "platformPrice": 128,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%A5%A5%E8%AF%BA%E5%BA%B7%E9%92%99%E9%95%81%E7%BB%B4%E7%94%9F%E7%B4%A0D%E8%BD%AF%E8%83%B6%E5%9B%8A",
+        "platformPrice": 128,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "奥诺康「奥诺康钙镁维生素D软胶囊」主打强健骨骼、矿物质补充，采用胶囊剂型（1.2g*80粒）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -6079,9 +6967,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1504-b7bdf3",
+        "url": "https://s.taobao.com/search?q=%E5%A5%A5%E8%AF%BA%E5%BA%B7%E7%BB%B4%E7%94%9F%E7%B4%A0C%E5%92%80%E5%9A%BC%E7%89%87%EF%BC%88%E6%A9%98%E5%AD%90%E5%91%B3%EF%BC%89",
         "platformPrice": 109,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%A5%A5%E8%AF%BA%E5%BA%B7%E7%BB%B4%E7%94%9F%E7%B4%A0C%E5%92%80%E5%9A%BC%E7%89%87%EF%BC%88%E6%A9%98%E5%AD%90%E5%91%B3%EF%BC%89",
+        "platformPrice": 109,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "奥诺康「奥诺康维生素C咀嚼片（橘子味）」主打基础维生素，采用片剂剂型（1g*80片）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -6117,9 +7011,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1505-6eca4f",
+        "url": "https://s.taobao.com/search?q=%E5%A5%A5%E8%AF%BA%E5%BA%B7%E8%A4%AA%E9%BB%91%E7%B4%A0%E7%BB%B4%E7%94%9F%E7%B4%A0B6%E8%83%B6%E5%9B%8A",
         "platformPrice": 109,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%A5%A5%E8%AF%BA%E5%BA%B7%E8%A4%AA%E9%BB%91%E7%B4%A0%E7%BB%B4%E7%94%9F%E7%B4%A0B6%E8%83%B6%E5%9B%8A",
+        "platformPrice": 109,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "奥诺康「奥诺康褪黑素维生素B6胶囊」主打助眠安神、基础维生素，采用胶囊剂型（0.35g*60粒）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -6154,9 +7054,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1368-9356c6",
+        "url": "https://s.taobao.com/search?q=%E5%A5%A5%E8%AF%BA%E5%BA%B7%E5%A4%9A%E7%A7%8DB%E6%97%8F%E7%BB%B4%E7%94%9F%E7%B4%A0%E7%89%87%EF%BC%88%E6%A9%98%E5%AD%90%E5%91%B3%EF%BC%89",
         "platformPrice": 128,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%A5%A5%E8%AF%BA%E5%BA%B7%E5%A4%9A%E7%A7%8DB%E6%97%8F%E7%BB%B4%E7%94%9F%E7%B4%A0%E7%89%87%EF%BC%88%E6%A9%98%E5%AD%90%E5%91%B3%EF%BC%89",
+        "platformPrice": 128,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "奥诺康「奥诺康多种B族维生素片（橘子味）」主打基础维生素，采用片剂剂型（0.5g*80片）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -6193,9 +7099,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1427-8f6e99",
+        "url": "https://s.taobao.com/search?q=%E5%A5%A5%E8%AF%BA%E5%BA%B7DHA%E8%97%BB%E6%B2%B9%E5%8F%B6%E9%BB%84%E7%B4%A0%E8%83%B6%E5%9B%8A",
         "platformPrice": 289,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%A5%A5%E8%AF%BA%E5%BA%B7DHA%E8%97%BB%E6%B2%B9%E5%8F%B6%E9%BB%84%E7%B4%A0%E8%83%B6%E5%9B%8A",
+        "platformPrice": 289,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "奥诺康「奥诺康DHA藻油叶黄素胶囊」主打美容养颜、益智健脑、护眼明目，采用胶囊剂型（450mg*60粒）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -6231,9 +7143,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1311-833522",
+        "url": "https://s.taobao.com/search?q=%E7%BB%B4%E5%A4%9A%E8%8E%B1%E5%A4%A7%E8%B1%86%E5%88%86%E7%A6%BB%E8%9B%8B%E7%99%BD%E4%B9%B3%E6%B8%85%E8%9B%8B%E7%99%BD%E7%B2%89",
         "platformPrice": 298,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%BB%B4%E5%A4%9A%E8%8E%B1%E5%A4%A7%E8%B1%86%E5%88%86%E7%A6%BB%E8%9B%8B%E7%99%BD%E4%B9%B3%E6%B8%85%E8%9B%8B%E7%99%BD%E7%B2%89",
+        "platformPrice": 298,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "维多莱大「维多莱大豆分离蛋白乳清蛋白粉」主打增强免疫力、蛋白质补充，采用粉剂剂型（400g）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -6268,9 +7186,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1506-7cbd9a",
+        "url": "https://s.taobao.com/search?q=%E5%A5%A5%E8%AF%BA%E5%BA%B7%E9%92%99%E5%92%80%E5%9A%BC%E7%89%87",
         "platformPrice": 109,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%A5%A5%E8%AF%BA%E5%BA%B7%E9%92%99%E5%92%80%E5%9A%BC%E7%89%87",
+        "platformPrice": 109,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "奥诺康「奥诺康钙咀嚼片」主打强健骨骼，采用片剂剂型（1.25g*80片）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -6306,9 +7230,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1443-cc2b01",
+        "url": "https://s.taobao.com/search?q=%E7%9B%8A%E7%94%9F%E8%8F%8C%E8%BD%AF%E7%B3%96(%E8%8D%89%E8%8E%93%E5%91%B3%EF%BC%89",
         "platformPrice": 13,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%9B%8A%E7%94%9F%E8%8F%8C%E8%BD%AF%E7%B3%96(%E8%8D%89%E8%8E%93%E5%91%B3%EF%BC%89",
+        "platformPrice": 13,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "益生菌「益生菌软糖(草莓味）」主打健脾消食、益生菌，采用颗粒剂剂型（95g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -6344,9 +7274,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1353-63402b",
+        "url": "https://s.taobao.com/search?q=%E9%B2%81%E4%B8%AD%E5%AE%9D%E8%83%B6%E7%89%8C%E9%98%BF%E8%83%B6%E6%A0%B8%E6%A1%83%E9%BB%91%E8%8A%9D%E9%BA%BB%E7%B3%95",
         "platformPrice": 198,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%B2%81%E4%B8%AD%E5%AE%9D%E8%83%B6%E7%89%8C%E9%98%BF%E8%83%B6%E6%A0%B8%E6%A1%83%E9%BB%91%E8%8A%9D%E9%BA%BB%E7%B3%95",
+        "platformPrice": 198,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "鲁中宝胶「鲁中宝胶牌阿胶核桃黑芝麻糕」主打美容养颜，采用片剂剂型（480g（15g*32袋））单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合女性、成人、通用人群使用。产地未知，全渠道销售。",
@@ -6381,9 +7317,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1326-885980",
+        "url": "https://s.taobao.com/search?q=%E5%A5%A5%E8%AF%BA%E5%BA%B7%E6%B0%A8%E7%B3%96%E9%92%99%E7%A1%AB%E9%85%B8%E8%BD%AF%E9%AA%A8%E7%B4%A0%E8%83%B6%E5%9B%8A",
         "platformPrice": 147,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%A5%A5%E8%AF%BA%E5%BA%B7%E6%B0%A8%E7%B3%96%E9%92%99%E7%A1%AB%E9%85%B8%E8%BD%AF%E9%AA%A8%E7%B4%A0%E8%83%B6%E5%9B%8A",
+        "platformPrice": 147,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "奥诺康「奥诺康氨糖钙硫酸软骨素胶囊」主打强健骨骼，采用胶囊剂型（0.5g*50粒）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -6418,9 +7360,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1509-8edaf5",
+        "url": "https://s.taobao.com/search?q=%E5%8D%81%E6%9C%88%E9%A6%A8%E9%A6%A8%E6%AF%8D%E8%91%86%E7%94%B2%E5%9F%BA%E5%9B%9B%E6%B0%A2%E5%8F%B6%E9%85%B8%E9%92%99",
         "platformPrice": 398,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%8D%81%E6%9C%88%E9%A6%A8%E9%A6%A8%E6%AF%8D%E8%91%86%E7%94%B2%E5%9F%BA%E5%9B%9B%E6%B0%A2%E5%8F%B6%E9%85%B8%E9%92%99",
+        "platformPrice": 398,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "十月馨「十月馨馨母葆甲基四氢叶酸钙」主打增强免疫力，采用片剂剂型（10*30袋）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地广东广州，线上渠道专供。",
@@ -6455,9 +7403,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1411-f182b8",
+        "url": "https://s.taobao.com/search?q=%E4%BC%8A%E5%8F%AF%E6%96%B0%E9%94%8C%E8%BD%AF%E8%83%B6%E5%9B%8A",
         "platformPrice": 68,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E4%BC%8A%E5%8F%AF%E6%96%B0%E9%94%8C%E8%BD%AF%E8%83%B6%E5%9B%8A",
+        "platformPrice": 68,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "伊可新锌「伊可新锌软胶囊」主打增强免疫力，采用胶囊剂型（15g（0.5g*30粒））单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -6493,9 +7447,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1457-c16e4f",
+        "url": "https://s.taobao.com/search?q=SWISSE%E4%B9%B3%E6%B8%85%E8%9B%8B%E7%99%BD%E7%B2%89",
         "platformPrice": 449,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=SWISSE%E4%B9%B3%E6%B8%85%E8%9B%8B%E7%99%BD%E7%B2%89",
+        "platformPrice": 449,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "SWI「SWISSE乳清蛋白粉」主打增强免疫力、蛋白质补充，采用粉剂剂型（450g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -6530,9 +7490,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1507-a4fe9b",
+        "url": "https://s.taobao.com/search?q=%E6%96%AF%E7%BB%B4%E8%AF%97%E8%BE%85%E9%85%B6Q10%E8%BD%AF%E8%83%B6%E5%9B%8A",
         "platformPrice": 279,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%96%AF%E7%BB%B4%E8%AF%97%E8%BE%85%E9%85%B6Q10%E8%BD%AF%E8%83%B6%E5%9B%8A",
+        "platformPrice": 279,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "斯维诗辅「斯维诗辅酶Q10软胶囊」主打抗氧化，采用胶囊剂型（30g（0.5g*60粒））单盒装。该产品获SC食品生产许可，定位为针对性调理。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -6567,9 +7533,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1511-9bd9dc",
+        "url": "https://s.taobao.com/search?q=%E5%8A%9B%E5%A5%B9%E7%BB%B4%E5%A4%9A%E7%A7%8D%E7%BB%B4%E7%94%9F%E7%B4%A0%E7%9F%BF%E7%89%A9%E8%B4%A8%E7%89%87",
         "platformPrice": 208,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%8A%9B%E5%A5%B9%E7%BB%B4%E5%A4%9A%E7%A7%8D%E7%BB%B4%E7%94%9F%E7%B4%A0%E7%9F%BF%E7%89%A9%E8%B4%A8%E7%89%87",
+        "platformPrice": 208,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "力她维多「力她维多种维生素矿物质片」主打基础维生素，采用片剂剂型（1.33g*90片）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -6605,9 +7577,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1346-001a08",
+        "url": "https://s.taobao.com/search?q=%E6%95%96%E4%B8%9C%E7%89%8C%E4%BA%BA%E5%8F%82%E8%9C%82%E7%8E%8B%E6%B5%86",
         "platformPrice": 70,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%95%96%E4%B8%9C%E7%89%8C%E4%BA%BA%E5%8F%82%E8%9C%82%E7%8E%8B%E6%B5%86",
+        "platformPrice": 70,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "敖东「敖东牌人参蜂王浆」主打增强免疫力、蜂产品，采用口服液剂型（200ml（20瓶*10ml））单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -6643,9 +7621,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1358-c45226",
+        "url": "https://s.taobao.com/search?q=%E5%91%A8%E6%B0%8F%E6%97%A0%E7%B3%96%E9%AB%98%E9%92%99%E9%BB%91%E8%8A%9D%E9%BA%BB%E7%B3%8A",
         "platformPrice": 29,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%91%A8%E6%B0%8F%E6%97%A0%E7%B3%96%E9%AB%98%E9%92%99%E9%BB%91%E8%8A%9D%E9%BA%BB%E7%B3%8A",
+        "platformPrice": 29,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "周氏无糖「周氏无糖高钙黑芝麻糊」主打美容养颜、谷物膳食，采用膏方剂型（35g*20袋）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -6681,9 +7665,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1360-45a284",
+        "url": "https://s.taobao.com/search?q=%E5%91%A8%E6%B0%8F%E4%BC%A0%E7%BB%9F%E5%B0%8F%E7%A3%A8%E9%BB%91%E8%8A%9D%E9%BA%BB%E7%B3%8A",
         "platformPrice": 28,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%91%A8%E6%B0%8F%E4%BC%A0%E7%BB%9F%E5%B0%8F%E7%A3%A8%E9%BB%91%E8%8A%9D%E9%BA%BB%E7%B3%8A",
+        "platformPrice": 28,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "周氏传统「周氏传统小磨黑芝麻糊」主打美容养颜、谷物膳食，采用膏方剂型（700g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -6719,9 +7709,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1459-18dfa7",
+        "url": "https://s.taobao.com/search?q=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%E9%87%91%E8%A3%85%E8%9B%8B%E7%99%BD%E7%B2%89",
         "platformPrice": 415,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%E9%87%91%E8%A3%85%E8%9B%8B%E7%99%BD%E7%B2%89",
+        "platformPrice": 415,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "汤臣倍健「汤臣倍健金装蛋白粉」主打增强免疫力、蛋白质补充，采用粉剂剂型（300g+300g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地广东珠海，线上渠道专供。",
@@ -6756,9 +7752,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1415-f6841f",
+        "url": "https://s.taobao.com/search?q=%E6%91%A9%E9%9F%B3%E6%9E%87%E6%9D%B7%E9%87%91%E9%93%B6%E8%8A%B1%E5%90%AB%E7%89%87",
         "platformPrice": 14,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%91%A9%E9%9F%B3%E6%9E%87%E6%9D%B7%E9%87%91%E9%93%B6%E8%8A%B1%E5%90%AB%E7%89%87",
+        "platformPrice": 14,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "摩音「摩音枇杷金银花含片」主打清咽润喉，采用片剂剂型（32g（2g*16粒））单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -6793,9 +7795,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1453-5daf23",
+        "url": "https://s.taobao.com/search?q=%E6%91%A9%E9%9F%B3%E9%9B%AA%E6%A2%A8%E5%B7%9D%E8%B4%9D%E6%9E%87%E6%9D%B7%E5%90%AB%E7%89%87",
         "platformPrice": 14,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%91%A9%E9%9F%B3%E9%9B%AA%E6%A2%A8%E5%B7%9D%E8%B4%9D%E6%9E%87%E6%9D%B7%E5%90%AB%E7%89%87",
+        "platformPrice": 14,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "摩音「摩音雪梨川贝枇杷含片」主打清咽润喉，采用片剂剂型（32g（2g*16粒））单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -6830,9 +7838,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1366-57e166",
+        "url": "https://s.taobao.com/search?q=%E6%91%A9%E9%9F%B3%E8%8D%89%E7%8F%8A%E7%91%9A%E5%90%AB%E7%89%87",
         "platformPrice": 14,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%91%A9%E9%9F%B3%E8%8D%89%E7%8F%8A%E7%91%9A%E5%90%AB%E7%89%87",
+        "platformPrice": 14,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "草珊瑚「摩音草珊瑚含片」主打清咽润喉，采用片剂剂型（24g（1.5g*16粒））单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -6867,9 +7881,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1404-a15b56",
+        "url": "https://s.taobao.com/search?q=%E6%91%A9%E9%9F%B3%E8%83%96%E5%A4%A7%E6%B5%B7%E8%8F%8A%E8%8A%B1%E7%B3%96",
         "platformPrice": 14,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%91%A9%E9%9F%B3%E8%83%96%E5%A4%A7%E6%B5%B7%E8%8F%8A%E8%8A%B1%E7%B3%96",
+        "platformPrice": 14,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "摩音「摩音胖大海菊花糖」主打清咽润喉，采用颗粒剂剂型（24g（1.5g*16粒））单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -6904,9 +7924,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1461-f0ea89",
+        "url": "https://s.taobao.com/search?q=%E8%93%9D%E8%8E%93%E5%8E%9F%E6%B5%86",
         "platformPrice": 123,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%93%9D%E8%8E%93%E5%8E%9F%E6%B5%86",
+        "platformPrice": 123,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "蓝莓原浆「蓝莓原浆」主打增强免疫力，采用口服液剂型（50ml*12瓶）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -6942,9 +7968,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1416-ef4287",
+        "url": "https://s.taobao.com/search?q=%E9%92%99%E7%BB%B4%E7%94%9F%E7%B4%A0D%E7%BB%B4%E7%94%9F%E7%B4%A0K%E5%8F%A3%E6%9C%8D%E6%B6%B2",
         "platformPrice": 70,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%92%99%E7%BB%B4%E7%94%9F%E7%B4%A0D%E7%BB%B4%E7%94%9F%E7%B4%A0K%E5%8F%A3%E6%9C%8D%E6%B6%B2",
+        "platformPrice": 70,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "钙维「钙维生素D维生素K口服液」主打强健骨骼、矿物质补充，采用口服液剂型（15mg*22支）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -6980,9 +8012,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1405-2ee108",
+        "url": "https://s.taobao.com/search?q=%E9%92%99%E7%BB%B4%E7%94%9F%E7%B4%A0D%E8%BD%AF%E8%83%B6%E5%9B%8A",
         "platformPrice": 51,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%92%99%E7%BB%B4%E7%94%9F%E7%B4%A0D%E8%BD%AF%E8%83%B6%E5%9B%8A",
+        "platformPrice": 51,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "钙维「钙维生素D软胶囊」主打强健骨骼、矿物质补充，采用胶囊剂型（100g（1g*100粒））单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -7017,9 +8055,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1421-e5f876",
+        "url": "https://s.taobao.com/search?q=%E8%A4%AA%E9%BB%91%E7%B4%A0%E7%89%87",
         "platformPrice": 38,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%A4%AA%E9%BB%91%E7%B4%A0%E7%89%87",
+        "platformPrice": 38,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "褪黑素片「褪黑素片」主打助眠安神，采用片剂剂型（24g（400mg*60片））单盒装。该产品获SC食品生产许可，定位为针对性调理。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -7055,9 +8099,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1441-041baa",
+        "url": "https://s.taobao.com/search?q=%E6%B2%99%E6%BC%A0%E4%BA%BA%E5%8F%82%E8%82%89%E8%8B%81%E8%93%89%E9%85%92",
         "platformPrice": 82,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%B2%99%E6%BC%A0%E4%BA%BA%E5%8F%82%E8%82%89%E8%8B%81%E8%93%89%E9%85%92",
+        "platformPrice": 82,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "沙漠人参「沙漠人参肉苁蓉酒」主打增强免疫力、补肾益气，采用片剂剂型（500ml）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -7092,9 +8142,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1358-378b11",
+        "url": "https://s.taobao.com/search?q=%E5%AE%89%E7%90%AA%E7%BA%BD%E7%89%B9DHA%E8%97%BB%E6%B2%B9%E8%BD%AF%E8%83%B6%E5%9B%8A",
         "platformPrice": 161,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%AE%89%E7%90%AA%E7%BA%BD%E7%89%B9DHA%E8%97%BB%E6%B2%B9%E8%BD%AF%E8%83%B6%E5%9B%8A",
+        "platformPrice": 161,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "安琪纽特「安琪纽特DHA藻油软胶囊」主打益智健脑，采用胶囊剂型（0.3g*7粒*5袋）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地湖北宜昌，全渠道销售。",
@@ -7131,9 +8187,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1495-80bbab",
+        "url": "https://s.taobao.com/search?q=%22%E5%8F%AF%E5%A4%8D%E7%BE%8E%E9%87%8D%E7%BB%84%E8%83%B6%E5%8E%9F%E8%9B%8B%E7%99%BD%E8%82%8C%E5%BE%A1%E4%BF%AE%E6%8A%A4%E6%AC%A1%E6%8A%9B%E7%B2%BE%E5%8D%8E%09%09%22",
         "platformPrice": 298,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%22%E5%8F%AF%E5%A4%8D%E7%BE%8E%E9%87%8D%E7%BB%84%E8%83%B6%E5%8E%9F%E8%9B%8B%E7%99%BD%E8%82%8C%E5%BE%A1%E4%BF%AE%E6%8A%A4%E6%AC%A1%E6%8A%9B%E7%B2%BE%E5%8D%8E%09%09%22",
+        "platformPrice": 298,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "可复美「\"可复美重组胶原蛋白肌御修护次抛精华\t\t\"」主打美容养颜、胶原蛋白，采用片剂剂型（1.5ml*30支）单盒装。该产品获SC食品生产许可，定位为针对性调理。适合女性、成人、通用人群使用。产地未知，线上渠道专供。",
@@ -7168,9 +8230,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1406-62b0f6",
+        "url": "https://s.taobao.com/search?q=%22%E5%A4%9A%E5%90%88%E7%89%8C%E5%B7%A6%E6%97%8B%E8%82%89%E7%A2%B1%E9%80%9F%E6%BA%B6%E5%92%96%E5%95%A1%E7%B2%89%EF%BC%88%E5%92%96%E8%89%B2%EF%BC%89%09%09%22",
         "platformPrice": 50,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%22%E5%A4%9A%E5%90%88%E7%89%8C%E5%B7%A6%E6%97%8B%E8%82%89%E7%A2%B1%E9%80%9F%E6%BA%B6%E5%92%96%E5%95%A1%E7%B2%89%EF%BC%88%E5%92%96%E8%89%B2%EF%BC%89%09%09%22",
+        "platformPrice": 50,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "\"多合「\"多合牌左旋肉碱速溶咖啡粉（咖色）\t\t\"」主打增强免疫力，采用片剂剂型（70g（10g*7袋））单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -7205,9 +8273,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1319-207886",
+        "url": "https://s.taobao.com/search?q=%E7%BA%BD%E5%B0%8F%E6%B3%A1%E7%89%8C%E7%BB%B4%E7%94%9F%E7%B4%A0C%E5%92%80%E5%9A%BC%E7%89%87",
         "platformPrice": 11,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%BA%BD%E5%B0%8F%E6%B3%A1%E7%89%8C%E7%BB%B4%E7%94%9F%E7%B4%A0C%E5%92%80%E5%9A%BC%E7%89%87",
+        "platformPrice": 11,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "纽小泡「纽小泡牌维生素C咀嚼片」主打基础维生素，采用片剂剂型（0.5g*48片）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -7242,9 +8316,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1362-e90093",
+        "url": "https://s.taobao.com/search?q=%E7%BA%BD%E5%B0%8F%E6%B3%A1%E5%A4%9A%E7%A7%8D%E7%BB%B4%E7%94%9F%E7%B4%A0%E5%92%80%E5%9A%BC%E7%89%87%EF%BC%88%E6%B0%B4%E8%9C%9C%E6%A1%83%E5%91%B3%EF%BC%89",
         "platformPrice": 11,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%BA%BD%E5%B0%8F%E6%B3%A1%E5%A4%9A%E7%A7%8D%E7%BB%B4%E7%94%9F%E7%B4%A0%E5%92%80%E5%9A%BC%E7%89%87%EF%BC%88%E6%B0%B4%E8%9C%9C%E6%A1%83%E5%91%B3%EF%BC%89",
+        "platformPrice": 11,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "纽小泡多「纽小泡多种维生素咀嚼片（水蜜桃味）」主打基础维生素，采用片剂剂型（0.5g*48片）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -7280,9 +8360,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1424-d78d98",
+        "url": "https://s.taobao.com/search?q=%E7%BA%BD%E5%B0%8F%E6%B3%A1%E7%89%8C%E9%94%8C%E7%BB%B4%E7%94%9F%E7%B4%A0C%E5%92%80%E5%9A%BC%E7%89%87%EF%BC%88%E8%A5%BF%E6%9F%9A%E5%91%B3%EF%BC%89",
         "platformPrice": 11,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%BA%BD%E5%B0%8F%E6%B3%A1%E7%89%8C%E9%94%8C%E7%BB%B4%E7%94%9F%E7%B4%A0C%E5%92%80%E5%9A%BC%E7%89%87%EF%BC%88%E8%A5%BF%E6%9F%9A%E5%91%B3%EF%BC%89",
+        "platformPrice": 11,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "纽小泡「纽小泡牌锌维生素C咀嚼片（西柚味）」主打矿物质补充、基础维生素，采用片剂剂型（0.5g*48片）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -7317,9 +8403,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1507-6cb8ec",
+        "url": "https://s.taobao.com/search?q=%E7%BA%BD%E5%B0%8F%E6%B3%A1B%E6%97%8F%E7%BB%B4%E7%94%9F%E7%B4%A0%E5%92%80%E5%9A%BC%E7%89%87%EF%BC%88%E8%96%84%E8%8D%B7%E5%91%B3%EF%BC%89",
         "platformPrice": 11,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%BA%BD%E5%B0%8F%E6%B3%A1B%E6%97%8F%E7%BB%B4%E7%94%9F%E7%B4%A0%E5%92%80%E5%9A%BC%E7%89%87%EF%BC%88%E8%96%84%E8%8D%B7%E5%91%B3%EF%BC%89",
+        "platformPrice": 11,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "纽小泡「纽小泡B族维生素咀嚼片（薄荷味）」主打基础维生素，采用片剂剂型（0.5g*48片）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -7354,9 +8446,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1459-7fb5a6",
+        "url": "https://s.taobao.com/search?q=%E5%8A%A9%E7%88%BD%E8%91%A1%E8%90%84%E7%B3%96%E9%85%B8%E9%92%99%E5%87%9D%E8%83%B6%E7%B3%96%E6%9E%9C%EF%BC%88%E8%91%A1%E8%90%84%E5%91%B3%EF%BC%89",
         "platformPrice": 10,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%8A%A9%E7%88%BD%E8%91%A1%E8%90%84%E7%B3%96%E9%85%B8%E9%92%99%E5%87%9D%E8%83%B6%E7%B3%96%E6%9E%9C%EF%BC%88%E8%91%A1%E8%90%84%E5%91%B3%EF%BC%89",
+        "platformPrice": 10,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "助爽葡萄「助爽葡萄糖酸钙凝胶糖果（葡萄味）」主打矿物质补充，采用片剂剂型（72g（4.5g*16粒））单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -7391,9 +8489,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1409-e6c623",
+        "url": "https://s.taobao.com/search?q=%E5%8A%A9%E7%88%BD%E8%91%A1%E8%90%84%E7%B3%96%E9%85%B8%E9%94%8C%E5%87%9D%E8%83%B6%E7%B3%96%E6%9E%9C%EF%BC%88%E8%91%A1%E8%90%84%E5%91%B3%EF%BC%89",
         "platformPrice": 10,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%8A%A9%E7%88%BD%E8%91%A1%E8%90%84%E7%B3%96%E9%85%B8%E9%94%8C%E5%87%9D%E8%83%B6%E7%B3%96%E6%9E%9C%EF%BC%88%E8%91%A1%E8%90%84%E5%91%B3%EF%BC%89",
+        "platformPrice": 10,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "助爽葡萄「助爽葡萄糖酸锌凝胶糖果（葡萄味）」主打矿物质补充，采用片剂剂型（72g（4.5g*16粒））单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -7428,9 +8532,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1410-e751e3",
+        "url": "https://s.taobao.com/search?q=%E5%8A%A9%E7%88%BD%E8%91%A1%E8%90%84%E7%B3%96%E9%85%B8%E9%92%99%E5%87%9D%E8%83%B6%E7%B3%96%E6%9E%9C%EF%BC%88%E8%8D%89%E8%8E%93%E5%91%B3%EF%BC%89",
         "platformPrice": 10,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%8A%A9%E7%88%BD%E8%91%A1%E8%90%84%E7%B3%96%E9%85%B8%E9%92%99%E5%87%9D%E8%83%B6%E7%B3%96%E6%9E%9C%EF%BC%88%E8%8D%89%E8%8E%93%E5%91%B3%EF%BC%89",
+        "platformPrice": 10,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "助爽葡萄「助爽葡萄糖酸钙凝胶糖果（草莓味）」主打矿物质补充，采用片剂剂型（72g（4.5g*16粒））单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -7465,9 +8575,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1455-f53b5b",
+        "url": "https://s.taobao.com/search?q=%E5%8A%A9%E7%88%BD%E9%92%99%E9%94%8C%E5%87%9D%E8%83%B6%E7%B3%96%E6%9E%9C%EF%BC%88%E8%91%A1%E8%90%84%E5%91%B3%EF%BC%89",
         "platformPrice": 10,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%8A%A9%E7%88%BD%E9%92%99%E9%94%8C%E5%87%9D%E8%83%B6%E7%B3%96%E6%9E%9C%EF%BC%88%E8%91%A1%E8%90%84%E5%91%B3%EF%BC%89",
+        "platformPrice": 10,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "助爽钙锌「助爽钙锌凝胶糖果（葡萄味）」主打增强免疫力，采用片剂剂型（72g（4.5g*16粒））单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -7502,9 +8618,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1411-86c43c",
+        "url": "https://s.taobao.com/search?q=%E5%8A%A9%E7%88%BD%E9%92%99%E9%94%8C%E5%87%9D%E8%83%B6%E7%B3%96%E6%9E%9C%EF%BC%88%E8%8D%89%E8%8E%93%E5%91%B3%EF%BC%89",
         "platformPrice": 10,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%8A%A9%E7%88%BD%E9%92%99%E9%94%8C%E5%87%9D%E8%83%B6%E7%B3%96%E6%9E%9C%EF%BC%88%E8%8D%89%E8%8E%93%E5%91%B3%EF%BC%89",
+        "platformPrice": 10,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "助爽钙锌「助爽钙锌凝胶糖果（草莓味）」主打增强免疫力，采用片剂剂型（72g（4.5g*16粒））单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -7539,9 +8661,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1360-12384f",
+        "url": "https://s.taobao.com/search?q=%E5%8A%A9%E7%88%BD%E8%91%A1%E8%90%84%E7%B3%96%E9%85%B8%E9%94%8C%E5%87%9D%E8%83%B6%E7%B3%96%E6%9E%9C%EF%BC%88%E8%8D%89%E8%8E%93%E5%91%B3%EF%BC%89",
         "platformPrice": 10,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%8A%A9%E7%88%BD%E8%91%A1%E8%90%84%E7%B3%96%E9%85%B8%E9%94%8C%E5%87%9D%E8%83%B6%E7%B3%96%E6%9E%9C%EF%BC%88%E8%8D%89%E8%8E%93%E5%91%B3%EF%BC%89",
+        "platformPrice": 10,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "助爽葡萄「助爽葡萄糖酸锌凝胶糖果（草莓味）」主打矿物质补充，采用片剂剂型（72g（4.5g*16粒））单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -7577,9 +8705,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1456-e55d1d",
+        "url": "https://s.taobao.com/search?q=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%E9%92%99%E7%BB%B4%E7%94%9F%E7%B4%A0E%E8%9B%8B%E7%99%BD%E7%B2%89",
         "platformPrice": 357,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%E9%92%99%E7%BB%B4%E7%94%9F%E7%B4%A0E%E8%9B%8B%E7%99%BD%E7%B2%89",
+        "platformPrice": 357,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "汤臣倍健「汤臣倍健钙维生素E蛋白粉」主打增强免疫力、蛋白质补充，采用粉剂剂型（520g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地广东珠海，线上渠道专供。",
@@ -7615,9 +8749,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1408-d7542b",
+        "url": "https://s.taobao.com/search?q=%22%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%E9%92%99%E7%BB%B4%E7%94%9F%E7%B4%A0D%E7%BB%B4%E7%94%9F%E7%B4%A0K%E8%BD%AF%E8%83%B6%E5%9B%8A%09%09%22",
         "platformPrice": 122,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%22%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%E9%92%99%E7%BB%B4%E7%94%9F%E7%B4%A0D%E7%BB%B4%E7%94%9F%E7%B4%A0K%E8%BD%AF%E8%83%B6%E5%9B%8A%09%09%22",
+        "platformPrice": 122,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "汤臣倍健「\"汤臣倍健钙维生素D维生素K软胶囊\t\t\"」主打强健骨骼、矿物质补充，采用胶囊剂型（120粒）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地广东珠海，线上渠道专供。",
@@ -7653,9 +8793,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1351-11d342",
+        "url": "https://s.taobao.com/search?q=%22%E5%81%A5%E8%A7%86%E4%BD%B3%E8%B6%8A%E6%A9%98%E5%8F%B6%E9%BB%84%E7%B4%A0%E9%85%AF%CE%B2-%E8%83%A1%E8%90%9D%E5%8D%9C%E7%B4%A0%E8%BD%AF%E8%83%B6%E5%9B%8A%09%09%22",
         "platformPrice": 171,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%22%E5%81%A5%E8%A7%86%E4%BD%B3%E8%B6%8A%E6%A9%98%E5%8F%B6%E9%BB%84%E7%B4%A0%E9%85%AF%CE%B2-%E8%83%A1%E8%90%9D%E5%8D%9C%E7%B4%A0%E8%BD%AF%E8%83%B6%E5%9B%8A%09%09%22",
+        "platformPrice": 171,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "\"健视「\"健视佳越橘叶黄素酯β-胡萝卜素软胶囊\t\t\"」主打美容养颜、护眼明目，采用胶囊剂型（0.5g*30粒）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -7690,9 +8836,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1456-a556dc",
+        "url": "https://s.taobao.com/search?q=%E6%9D%A5%E7%9B%8A%E7%89%8C%E7%BB%B4%E7%94%9F%E7%B4%A0E%E8%BD%AF%E8%83%B6%E5%9B%8A",
         "platformPrice": 99,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%9D%A5%E7%9B%8A%E7%89%8C%E7%BB%B4%E7%94%9F%E7%B4%A0E%E8%BD%AF%E8%83%B6%E5%9B%8A",
+        "platformPrice": 99,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "来益「来益牌维生素E软胶囊」主打基础维生素，采用胶囊剂型（0.25g*160粒）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -7727,9 +8879,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1450-1a4c7b",
+        "url": "https://s.taobao.com/search?q=%E9%A6%99%E4%B8%B9%E6%B8%85%E7%89%8C%E7%8F%82%E5%A6%8D%E8%83%B6%E5%9B%8A",
         "platformPrice": 20,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%A6%99%E4%B8%B9%E6%B8%85%E7%89%8C%E7%8F%82%E5%A6%8D%E8%83%B6%E5%9B%8A",
+        "platformPrice": 20,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "香丹清「香丹清牌珂妍胶囊」主打增强免疫力，采用胶囊剂型（0.4g*8粒）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -7764,9 +8922,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1409-2e2d75",
+        "url": "https://s.taobao.com/search?q=%E6%95%B4%E8%9B%8B%E7%99%BD%E5%9E%8B%E8%82%A0%E5%86%85%E8%90%A5%E5%85%BB%E5%89%82",
         "platformPrice": 61,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%95%B4%E8%9B%8B%E7%99%BD%E5%9E%8B%E8%82%A0%E5%86%85%E8%90%A5%E5%85%BB%E5%89%82",
+        "platformPrice": 61,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "整蛋白型「整蛋白型肠内营养剂」主打增强免疫力，采用片剂剂型（320g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -7801,9 +8965,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1401-1c2c71",
+        "url": "https://s.taobao.com/search?q=%E7%BA%A2%E6%99%AF%E5%A4%A9%E8%83%B6%E5%9B%8A",
         "platformPrice": 21,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%BA%A2%E6%99%AF%E5%A4%A9%E8%83%B6%E5%9B%8A",
+        "platformPrice": 21,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "红景天胶「红景天胶囊」主打增强免疫力，采用胶囊剂型（0.3g*12粒）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -7839,9 +9009,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1363-b48841",
+        "url": "https://s.taobao.com/search?q=%E5%84%BF%E7%AB%A5%E7%BB%B4D%E9%92%99",
         "platformPrice": 51,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%84%BF%E7%AB%A5%E7%BB%B4D%E9%92%99",
+        "platformPrice": 51,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "儿童维「儿童维D钙」主打强健骨骼，采用片剂剂型（30片）单盒装。该产品获SC食品生产许可，定位为日常保健。适合儿童、成人、通用人群使用。产地美国进口，线上渠道专供。",
@@ -7876,9 +9052,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1462-f484fb",
+        "url": "https://s.taobao.com/search?q=%E5%8A%9B%E5%85%8B%E4%BF%9D%E5%81%A5%E6%B6%B2",
         "platformPrice": 15,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%8A%9B%E5%85%8B%E4%BF%9D%E5%81%A5%E6%B6%B2",
+        "platformPrice": 15,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "力克保健「力克保健液」主打增强免疫力，采用口服液剂型（100ml）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -7913,9 +9095,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1412-8233ff",
+        "url": "https://s.taobao.com/search?q=%E5%93%88%E8%8D%AF%E7%89%8C%E9%92%99%E9%93%81%E9%94%8C%E5%8F%A3%E6%9C%8D%E6%B6%B2",
         "platformPrice": 53,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%93%88%E8%8D%AF%E7%89%8C%E9%92%99%E9%93%81%E9%94%8C%E5%8F%A3%E6%9C%8D%E6%B6%B2",
+        "platformPrice": 53,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "哈药「哈药牌钙铁锌口服液」主打矿物质补充，采用片剂剂型（538）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -7951,9 +9139,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1406-ae3157",
+        "url": "https://s.taobao.com/search?q=%E9%87%91%E9%93%B6%E8%8A%B1",
         "platformPrice": 55,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%87%91%E9%93%B6%E8%8A%B1",
+        "platformPrice": 55,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "金银花「金银花」主打增强免疫力、中药食材，采用片剂剂型（40g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地山东济南，线上渠道专供。",
@@ -7989,9 +9183,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1454-55eb4a",
+        "url": "https://s.taobao.com/search?q=%E8%8C%AF%E8%8B%93",
         "platformPrice": 56,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%8C%AF%E8%8B%93",
+        "platformPrice": 56,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "茯苓「茯苓」主打增强免疫力、中药食材，采用片剂剂型（200g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地山东济南，线上渠道专供。",
@@ -8027,9 +9227,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1354-a61433",
+        "url": "https://s.taobao.com/search?q=%E7%99%BE%E5%90%88",
         "platformPrice": 44,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%99%BE%E5%90%88",
+        "platformPrice": 44,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "百合「百合」主打增强免疫力、中药食材，采用片剂剂型（120g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地山东济南，线上渠道专供。",
@@ -8065,9 +9271,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1318-187086",
+        "url": "https://s.taobao.com/search?q=%E8%A5%BF%E6%B4%8B%E5%8F%82",
         "platformPrice": 107,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%A5%BF%E6%B4%8B%E5%8F%82",
+        "platformPrice": 107,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "西洋「西洋参」主打增强免疫力、中药食材，采用片剂剂型（50g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地山东济南，线上渠道专供。",
@@ -8103,9 +9315,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1461-891cce",
+        "url": "https://s.taobao.com/search?q=%E8%8E%B2%E5%AD%90%E5%BF%83",
         "platformPrice": 38,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%8E%B2%E5%AD%90%E5%BF%83",
+        "platformPrice": 38,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "莲子心「莲子心」主打增强免疫力、中药食材，采用片剂剂型（60g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地山东济南，线上渠道专供。",
@@ -8140,9 +9358,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1452-a17da6",
+        "url": "https://s.taobao.com/search?q=%E5%85%9A%E5%8F%82",
         "platformPrice": 82,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%85%9A%E5%8F%82",
+        "platformPrice": 82,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "党参「党参」主打增强免疫力，采用片剂剂型（100g）单盒装。该产品获SC食品生产许可，定位为针对性调理。适合成人、通用人群使用。产地山东济南，线上渠道专供。",
@@ -8177,9 +9401,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1359-57a244",
+        "url": "https://s.taobao.com/search?q=%E5%BD%93%E5%BD%92",
         "platformPrice": 72,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%BD%93%E5%BD%92",
+        "platformPrice": 72,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "当归「当归」主打美容养颜，采用片剂剂型（90g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地山东济南，线上渠道专供。",
@@ -8215,9 +9445,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1456-b59e1b",
+        "url": "https://s.taobao.com/search?q=%E8%8E%B2%E5%AD%90",
         "platformPrice": 54,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%8E%B2%E5%AD%90",
+        "platformPrice": 54,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "莲子「莲子」主打增强免疫力、中药食材，采用片剂剂型（200g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地山东济南，线上渠道专供。",
@@ -8252,9 +9488,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1414-39e8e0",
+        "url": "https://s.taobao.com/search?q=%E6%AF%8F%E6%97%A5%E6%AC%A3%E7%BB%B4%E7%94%9F%E7%B4%A0E%E8%BD%AF%E8%83%B6%E5%9B%8A",
         "platformPrice": 3,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%AF%8F%E6%97%A5%E6%AC%A3%E7%BB%B4%E7%94%9F%E7%B4%A0E%E8%BD%AF%E8%83%B6%E5%9B%8A",
+        "platformPrice": 3,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "每日欣维「每日欣维生素E软胶囊」主打基础维生素，采用胶囊剂型（0.45g*60粒）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -8289,9 +9531,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1450-dc523a",
+        "url": "https://s.taobao.com/search?q=%E7%A6%8F%E6%96%BD%E7%A6%8F%EF%BC%88%E8%83%B6%E5%9B%8A%E8%90%A5%E5%85%BB%E7%B4%A0%E8%A1%A5%E5%85%85%E5%89%82%EF%BC%89",
         "platformPrice": 148,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%A6%8F%E6%96%BD%E7%A6%8F%EF%BC%88%E8%83%B6%E5%9B%8A%E8%90%A5%E5%85%BB%E7%B4%A0%E8%A1%A5%E5%85%85%E5%89%82%EF%BC%89",
+        "platformPrice": 148,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "福施福「福施福（胶囊营养素补充剂）」主打增强免疫力，采用胶囊剂型（30s）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地广东广州，全渠道销售。",
@@ -8326,9 +9574,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1372-65856f",
+        "url": "https://s.taobao.com/search?q=%E9%BA%A6%E9%87%91%E5%88%A9%E7%BB%B4%E7%94%9F%E7%B4%A0C%E6%B3%A1%E8%85%BE%E7%89%87",
         "platformPrice": 9,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%BA%A6%E9%87%91%E5%88%A9%E7%BB%B4%E7%94%9F%E7%B4%A0C%E6%B3%A1%E8%85%BE%E7%89%87",
+        "platformPrice": 9,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "麦金利维「麦金利维生素C泡腾片」主打基础维生素，采用片剂剂型（20片）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -8363,9 +9617,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1371-8839f1",
+        "url": "https://s.taobao.com/search?q=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%E7%89%9B%E5%88%9D%E4%B9%B3%E7%B2%89",
         "platformPrice": 288,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%E7%89%9B%E5%88%9D%E4%B9%B3%E7%B2%89",
+        "platformPrice": 288,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "汤臣倍健「汤臣倍健牛初乳粉」主打增强免疫力，采用粉剂剂型（(500mg*60包)30g）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地广东珠海，全渠道销售。",
@@ -8401,9 +9661,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1365-09f734",
+        "url": "https://s.taobao.com/search?q=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%E8%9C%82%E8%83%B6%E8%BD%AF%E8%83%B6%E5%9B%8A(%E5%B7%B4%E8%A5%BF%E7%BB%BF%E8%9C%82%E8%83%B6)",
         "platformPrice": 262,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%E8%9C%82%E8%83%B6%E8%BD%AF%E8%83%B6%E5%9B%8A(%E5%B7%B4%E8%A5%BF%E7%BB%BF%E8%9C%82%E8%83%B6)",
+        "platformPrice": 262,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "汤臣倍健「汤臣倍健蜂胶软胶囊(巴西绿蜂胶)」主打增强免疫力、蜂产品，采用胶囊剂型（30g(500mg*60s)）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地广东珠海，全渠道销售。",
@@ -8439,9 +9705,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1407-3861cb",
+        "url": "https://s.taobao.com/search?q=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%E7%89%9B%E5%88%9D%E4%B9%B3%E5%8A%A0%E9%92%99%E5%92%80%E5%9A%BC%E7%89%87",
         "platformPrice": 219,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%E7%89%9B%E5%88%9D%E4%B9%B3%E5%8A%A0%E9%92%99%E5%92%80%E5%9A%BC%E7%89%87",
+        "platformPrice": 219,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "汤臣倍健「汤臣倍健牛初乳加钙咀嚼片」主打增强免疫力、强健骨骼，采用片剂剂型（72g(1.2g*60片)）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地广东珠海，全渠道销售。",
@@ -8477,9 +9749,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1403-f811b1",
+        "url": "https://s.taobao.com/search?q=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%E9%B1%BC%E6%B2%B9%E7%89%9B%E7%A3%BA%E9%85%B8%E9%94%8C%E8%BD%AF%E8%83%B6%E5%9B%8A",
         "platformPrice": 161,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%E9%B1%BC%E6%B2%B9%E7%89%9B%E7%A3%BA%E9%85%B8%E9%94%8C%E8%BD%AF%E8%83%B6%E5%9B%8A",
+        "platformPrice": 161,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "汤臣倍健「汤臣倍健鱼油牛磺酸锌软胶囊」主打调节三高、益智健脑，采用胶囊剂型（45g(500mg*90s)）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地广东珠海，全渠道销售。",
@@ -8514,9 +9792,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1452-a7dc32",
+        "url": "https://s.taobao.com/search?q=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%E9%94%8C%E5%92%80%E5%9A%BC%E7%89%87",
         "platformPrice": 90,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%E9%94%8C%E5%92%80%E5%9A%BC%E7%89%87",
+        "platformPrice": 90,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "汤臣倍健「汤臣倍健锌咀嚼片」主打矿物质补充，采用片剂剂型（24g(0.4g*60片)）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地广东珠海，线上渠道专供。",
@@ -8551,9 +9835,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1364-0d9276",
+        "url": "https://s.taobao.com/search?q=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%E5%A9%B7%E5%A5%BD%E9%9D%92%E6%98%A5%E8%83%B6%E5%9B%8A",
         "platformPrice": 204,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%E5%A9%B7%E5%A5%BD%E9%9D%92%E6%98%A5%E8%83%B6%E5%9B%8A",
+        "platformPrice": 204,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "汤臣倍健「汤臣倍健婷好青春胶囊」主打增强免疫力，采用胶囊剂型（12g(0.2g*60s)）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地广东珠海，全渠道销售。",
@@ -8588,9 +9878,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1396-34c10a",
+        "url": "https://s.taobao.com/search?q=%E7%BA%A2%E7%89%9B%E7%BB%B4%E7%94%9F%E7%B4%A0%E5%8A%9F%E8%83%BD%E9%A5%AE%E6%96%99",
         "platformPrice": 6,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%BA%A2%E7%89%9B%E7%BB%B4%E7%94%9F%E7%B4%A0%E5%8A%9F%E8%83%BD%E9%A5%AE%E6%96%99",
+        "platformPrice": 6,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "红牛维生「红牛维生素功能饮料」主打基础维生素，采用片剂剂型（250ml）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -8626,9 +9922,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1409-d12d77",
+        "url": "https://s.taobao.com/search?q=%E5%A4%AA%E5%A4%AA%E9%9D%99%E5%BF%83%E5%8A%A9%E7%9C%A0%E5%8F%A3%E6%9C%8D%E6%B6%B2",
         "platformPrice": 298,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%A4%AA%E5%A4%AA%E9%9D%99%E5%BF%83%E5%8A%A9%E7%9C%A0%E5%8F%A3%E6%9C%8D%E6%B6%B2",
+        "platformPrice": 298,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "太太「太太静心助眠口服液」主打助眠安神，采用口服液剂型（15ml*60支）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合女性、成人、通用人群使用。产地未知，全渠道销售。",
@@ -8664,9 +9966,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1316-917731",
+        "url": "https://s.taobao.com/search?q=%E9%BB%84%E9%87%91%E6%90%AD%E6%8C%A1(%E4%B8%AD%E8%80%81%E5%B9%B4)",
         "platformPrice": 185,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%BB%84%E9%87%91%E6%90%AD%E6%8C%A1(%E4%B8%AD%E8%80%81%E5%B9%B4)",
+        "platformPrice": 185,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "黄金搭挡「黄金搭挡(中老年)」主打增强免疫力，采用片剂剂型（100片）单盒装。该产品获SC食品生产许可，定位为日常保健。适合中老年、成人、通用人群使用。产地未知，线上渠道专供。",
@@ -8702,9 +10010,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1452-a065ec",
+        "url": "https://s.taobao.com/search?q=%E4%BA%BA%E5%8F%82%E8%9C%82%E7%8E%8B%E6%B5%86",
         "platformPrice": 25,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E4%BA%BA%E5%8F%82%E8%9C%82%E7%8E%8B%E6%B5%86",
+        "platformPrice": 25,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "人参蜂王「人参蜂王浆」主打增强免疫力、蜂产品，采用口服液剂型（10ml*10支）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -8740,9 +10054,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1404-4161fb",
+        "url": "https://s.taobao.com/search?q=%E7%A6%8F%E6%A0%BC%E6%A3%AE%E5%AD%95%E5%A6%87%E8%90%A5%E5%85%BB%E7%B4%A0%E8%BD%AF%E8%83%B6%E5%9B%8A",
         "platformPrice": 142,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%A6%8F%E6%A0%BC%E6%A3%AE%E5%AD%95%E5%A6%87%E8%90%A5%E5%85%BB%E7%B4%A0%E8%BD%AF%E8%83%B6%E5%9B%8A",
+        "platformPrice": 142,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "福格森孕「福格森孕妇营养素软胶囊」主打增强免疫力，采用胶囊剂型（1.45g*30s）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合孕妇、成人、通用人群使用。产地未知，全渠道销售。",
@@ -8777,9 +10097,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1460-3ee92d",
+        "url": "https://s.taobao.com/search?q=%22%E6%BD%8D%E8%87%B3%E5%BA%B7%E9%92%99%E5%92%80%E5%9A%BC%E7%89%87%EF%BC%88%E7%89%9B%E5%A5%B6%E5%91%B3%EF%BC%89%09%09%22",
         "platformPrice": 38,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%22%E6%BD%8D%E8%87%B3%E5%BA%B7%E9%92%99%E5%92%80%E5%9A%BC%E7%89%87%EF%BC%88%E7%89%9B%E5%A5%B6%E5%91%B3%EF%BC%89%09%09%22",
+        "platformPrice": 38,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "\"潍至「\"潍至康钙咀嚼片（牛奶味）\t\t\"」主打强健骨骼，采用片剂剂型（72g（1.2g*60片））单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -8814,9 +10140,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1407-7e24b3",
+        "url": "https://s.taobao.com/search?q=%E4%BC%98%E5%B0%94",
         "platformPrice": 154,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E4%BC%98%E5%B0%94",
+        "platformPrice": 154,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "优尔「优尔」主打增强免疫力，采用片剂剂型（16g（200mg*80粒））单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地吉林长春，全渠道销售。",
@@ -8851,9 +10183,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1508-f9b8ab",
+        "url": "https://s.taobao.com/search?q=%E9%9D%9E%E5%8D%96%E5%93%81",
         "platformPrice": 24,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%9D%9E%E5%8D%96%E5%93%81",
+        "platformPrice": 24,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "非卖品「非卖品」主打增强免疫力，采用片剂剂型（1.5g*5袋）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地广东广州，全渠道销售。",
@@ -8888,9 +10226,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1363-31c875",
+        "url": "https://s.taobao.com/search?q=%E7%BB%B4%E7%94%9F%E7%B4%A0C",
         "platformPrice": 70,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%BB%B4%E7%94%9F%E7%B4%A0C",
+        "platformPrice": 70,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "维生「维生素C」主打基础维生素，采用片剂剂型（0.85g*90粒）单盒装。该产品获国家蓝帽保健食品认证，定位为日常保健。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -8925,9 +10269,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1452-ee211f",
+        "url": "https://s.taobao.com/search?q=%E5%A4%9A%E7%BB%B4%E5%85%83%E7%B4%A0%E7%B1%BB",
         "platformPrice": 57,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%A4%9A%E7%BB%B4%E5%85%83%E7%B4%A0%E7%B1%BB",
+        "platformPrice": 57,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "多维元素「多维元素类」主打增强免疫力，采用片剂剂型（1000mg*100片）单盒装。该产品获国家蓝帽保健食品认证，定位为日常保健。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -8962,9 +10312,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1367-983b54",
+        "url": "https://s.taobao.com/search?q=%E9%B1%BC%E6%B2%B9%E7%B1%BB",
         "platformPrice": 105,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%B1%BC%E6%B2%B9%E7%B1%BB",
+        "platformPrice": 105,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "鱼油类「鱼油类」主打调节三高，采用片剂剂型（1.0g*60粒）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -8999,9 +10355,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1543-b1bcaf",
+        "url": "https://s.taobao.com/search?q=%E8%A4%AA%E9%BB%91%E7%B4%A0%E7%B1%BB",
         "platformPrice": 85,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%A4%AA%E9%BB%91%E7%B4%A0%E7%B1%BB",
+        "platformPrice": 85,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "褪黑素类「褪黑素类」主打助眠安神，采用片剂剂型（300mg*60片）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -9036,9 +10398,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1406-8a043f",
+        "url": "https://s.taobao.com/search?q=%E5%A4%A7%E8%B1%86%E7%A3%B7%E8%84%82%E8%BD%AF%E7%B1%BB",
         "platformPrice": 118,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%A4%A7%E8%B1%86%E7%A3%B7%E8%84%82%E8%BD%AF%E7%B1%BB",
+        "platformPrice": 118,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "大豆磷脂「大豆磷脂软类」主打益智健脑，采用片剂剂型（1200mg*300粒）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -9073,9 +10441,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1452-4b74ab",
+        "url": "https://s.taobao.com/search?q=%E7%BB%B4%E7%94%9F%E7%B4%A0%E5%92%80%E5%9A%BC%E7%89%87%E7%B1%BB",
         "platformPrice": 86,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%BB%B4%E7%94%9F%E7%B4%A0%E5%92%80%E5%9A%BC%E7%89%87%E7%B1%BB",
+        "platformPrice": 86,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "维生素咀「维生素咀嚼片类」主打基础维生素，采用片剂剂型（1g*100片）单盒装。该产品获国家蓝帽保健食品认证，定位为日常保健。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -9111,9 +10485,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1452-1be1d7",
+        "url": "https://s.taobao.com/search?q=%E8%9C%82%E8%83%B6%E8%BD%AF%E8%83%B6%E5%9B%8A",
         "platformPrice": 76,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%9C%82%E8%83%B6%E8%BD%AF%E8%83%B6%E5%9B%8A",
+        "platformPrice": 76,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "蜂胶软胶「蜂胶软胶囊」主打增强免疫力、蜂产品，采用胶囊剂型（500mg*60粒）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -9148,9 +10528,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1407-3a249d",
+        "url": "https://s.taobao.com/search?q=%E7%BB%B4%E7%94%9F%E7%B4%A0C%E7%B1%BB",
         "platformPrice": 48,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%BB%B4%E7%94%9F%E7%B4%A0C%E7%B1%BB",
+        "platformPrice": 48,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "维生「维生素C类」主打基础维生素，采用片剂剂型（1000mg*100片）单盒装。该产品获国家蓝帽保健食品认证，定位为日常保健。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -9186,9 +10572,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1358-148f21",
+        "url": "https://s.taobao.com/search?q=%E9%92%99%E7%BB%B4D%E8%BD%AF%E7%B1%BB",
         "platformPrice": 111,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%92%99%E7%BB%B4D%E8%BD%AF%E7%B1%BB",
+        "platformPrice": 111,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "钙维D「钙维D软类」主打强健骨骼、矿物质补充，采用片剂剂型（1.2g*100粒）单盒装。该产品获国家蓝帽保健食品认证，定位为日常保健。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -9223,9 +10615,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1371-187f49",
+        "url": "https://s.taobao.com/search?q=%E5%8F%B6%E9%85%B8%E7%B1%BB",
         "platformPrice": 115,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%8F%B6%E9%85%B8%E7%B1%BB",
+        "platformPrice": 115,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "叶酸类「叶酸类」主打增强免疫力，采用片剂剂型（2g*100片）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -9260,9 +10658,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1405-28b2f1",
+        "url": "https://s.taobao.com/search?q=%E9%B1%BC%E6%B2%B9",
         "platformPrice": 69,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%B1%BC%E6%B2%B9",
+        "platformPrice": 69,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "鱼油「鱼油」主打调节三高，采用片剂剂型（100g(1000mg*100粒)）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -9297,9 +10701,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1512-cc9fd7",
+        "url": "https://s.taobao.com/search?q=%E5%8F%B6%E9%85%B8",
         "platformPrice": 71,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%8F%B6%E9%85%B8",
+        "platformPrice": 71,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "叶酸「叶酸」主打增强免疫力，采用片剂剂型（0.26g*30粒）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -9334,9 +10744,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1459-de29e2",
+        "url": "https://s.taobao.com/search?q=%E9%A6%99%E4%B8%B9%E6%B8%85%E7%8F%82%E5%A6%8D%E8%83%B6%E5%9B%8A%EF%BC%88%E9%A6%99%E4%B8%B9%E6%B8%85%EF%BC%89",
         "platformPrice": 355,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%A6%99%E4%B8%B9%E6%B8%85%E7%8F%82%E5%A6%8D%E8%83%B6%E5%9B%8A%EF%BC%88%E9%A6%99%E4%B8%B9%E6%B8%85%EF%BC%89",
+        "platformPrice": 355,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "香丹清「香丹清珂妍胶囊（香丹清）」主打增强免疫力，采用胶囊剂型（0.4g*120粒）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -9372,9 +10788,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1466-38f7ee",
+        "url": "https://s.taobao.com/search?q=%E7%A6%8F%E6%A0%BC%E6%A3%AE%E7%BB%B4D3%E9%92%99%E5%92%80%E5%9A%BC%E7%89%87%EF%BC%88%E5%AD%95%E5%A6%87%E4%B9%B3%E6%AF%8D%E5%9E%8B%EF%BC%89",
         "platformPrice": 126,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%A6%8F%E6%A0%BC%E6%A3%AE%E7%BB%B4D3%E9%92%99%E5%92%80%E5%9A%BC%E7%89%87%EF%BC%88%E5%AD%95%E5%A6%87%E4%B9%B3%E6%AF%8D%E5%9E%8B%EF%BC%89",
+        "platformPrice": 126,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "福格森维「福格森维D3钙咀嚼片（孕妇乳母型）」主打强健骨骼，采用片剂剂型（2.0g*60片）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合孕妇、成人、通用人群使用。产地未知，全渠道销售。",
@@ -9409,9 +10831,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1403-a3a581",
+        "url": "https://s.taobao.com/search?q=%E5%85%BB%E7%94%9F%E5%A0%82%E5%A4%A9%E7%84%B6%E7%BB%B4%E7%94%9F%E7%B4%A0E%E8%BD%AF%E8%83%B6%E5%9B%8A",
         "platformPrice": 142,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%85%BB%E7%94%9F%E5%A0%82%E5%A4%A9%E7%84%B6%E7%BB%B4%E7%94%9F%E7%B4%A0E%E8%BD%AF%E8%83%B6%E5%9B%8A",
+        "platformPrice": 142,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "养生堂「养生堂天然维生素E软胶囊」主打基础维生素，采用胶囊剂型（250mg*200粒）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地浙江杭州，全渠道销售。",
@@ -9446,9 +10874,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1455-d4c3f3",
+        "url": "https://s.taobao.com/search?q=%E5%85%BB%E7%94%9F%E5%A0%82%E5%A4%A9%E7%84%B6%E7%BB%B4%E7%94%9F%E7%B4%A0C%E5%92%80%E5%9A%BC%E7%89%87",
         "platformPrice": 143,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%85%BB%E7%94%9F%E5%A0%82%E5%A4%A9%E7%84%B6%E7%BB%B4%E7%94%9F%E7%B4%A0C%E5%92%80%E5%9A%BC%E7%89%87",
+        "platformPrice": 143,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "养生堂「养生堂天然维生素C咀嚼片」主打基础维生素，采用片剂剂型（850mg*130片）单盒装。该产品获国家蓝帽保健食品认证，定位为日常保健。适合成人、通用人群使用。产地浙江杭州，全渠道销售。",
@@ -9483,9 +10917,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1471-f9c6f9",
+        "url": "https://s.taobao.com/search?q=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%E8%97%BB%E6%B2%B9%E8%BD%AF%E8%83%B6%E5%9B%8A",
         "platformPrice": 360,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%E8%97%BB%E6%B2%B9%E8%BD%AF%E8%83%B6%E5%9B%8A",
+        "platformPrice": 360,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "汤臣倍健「汤臣倍健藻油软胶囊」主打益智健脑，采用胶囊剂型（60粒）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地广东珠海，全渠道销售。",
@@ -9521,9 +10961,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1407-c0762e",
+        "url": "https://s.taobao.com/search?q=%E9%85%BF%E9%85%92%E9%85%B5%E6%AF%8D%E7%B2%89%E8%9B%8B%E7%99%BD%E7%B2%89",
         "platformPrice": 159,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%85%BF%E9%85%92%E9%85%B5%E6%AF%8D%E7%B2%89%E8%9B%8B%E7%99%BD%E7%B2%89",
+        "platformPrice": 159,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "酿酒酵「酿酒酵母粉蛋白粉」主打增强免疫力、蛋白质补充，采用粉剂剂型（600g）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -9559,9 +11005,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1418-655c9f",
+        "url": "https://s.taobao.com/search?q=%E5%85%BB%E7%94%9F%E5%A0%82%E8%9B%8B%E7%99%BD%E7%B2%89",
         "platformPrice": 283,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%85%BB%E7%94%9F%E5%A0%82%E8%9B%8B%E7%99%BD%E7%B2%89",
+        "platformPrice": 283,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "养生堂「养生堂蛋白粉」主打增强免疫力、蛋白质补充，采用粉剂剂型（400克（10克*40袋））单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地浙江杭州，全渠道销售。",
@@ -9596,9 +11048,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1404-b4d910",
+        "url": "https://s.taobao.com/search?q=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%E5%A4%A7%E8%B1%86%E7%A3%B7%E8%84%82%E8%BD%AF%E8%83%B6%E5%9B%8A",
         "platformPrice": 114,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%E5%A4%A7%E8%B1%86%E7%A3%B7%E8%84%82%E8%BD%AF%E8%83%B6%E5%9B%8A",
+        "platformPrice": 114,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "汤臣倍健「汤臣倍健大豆磷脂软胶囊」主打益智健脑，采用胶囊剂型（700mg*120粒）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地广东珠海，全渠道销售。",
@@ -9633,9 +11091,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1413-19c39d",
+        "url": "https://s.taobao.com/search?q=%E5%A4%A7%E8%B1%86%E7%A3%B7%E8%84%82",
         "platformPrice": 168,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%A4%A7%E8%B1%86%E7%A3%B7%E8%84%82",
+        "platformPrice": 168,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "大豆磷脂「大豆磷脂」主打益智健脑，采用片剂剂型（168g（700mg*240粒））单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -9671,9 +11135,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1509-cbdc98",
+        "url": "https://s.taobao.com/search?q=%E8%9C%82%E8%83%B6",
         "platformPrice": 164,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%9C%82%E8%83%B6",
+        "platformPrice": 164,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "蜂胶「蜂胶」主打增强免疫力、蜂产品，采用片剂剂型（48g(0.8g*60粒)）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -9708,9 +11178,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1444-e2ac10",
+        "url": "https://s.taobao.com/search?q=%E5%A4%9A%E7%A7%8DB%E6%97%8F%E7%BB%B4%E7%94%9F%E7%B4%A0",
         "platformPrice": 55,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%A4%9A%E7%A7%8DB%E6%97%8F%E7%BB%B4%E7%94%9F%E7%B4%A0",
+        "platformPrice": 55,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "多种B「多种B族维生素」主打基础维生素，采用片剂剂型（30g(0.5g*60片)）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -9745,9 +11221,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1503-d44cdd",
+        "url": "https://s.taobao.com/search?q=%E9%92%99%E9%93%81%E9%94%8C",
         "platformPrice": 74,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%92%99%E9%93%81%E9%94%8C",
+        "platformPrice": 74,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "钙铁锌「钙铁锌」主打矿物质补充，采用片剂剂型（72g(1.2g*60片)）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -9782,9 +11264,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1502-ca6a8c",
+        "url": "https://s.taobao.com/search?q=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%E7%BB%B4%E7%94%9F%E7%B4%A0C%E5%92%80%E5%9A%BC%E7%89%87(%E7%99%BE%E9%A6%99%E6%9E%9C%E5%91%B3)(%E7%BB%B4%E6%BB%A1C)",
         "platformPrice": 69,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%E7%BB%B4%E7%94%9F%E7%B4%A0C%E5%92%80%E5%9A%BC%E7%89%87(%E7%99%BE%E9%A6%99%E6%9E%9C%E5%91%B3)(%E7%BB%B4%E6%BB%A1C)",
+        "platformPrice": 69,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "汤臣倍健「汤臣倍健维生素C咀嚼片(百香果味)(维满C)」主打基础维生素，采用片剂剂型（46.8g(780mg/片*60片)）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地广东珠海，线上渠道专供。",
@@ -9819,9 +11307,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1361-07a269",
+        "url": "https://s.taobao.com/search?q=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%E7%BB%B4%E7%94%9F%E7%B4%A0C%E5%90%AB%E7%89%87(%E7%BB%B4%E6%BB%A1C)",
         "platformPrice": 127,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%E7%BB%B4%E7%94%9F%E7%B4%A0C%E5%90%AB%E7%89%87(%E7%BB%B4%E6%BB%A1C)",
+        "platformPrice": 127,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "汤臣倍健「汤臣倍健维生素C含片(维满C)」主打基础维生素，采用片剂剂型（72g（1.2g/片*60片））单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地广东珠海，线上渠道专供。",
@@ -9856,9 +11350,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1504-aee6c4",
+        "url": "https://s.taobao.com/search?q=%E7%BB%B4%E7%94%9F%E7%B4%A0C%E5%92%80%E5%9A%BC%E7%89%87",
         "platformPrice": 38,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%BB%B4%E7%94%9F%E7%B4%A0C%E5%92%80%E5%9A%BC%E7%89%87",
+        "platformPrice": 38,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "维生「维生素C咀嚼片」主打基础维生素，采用片剂剂型（72g(0.8g*90粒)）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -9893,9 +11393,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1443-a0e0b3",
+        "url": "https://s.taobao.com/search?q=%E6%B0%A8%E7%B3%96%E8%BD%AF%E9%AA%A8%E7%B4%A0%E5%8A%A0%E9%92%99",
         "platformPrice": 206,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%B0%A8%E7%B3%96%E8%BD%AF%E9%AA%A8%E7%B4%A0%E5%8A%A0%E9%92%99",
+        "platformPrice": 206,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "氨糖软「氨糖软骨素加钙」主打强健骨骼，采用片剂剂型（1g*60片*3瓶）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -9930,9 +11436,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1512-ceb97f",
+        "url": "https://s.taobao.com/search?q=%E8%A4%AA%E9%BB%91%E7%B4%A0",
         "platformPrice": 105,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%A4%AA%E9%BB%91%E7%B4%A0",
+        "platformPrice": 105,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "褪黑素「褪黑素」主打助眠安神，采用片剂剂型（31.5g(350mg/片*90片)）单盒装。该产品获SC食品生产许可，定位为针对性调理。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -9968,9 +11480,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1412-d848c1",
+        "url": "https://s.taobao.com/search?q=%E4%B9%B3%E9%93%81%E8%9B%8B%E7%99%BD%E4%B9%B3%E6%B8%85%E8%9B%8B%E7%99%BD",
         "platformPrice": 347,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E4%B9%B3%E9%93%81%E8%9B%8B%E7%99%BD%E4%B9%B3%E6%B8%85%E8%9B%8B%E7%99%BD",
+        "platformPrice": 347,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "乳铁蛋白「乳铁蛋白乳清蛋白」主打增强免疫力、蛋白质补充，采用片剂剂型（1.0g/袋*45袋）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -10005,9 +11523,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1360-25c383",
+        "url": "https://s.taobao.com/search?q=%E9%94%8C%E7%A1%92",
         "platformPrice": 135,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%94%8C%E7%A1%92",
+        "platformPrice": 135,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "锌硒「锌硒」主打增强免疫力，采用片剂剂型（36g(0.6g*60片*1瓶)）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -10042,9 +11566,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1456-f691aa",
+        "url": "https://s.taobao.com/search?q=%E5%AF%8C%E7%A1%92%E9%85%B5%E6%AF%8D",
         "platformPrice": 90,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%AF%8C%E7%A1%92%E9%85%B5%E6%AF%8D",
+        "platformPrice": 90,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "富硒酵母「富硒酵母」主打增强免疫力，采用片剂剂型（30g(0.5g*60片*1瓶)）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -10079,9 +11609,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1508-5ebe7d",
+        "url": "https://s.taobao.com/search?q=%E6%8A%91%E8%8F%8C%EF%BC%88%E5%A4%96%E7%94%A8%EF%BC%89",
         "platformPrice": 62,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%8A%91%E8%8F%8C%EF%BC%88%E5%A4%96%E7%94%A8%EF%BC%89",
+        "platformPrice": 62,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "抑菌（「抑菌（外用）」主打增强免疫力，采用片剂剂型（700mg/片*60片）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -10116,9 +11652,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1361-e25355",
+        "url": "https://s.taobao.com/search?q=%E5%96%84%E5%AD%98%E5%A4%9A%E7%A7%8D%E7%BB%B4%E7%94%9F%E7%B4%A0%E7%9F%BF%E7%89%A9%E8%B4%A8%E7%89%87",
         "platformPrice": 136,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%96%84%E5%AD%98%E5%A4%9A%E7%A7%8D%E7%BB%B4%E7%94%9F%E7%B4%A0%E7%9F%BF%E7%89%A9%E8%B4%A8%E7%89%87",
+        "platformPrice": 136,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "善存「善存多种维生素矿物质片」主打基础维生素，采用片剂剂型（1.74g*40s）单盒装。该产品获国家蓝帽保健食品认证，定位为日常保健。适合成人、通用人群使用。产地江苏苏州，全渠道销售。",
@@ -10153,9 +11695,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1450-c212df",
+        "url": "https://s.taobao.com/search?q=%E5%96%84%E5%AD%98%E5%A4%9A%E7%A7%8D%E7%BB%B4%E7%94%9F%E7%B4%A0%E5%A4%9A%E7%A7%8D%E7%9F%BF%E7%89%A9%E8%B4%A8%E7%89%87",
         "platformPrice": 143,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%96%84%E5%AD%98%E5%A4%9A%E7%A7%8D%E7%BB%B4%E7%94%9F%E7%B4%A0%E5%A4%9A%E7%A7%8D%E7%9F%BF%E7%89%A9%E8%B4%A8%E7%89%87",
+        "platformPrice": 143,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "善存「善存多种维生素多种矿物质片」主打基础维生素，采用片剂剂型（1.74g*40s）单盒装。该产品获国家蓝帽保健食品认证，定位为日常保健。适合成人、通用人群使用。产地江苏苏州，全渠道销售。",
@@ -10191,9 +11739,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1508-98dcac",
+        "url": "https://s.taobao.com/search?q=%E9%93%B6%E5%96%84%E5%AD%98%E5%A4%9A%E7%A7%8D%E7%BB%B4%E7%94%9F%E7%B4%A0%E7%9F%BF%E7%89%A9%E8%B4%A8%E7%89%87%EF%BC%88%E7%94%B7%EF%BC%89",
         "platformPrice": 148,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%93%B6%E5%96%84%E5%AD%98%E5%A4%9A%E7%A7%8D%E7%BB%B4%E7%94%9F%E7%B4%A0%E7%9F%BF%E7%89%A9%E8%B4%A8%E7%89%87%EF%BC%88%E7%94%B7%EF%BC%89",
+        "platformPrice": 148,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "善存「银善存多种维生素矿物质片（男）」主打基础维生素，采用片剂剂型（0.92g*80s）单盒装。该产品获国家蓝帽保健食品认证，定位为日常保健。适合男性、成人、通用人群使用。产地江苏苏州，全渠道销售。",
@@ -10229,9 +11783,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1411-168cf3",
+        "url": "https://s.taobao.com/search?q=%E9%93%B6%E5%96%84%E5%AD%98%E5%A4%9A%E7%A7%8D%E7%BB%B4%E7%94%9F%E7%B4%A0%E5%A4%9A%E7%A7%8D%E7%9F%BF%E7%89%A9%E8%B4%A8%E7%89%87%EF%BC%88%E5%A5%B3%EF%BC%89",
         "platformPrice": 150,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%93%B6%E5%96%84%E5%AD%98%E5%A4%9A%E7%A7%8D%E7%BB%B4%E7%94%9F%E7%B4%A0%E5%A4%9A%E7%A7%8D%E7%9F%BF%E7%89%A9%E8%B4%A8%E7%89%87%EF%BC%88%E5%A5%B3%EF%BC%89",
+        "platformPrice": 150,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "善存「银善存多种维生素多种矿物质片（女）」主打基础维生素，采用片剂剂型（0.92g*80s）单盒装。该产品获国家蓝帽保健食品认证，定位为日常保健。适合女性、成人、通用人群使用。产地江苏苏州，全渠道销售。",
@@ -10266,9 +11826,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1459-97cbc3",
+        "url": "https://s.taobao.com/search?q=%E5%96%84%E5%AD%98%E7%BB%B4%E7%94%9F%E7%B4%A0C%E5%92%80%E5%9A%BC%E7%89%87(%E6%A9%99%E5%AD%90%E5%91%B3)",
         "platformPrice": 41,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%96%84%E5%AD%98%E7%BB%B4%E7%94%9F%E7%B4%A0C%E5%92%80%E5%9A%BC%E7%89%87(%E6%A9%99%E5%AD%90%E5%91%B3)",
+        "platformPrice": 41,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "善存「善存维生素C咀嚼片(橙子味)」主打基础维生素，采用片剂剂型（1.0g*30s）单盒装。该产品获国家蓝帽保健食品认证，定位为日常保健。适合成人、通用人群使用。产地江苏苏州，全渠道销售。",
@@ -10304,9 +11870,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1401-da3144",
+        "url": "https://s.taobao.com/search?q=%E9%92%99%E5%B0%94%E5%A5%87%E9%92%99%E7%BB%B4D%E7%BB%B4K%E8%BD%AF%E8%83%B6%E5%9B%8A",
         "platformPrice": 115,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%92%99%E5%B0%94%E5%A5%87%E9%92%99%E7%BB%B4D%E7%BB%B4K%E8%BD%AF%E8%83%B6%E5%9B%8A",
+        "platformPrice": 115,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "钙尔奇「钙尔奇钙维D维K软胶囊」主打强健骨骼、矿物质补充，采用胶囊剂型（1.05g*60s）单盒装。该产品获国家蓝帽保健食品认证，定位为日常保健。适合成人、通用人群使用。产地江苏苏州，全渠道销售。",
@@ -10342,9 +11914,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1453-edd215",
+        "url": "https://s.taobao.com/search?q=%E9%92%99%E9%93%81%E9%94%8C%E9%93%9C%E7%BB%B4%E7%94%9F%E7%B4%A0D",
         "platformPrice": 95,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%92%99%E9%93%81%E9%94%8C%E9%93%9C%E7%BB%B4%E7%94%9F%E7%B4%A0D",
+        "platformPrice": 95,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "钙铁锌铜「钙铁锌铜维生素D」主打强健骨骼、矿物质补充，采用片剂剂型（2g*80s）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -10379,9 +11957,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1468-fa988d",
+        "url": "https://s.taobao.com/search?q=%E5%A4%9A%E7%A7%8D%E7%BB%B4%E7%94%9F%E7%B4%A0%E7%9F%BF%E7%89%A9%E8%B4%A8",
         "platformPrice": 59,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%A4%9A%E7%A7%8D%E7%BB%B4%E7%94%9F%E7%B4%A0%E7%9F%BF%E7%89%A9%E8%B4%A8",
+        "platformPrice": 59,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "多种维「多种维生素矿物质」主打基础维生素，采用片剂剂型（1.7g*60s）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -10416,9 +12000,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1355-08a406",
+        "url": "https://s.taobao.com/search?q=%E9%94%8C%E7%A1%92%E5%B7%A6%E6%97%8B%E8%82%89%E7%A2%B1%E9%BB%84%E7%B2%BE",
         "platformPrice": 108,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%94%8C%E7%A1%92%E5%B7%A6%E6%97%8B%E8%82%89%E7%A2%B1%E9%BB%84%E7%B2%BE",
+        "platformPrice": 108,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "锌硒左旋「锌硒左旋肉碱黄精」主打补肾益气，采用片剂剂型（120g（6g*20））单盒装。该产品获SC食品生产许可，定位为针对性调理。适合成人、通用人群使用。产地山东济南，线上渠道专供。",
@@ -10454,9 +12044,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1364-9b2429",
+        "url": "https://s.taobao.com/search?q=%E4%B9%90%E5%8A%9B%E9%92%99%E9%95%81%E9%94%B0%E9%94%8C%E9%93%9C%E7%BB%B4%E7%94%9F%E7%B4%A0D%E8%83%B6%E5%9B%8A",
         "platformPrice": 108,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E4%B9%90%E5%8A%9B%E9%92%99%E9%95%81%E9%94%B0%E9%94%8C%E9%93%9C%E7%BB%B4%E7%94%9F%E7%B4%A0D%E8%83%B6%E5%9B%8A",
+        "platformPrice": 108,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "乐力「乐力钙镁锰锌铜维生素D胶囊」主打强健骨骼、矿物质补充，采用胶囊剂型（1g*60粒）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -10492,9 +12088,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1460-7d3cf5",
+        "url": "https://s.taobao.com/search?q=%E8%9B%8B%E7%99%BD%E7%B2%89",
         "platformPrice": 188,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%9B%8B%E7%99%BD%E7%B2%89",
+        "platformPrice": 188,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "蛋白粉「蛋白粉」主打增强免疫力、蛋白质补充，采用粉剂剂型（400g*2罐）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地广东，全渠道销售。",
@@ -10529,9 +12131,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1405-e3350e",
+        "url": "https://s.taobao.com/search?q=%E6%99%AE%E6%B4%B1%E5%86%B3%E6%98%8E%E5%AD%90%E8%8D%B7%E5%8F%B6%E8%8C%B6",
         "platformPrice": 28,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%99%AE%E6%B4%B1%E5%86%B3%E6%98%8E%E5%AD%90%E8%8D%B7%E5%8F%B6%E8%8C%B6",
+        "platformPrice": 28,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "普洱决明「普洱决明子荷叶茶」主打调节三高，采用代用茶剂型（30g(3g*10袋)）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地安徽亳州，线上渠道专供。",
@@ -10568,9 +12176,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1363-7364d3",
+        "url": "https://s.taobao.com/search?q=%E8%83%B6%E5%8E%9F%E8%9B%8B%E7%99%BD%E9%80%8F%E6%98%8E%E8%B4%A8%E9%85%B8%E9%92%A0",
         "platformPrice": 63,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%83%B6%E5%8E%9F%E8%9B%8B%E7%99%BD%E9%80%8F%E6%98%8E%E8%B4%A8%E9%85%B8%E9%92%A0",
+        "platformPrice": 63,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "胶原蛋白「胶原蛋白透明质酸钠」主打美容养颜、胶原蛋白，采用片剂剂型（300ml(50mlx6)）单盒装。该产品获SC食品生产许可，定位为针对性调理。适合女性、成人、通用人群使用。产地未知，线上渠道专供。",
@@ -10606,9 +12220,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1353-6018a1",
+        "url": "https://s.taobao.com/search?q=%E9%92%99%E7%BB%B4%E7%94%9F%E7%B4%A0D%E7%BB%B4%E7%94%9F%E7%B4%A0K",
         "platformPrice": 165,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%92%99%E7%BB%B4%E7%94%9F%E7%B4%A0D%E7%BB%B4%E7%94%9F%E7%B4%A0K",
+        "platformPrice": 165,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "钙维「钙维生素D维生素K」主打强健骨骼、矿物质补充，采用片剂剂型（1g/粒100粒/盒）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -10643,9 +12263,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1506-eae5e5",
+        "url": "https://s.taobao.com/search?q=%E6%B0%A8%E5%9F%BA%E8%91%A1%E8%90%84%E7%B3%96%E8%BD%AF%E9%AA%A8%E7%B4%A0%E9%92%99",
         "platformPrice": 40,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%B0%A8%E5%9F%BA%E8%91%A1%E8%90%84%E7%B3%96%E8%BD%AF%E9%AA%A8%E7%B4%A0%E9%92%99",
+        "platformPrice": 40,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "氨基葡「氨基葡萄糖软骨素钙」主打强健骨骼，采用片剂剂型（1.0g/片*60片/盒）单盒装。该产品获SC食品生产许可，定位为针对性调理。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -10681,9 +12307,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1453-4a52fc",
+        "url": "https://s.taobao.com/search?q=%E4%B9%B3%E6%B8%85%E8%9B%8B%E7%99%BD%E7%B2%89",
         "platformPrice": 220,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E4%B9%B3%E6%B8%85%E8%9B%8B%E7%99%BD%E7%B2%89",
+        "platformPrice": 220,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "乳清蛋白「乳清蛋白粉」主打增强免疫力、蛋白质补充，采用粉剂剂型（400g（10g*40袋））单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地湖北宜昌，线上渠道专供。",
@@ -10719,9 +12351,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1396-312e0a",
+        "url": "https://s.taobao.com/search?q=%E8%8A%A6%E8%8D%9F%E8%BD%AF%E8%83%B6%E5%9B%8A",
         "platformPrice": 36,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%8A%A6%E8%8D%9F%E8%BD%AF%E8%83%B6%E5%9B%8A",
+        "platformPrice": 36,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "芦荟软胶「芦荟软胶囊」主打增强免疫力、健脾消食，采用胶囊剂型（15g(5g*3板)）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -10756,9 +12394,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1450-5a4d2b",
+        "url": "https://s.taobao.com/search?q=%E5%81%A5%E5%8A%9B%E5%A4%9A%E6%B0%A8%E7%B3%96%E8%BD%AF%E9%AA%A8%E7%B4%A0%E9%92%99%E7%89%87%EF%BC%88%E4%B8%8D%E5%8D%95%E7%8B%AC%E9%94%80%E5%94%AE%EF%BC%89",
         "platformPrice": 68,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%81%A5%E5%8A%9B%E5%A4%9A%E6%B0%A8%E7%B3%96%E8%BD%AF%E9%AA%A8%E7%B4%A0%E9%92%99%E7%89%87%EF%BC%88%E4%B8%8D%E5%8D%95%E7%8B%AC%E9%94%80%E5%94%AE%EF%BC%89",
+        "platformPrice": 68,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "健力多「健力多氨糖软骨素钙片（不单独销售）」主打强健骨骼，采用片剂剂型（40片）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地广东珠海，全渠道销售。",
@@ -10793,9 +12437,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1356-c71324",
+        "url": "https://s.taobao.com/search?q=%E7%A2%A7%E7%94%9F%E6%BA%90%E5%B8%B8%E8%8F%81%E8%8C%B6%EF%BC%88%E5%87%8F%E8%82%A5%E8%8C%B6%EF%BC%89",
         "platformPrice": 123,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%A2%A7%E7%94%9F%E6%BA%90%E5%B8%B8%E8%8F%81%E8%8C%B6%EF%BC%88%E5%87%8F%E8%82%A5%E8%8C%B6%EF%BC%89",
+        "platformPrice": 123,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "碧生源「碧生源常菁茶（减肥茶）」主打增强免疫力，采用片剂剂型（2.5g*20袋*2盒）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地北京，全渠道销售。",
@@ -10830,9 +12480,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1452-4ac9b1",
+        "url": "https://s.taobao.com/search?q=%E5%AE%89%E7%90%AA%E7%BA%BD%E7%89%B9%E9%B3%95%E9%B1%BC%E8%82%9D%E6%B2%B9%E8%BD%AF%E8%83%B6%E5%9B%8A",
         "platformPrice": 92,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%AE%89%E7%90%AA%E7%BA%BD%E7%89%B9%E9%B3%95%E9%B1%BC%E8%82%9D%E6%B2%B9%E8%BD%AF%E8%83%B6%E5%9B%8A",
+        "platformPrice": 92,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "安琪纽特「安琪纽特鳕鱼肝油软胶囊」主打增强免疫力，采用胶囊剂型（0.5g*48粒）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地湖北宜昌，全渠道销售。",
@@ -10868,9 +12524,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1408-e1953a",
+        "url": "https://s.taobao.com/search?q=%E9%94%8C%E7%BB%B4%E7%94%9F%E7%B4%A0C%E5%92%80%E5%9A%BC%E7%89%87",
         "platformPrice": 67,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%94%8C%E7%BB%B4%E7%94%9F%E7%B4%A0C%E5%92%80%E5%9A%BC%E7%89%87",
+        "platformPrice": 67,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "锌维生素「锌维生素C咀嚼片」主打矿物质补充、基础维生素，采用片剂剂型（0.8g*60片）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -10906,9 +12568,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1409-516af6",
+        "url": "https://s.taobao.com/search?q=%E9%87%91%E9%93%B6%E8%8A%B1%E6%9E%87%E6%9D%B7%E7%B3%96",
         "platformPrice": 12,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%87%91%E9%93%B6%E8%8A%B1%E6%9E%87%E6%9D%B7%E7%B3%96",
+        "platformPrice": 12,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "金银花「金银花枇杷糖」主打清咽润喉、中药食材，采用颗粒剂剂型（（2.5g*16）40g）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地广东广州，全渠道销售。",
@@ -10943,9 +12611,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1355-055b52",
+        "url": "https://s.taobao.com/search?q=%E6%B0%A8%E5%9F%BA%E8%91%A1%E8%90%84%E7%B3%96%E7%A1%AB%E9%85%B8%E8%BD%AF%E9%AA%A8%E7%B4%A0%E9%92%99",
         "platformPrice": 43,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%B0%A8%E5%9F%BA%E8%91%A1%E8%90%84%E7%B3%96%E7%A1%AB%E9%85%B8%E8%BD%AF%E9%AA%A8%E7%B4%A0%E9%92%99",
+        "platformPrice": 43,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "氨基葡「氨基葡萄糖硫酸软骨素钙」主打强健骨骼，采用片剂剂型（30g（0.5g*60粒））单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -10983,9 +12657,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1458-78cb1e",
+        "url": "https://s.taobao.com/search?q=%E7%A1%AB%E9%85%B8%E6%B0%A8%E7%B3%96%E8%BD%AF%E9%AA%A8%E7%B4%A0%E8%83%B6%E5%8E%9F%E8%9B%8B%E7%99%BD%E8%82%BD%E7%89%87",
         "platformPrice": 294,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%A1%AB%E9%85%B8%E6%B0%A8%E7%B3%96%E8%BD%AF%E9%AA%A8%E7%B4%A0%E8%83%B6%E5%8E%9F%E8%9B%8B%E7%99%BD%E8%82%BD%E7%89%87",
+        "platformPrice": 294,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "硫酸氨糖「硫酸氨糖软骨素胶原蛋白肽片」主打强健骨骼、美容养颜、胶原蛋白，采用片剂剂型（82.6g*4瓶）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合女性、成人、通用人群使用。产地未知，全渠道销售。",
@@ -11020,9 +12700,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1409-393da5",
+        "url": "https://s.taobao.com/search?q=%E5%8F%98%E9%80%9A%E7%89%8C%E5%A4%A9%E5%A4%A9%E8%83%B6%E5%9B%8A%EF%BC%88%E5%BE%A1%E8%8A%9D%E6%9E%97%EF%BC%89",
         "platformPrice": 191,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%8F%98%E9%80%9A%E7%89%8C%E5%A4%A9%E5%A4%A9%E8%83%B6%E5%9B%8A%EF%BC%88%E5%BE%A1%E8%8A%9D%E6%9E%97%EF%BC%89",
+        "platformPrice": 191,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "变通「变通牌天天胶囊（御芝林）」主打增强免疫力，采用胶囊剂型（0.4g*27粒）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地河北石家庄，全渠道销售。",
@@ -11059,9 +12745,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1370-4971d9",
+        "url": "https://s.taobao.com/search?q=%E5%B1%B1%E6%A5%82%E9%BA%A6%E8%8A%BD%E9%85%B5%E6%AF%8D",
         "platformPrice": 48,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%B1%B1%E6%A5%82%E9%BA%A6%E8%8A%BD%E9%85%B5%E6%AF%8D",
+        "platformPrice": 48,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "山楂麦芽「山楂麦芽酵母」主打增强免疫力、健脾消食、中药食材，采用片剂剂型（1.0g*60片）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地湖北宜昌，全渠道销售。",
@@ -11096,9 +12788,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1306-525303",
+        "url": "https://s.taobao.com/search?q=%E5%85%BB%E7%94%9F%E5%A0%82%E7%89%8CB%E6%97%8F%E7%BB%B4%E7%94%9F%E7%B4%A0%E7%89%87",
         "platformPrice": 104,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%85%BB%E7%94%9F%E5%A0%82%E7%89%8CB%E6%97%8F%E7%BB%B4%E7%94%9F%E7%B4%A0%E7%89%87",
+        "platformPrice": 104,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "养生堂「养生堂牌B族维生素片」主打基础维生素，采用片剂剂型（30g（0.5g*60片））单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地浙江杭州，线上渠道专供。",
@@ -11133,9 +12831,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1442-bc110c",
+        "url": "https://s.taobao.com/search?q=DHA%E8%97%BB%E6%B2%B9",
         "platformPrice": 224,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=DHA%E8%97%BB%E6%B2%B9",
+        "platformPrice": 224,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "DHA「DHA藻油」主打益智健脑，采用片剂剂型（24g（400mg*30粒*2瓶））单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -11171,9 +12875,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1362-17c357",
+        "url": "https://s.taobao.com/search?q=%E9%92%99%E7%BB%B4%E7%94%9F%E7%B4%A0D%E7%BB%B4%E7%94%9F%E7%B4%A0K%E8%BD%AF%E8%83%B6%E5%9B%8A",
         "platformPrice": 95,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%92%99%E7%BB%B4%E7%94%9F%E7%B4%A0D%E7%BB%B4%E7%94%9F%E7%B4%A0K%E8%BD%AF%E8%83%B6%E5%9B%8A",
+        "platformPrice": 95,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "钙维「钙维生素D维生素K软胶囊」主打强健骨骼、矿物质补充，采用胶囊剂型（1000mg*100粒）单盒装。该产品获国家蓝帽保健食品认证，定位为日常保健。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -11208,9 +12918,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1366-41f973",
+        "url": "https://s.taobao.com/search?q=%E5%A4%A9%E5%A4%A9",
         "platformPrice": 130,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%A4%A9%E5%A4%A9",
+        "platformPrice": 130,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "天天「天天」主打增强免疫力，采用片剂剂型（0.4g*60粒）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地河北石家庄，全渠道销售。",
@@ -11246,9 +12962,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1457-61eac9",
+        "url": "https://s.taobao.com/search?q=%E7%89%A1%E8%9B%8E%E5%A4%A7%E8%B1%86%E8%82%BD%E8%82%89%E7%A2%B1",
         "platformPrice": 21,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%89%A1%E8%9B%8E%E5%A4%A7%E8%B1%86%E8%82%BD%E8%82%89%E7%A2%B1",
+        "platformPrice": 21,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "牡蛎大「牡蛎大豆肽肉碱」主打补肾益气、护肝养肝，采用片剂剂型（50ml）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地吉林长春，全渠道销售。",
@@ -11284,9 +13006,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1365-658b53",
+        "url": "https://s.taobao.com/search?q=%E7%9B%8A%E7%94%9F%E8%8F%8C%E7%B2%89",
         "platformPrice": 149,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%9B%8A%E7%94%9F%E8%8F%8C%E7%B2%89",
+        "platformPrice": 149,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "益生菌「益生菌粉」主打健脾消食、益生菌，采用粉剂剂型（1.5g*20袋）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -11322,9 +13050,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1442-bfa100",
+        "url": "https://s.taobao.com/search?q=%E6%B0%B4%E9%A3%9E%E8%93%9F%E8%91%9B%E6%A0%B9%E4%B8%B9%E5%8F%82",
         "platformPrice": 260,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%B0%B4%E9%A3%9E%E8%93%9F%E8%91%9B%E6%A0%B9%E4%B8%B9%E5%8F%82",
+        "platformPrice": 260,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "水飞蓟葛「水飞蓟葛根丹参」主打调节三高、护肝养肝，采用片剂剂型（120片）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -11360,9 +13094,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1456-d19fa3",
+        "url": "https://s.taobao.com/search?q=%E5%81%A5%E5%AE%89%E9%80%82%E7%89%8C%E6%B0%B4%E9%A3%9E%E8%93%9F%E8%91%9B%E6%A0%B9%E4%B8%B9%E5%8F%82%E7%89%87",
         "platformPrice": 201,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%81%A5%E5%AE%89%E9%80%82%E7%89%8C%E6%B0%B4%E9%A3%9E%E8%93%9F%E8%91%9B%E6%A0%B9%E4%B8%B9%E5%8F%82%E7%89%87",
+        "platformPrice": 201,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "汤臣倍健「健安适牌水飞蓟葛根丹参片」主打调节三高、护肝养肝，采用片剂剂型（1.02g*60片）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地广东珠海，全渠道销售。",
@@ -11398,9 +13138,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1405-360f2d",
+        "url": "https://s.taobao.com/search?q=%E5%85%BB%E7%94%9F%E5%A0%82%E9%92%99%E7%BB%B4%E7%94%9F%E7%B4%A0D3%E7%BB%B4%E7%94%9F%E7%B4%A0K2%E8%BD%AF%E8%83%B6%E5%9B%8A",
         "platformPrice": 139,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%85%BB%E7%94%9F%E5%A0%82%E9%92%99%E7%BB%B4%E7%94%9F%E7%B4%A0D3%E7%BB%B4%E7%94%9F%E7%B4%A0K2%E8%BD%AF%E8%83%B6%E5%9B%8A",
+        "platformPrice": 139,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "养生堂「养生堂钙维生素D3维生素K2软胶囊」主打强健骨骼、矿物质补充，采用胶囊剂型（1g*100粒）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地浙江杭州，线上渠道专供。",
@@ -11436,9 +13182,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1402-0e0e26",
+        "url": "https://s.taobao.com/search?q=%E9%92%99%E7%BB%B4%E7%94%9F%E7%B4%A0D3%E7%BB%B4%E7%94%9F%E7%B4%A0K2",
         "platformPrice": 194,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%92%99%E7%BB%B4%E7%94%9F%E7%B4%A0D3%E7%BB%B4%E7%94%9F%E7%B4%A0K2",
+        "platformPrice": 194,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "钙维「钙维生素D3维生素K2」主打强健骨骼、矿物质补充，采用片剂剂型（1g*100粒*2瓶）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -11474,9 +13226,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1304-412621",
+        "url": "https://s.taobao.com/search?q=%E9%92%99%E7%BB%B4%E7%94%9F%E7%B4%A0D3%E7%BB%B4%E7%94%9F%E7%B4%A0K2%E8%BD%AF%E8%83%B6%E5%9B%8A",
         "platformPrice": 36,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%92%99%E7%BB%B4%E7%94%9F%E7%B4%A0D3%E7%BB%B4%E7%94%9F%E7%B4%A0K2%E8%BD%AF%E8%83%B6%E5%9B%8A",
+        "platformPrice": 36,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "钙维「钙维生素D3维生素K2软胶囊」主打强健骨骼、矿物质补充，采用胶囊剂型（60粒）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -11511,9 +13269,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1465-f6ef91",
+        "url": "https://s.taobao.com/search?q=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%E7%BB%B4%E7%94%9F%E7%B4%A0E%E8%BD%AF%E8%83%B6%E5%9B%8A",
         "platformPrice": 158,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%E7%BB%B4%E7%94%9F%E7%B4%A0E%E8%BD%AF%E8%83%B6%E5%9B%8A",
+        "platformPrice": 158,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "汤臣倍健「汤臣倍健维生素E软胶囊」主打基础维生素，采用胶囊剂型（36g(300mg*60粒*2瓶)）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地广东珠海，线上渠道专供。",
@@ -11548,9 +13312,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1454-b2c38d",
+        "url": "https://s.taobao.com/search?q=%E7%BB%B4%E7%94%9F%E7%B4%A0E%E8%BD%AF%E8%83%B6%E5%9B%8A",
         "platformPrice": 62,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%BB%B4%E7%94%9F%E7%B4%A0E%E8%BD%AF%E8%83%B6%E5%9B%8A",
+        "platformPrice": 62,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "维生「维生素E软胶囊」主打基础维生素，采用胶囊剂型（0.4g*60粒）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -11586,9 +13356,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1563-efedf9",
+        "url": "https://s.taobao.com/search?q=%E5%8D%B5%E7%A3%B7%E8%84%82%E8%83%B6%E5%9B%8A",
         "platformPrice": 152,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%8D%B5%E7%A3%B7%E8%84%82%E8%83%B6%E5%9B%8A",
+        "platformPrice": 152,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "卵磷脂胶「卵磷脂胶囊」主打调节三高、益智健脑，采用胶囊剂型（165g（1650mg*100粒））单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -11624,9 +13400,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1504-ea4a9d",
+        "url": "https://s.taobao.com/search?q=%E6%B0%B4%E9%A3%9E%E8%93%9F%E7%A3%B7%E8%84%82%E7%89%87",
         "platformPrice": 76,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%B0%B4%E9%A3%9E%E8%93%9F%E7%A3%B7%E8%84%82%E7%89%87",
+        "platformPrice": 76,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "水飞蓟磷「水飞蓟磷脂片」主打益智健脑、护肝养肝，采用片剂剂型（28.8g（0.48g*60片））单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地广东，全渠道销售。",
@@ -11662,9 +13444,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1404-44a27b",
+        "url": "https://s.taobao.com/search?q=%E6%88%90%E9%95%BF%E5%8F%91%E8%82%B2%E5%92%80%E5%9A%BC%E7%89%87",
         "platformPrice": 60,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%88%90%E9%95%BF%E5%8F%91%E8%82%B2%E5%92%80%E5%9A%BC%E7%89%87",
+        "platformPrice": 60,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "成长发育「成长发育咀嚼片」主打增强免疫力，采用片剂剂型（108g（0.6g*180片））单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合儿童、成人、通用人群使用。产地广东，全渠道销售。",
@@ -11700,9 +13488,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1407-8b41d4",
+        "url": "https://s.taobao.com/search?q=%E4%BA%BA%E5%8F%82%E6%9E%B8%E6%9D%9E%E5%AD%90%E7%81%B5%E8%8A%9D%E9%85%92",
         "platformPrice": 128,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E4%BA%BA%E5%8F%82%E6%9E%B8%E6%9D%9E%E5%AD%90%E7%81%B5%E8%8A%9D%E9%85%92",
+        "platformPrice": 128,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "人参枸杞「人参枸杞子灵芝酒」主打增强免疫力、补肾益气，采用片剂剂型（600ml（150ml*4瓶）33%vol）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地河北石家庄，全渠道销售。",
@@ -11738,9 +13532,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1458-28ccb8",
+        "url": "https://s.taobao.com/search?q=%E8%BE%85%E9%85%B6Q10%E7%BB%B4%E7%94%9F%E7%B4%A0E",
         "platformPrice": 26,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%BE%85%E9%85%B6Q10%E7%BB%B4%E7%94%9F%E7%B4%A0E",
+        "platformPrice": 26,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "辅酶Q「辅酶Q10维生素E」主打抗氧化、基础维生素，采用片剂剂型（8g（0.4g*20粒））单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地浙江杭州，全渠道销售。",
@@ -11776,9 +13576,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1361-01f468",
+        "url": "https://s.taobao.com/search?q=%E5%8F%B6%E9%BB%84%E7%B4%A0",
         "platformPrice": 28,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%8F%B6%E9%BB%84%E7%B4%A0",
+        "platformPrice": 28,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "叶黄素「叶黄素」主打美容养颜、护眼明目，采用片剂剂型（4.5g（450mg*10片））单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地浙江杭州，全渠道销售。",
@@ -11814,9 +13620,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1459-b8b3e7",
+        "url": "https://s.taobao.com/search?q=%E8%83%96%E5%A4%A7%E6%B5%B7%E7%A1%AC%E8%B4%A8%E7%B3%96%E6%9E%9C",
         "platformPrice": 5,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%83%96%E5%A4%A7%E6%B5%B7%E7%A1%AC%E8%B4%A8%E7%B3%96%E6%9E%9C",
+        "platformPrice": 5,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "胖大海硬「胖大海硬质糖果」主打清咽润喉、中药食材，采用片剂剂型（2g*22粒）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地福建厦门，线上渠道专供。",
@@ -11851,9 +13663,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1503-de1bb9",
+        "url": "https://s.taobao.com/search?q=%E9%9D%92%E6%A9%84%E6%A6%84",
         "platformPrice": 4,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%9D%92%E6%A9%84%E6%A6%84",
+        "platformPrice": 4,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "青橄榄「青橄榄」主打增强免疫力，采用片剂剂型（2g*22粒）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -11889,9 +13707,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1363-1c8870",
+        "url": "https://s.taobao.com/search?q=%E9%87%91%E9%93%B6%E8%8A%B1%E7%A1%AC%E8%B4%A8%E7%B3%96%E6%9E%9C",
         "platformPrice": 4,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%87%91%E9%93%B6%E8%8A%B1%E7%A1%AC%E8%B4%A8%E7%B3%96%E6%9E%9C",
+        "platformPrice": 4,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "金银花硬「金银花硬质糖果」主打增强免疫力、中药食材，采用片剂剂型（2g*22粒）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地福建厦门，线上渠道专供。",
@@ -11926,9 +13750,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1368-69b870",
+        "url": "https://s.taobao.com/search?q=%E8%9B%8B%E7%99%BD%E8%B4%A8%E7%B2%89%E7%B1%BB",
         "platformPrice": 151,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%9B%8B%E7%99%BD%E8%B4%A8%E7%B2%89%E7%B1%BB",
+        "platformPrice": 151,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "蛋白质粉「蛋白质粉类」主打增强免疫力，采用片剂剂型（454g）家庭装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -11965,9 +13795,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1463-a875ee",
+        "url": "https://s.taobao.com/search?q=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%E8%91%A1%E8%90%84%E7%B1%BD%E7%BB%B4%E7%94%9F%E7%B4%A0C%E5%8A%A0E%E7%89%87",
         "platformPrice": 171,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%E8%91%A1%E8%90%84%E7%B1%BD%E7%BB%B4%E7%94%9F%E7%B4%A0C%E5%8A%A0E%E7%89%87",
+        "platformPrice": 171,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "汤臣倍健「汤臣倍健葡萄籽维生素C加E片」主打美容养颜、抗氧化、基础维生素，采用片剂剂型（410mg*60片）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地广东珠海，全渠道销售。",
@@ -12002,9 +13838,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1460-af5c49",
+        "url": "https://s.taobao.com/search?q=%E9%A5%AE%E5%93%81",
         "platformPrice": 3,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%A5%AE%E5%93%81",
+        "platformPrice": 3,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "饮品「饮品」主打增强免疫力，采用片剂剂型（500ml）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -12039,9 +13881,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1373-8915e9",
+        "url": "https://s.taobao.com/search?q=%E5%86%9C%E5%A4%AB%E5%B1%B1%E6%B3%89%E9%A5%AE%E7%94%A8%E5%A4%A9%E7%84%B6%E6%B0%B4",
         "platformPrice": 2,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%86%9C%E5%A4%AB%E5%B1%B1%E6%B3%89%E9%A5%AE%E7%94%A8%E5%A4%A9%E7%84%B6%E6%B0%B4",
+        "platformPrice": 2,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "农夫「农夫山泉饮用天然水」主打增强免疫力，采用片剂剂型（550ml）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -12076,9 +13924,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1405-b0f490",
+        "url": "https://s.taobao.com/search?q=%E5%87%9D%E8%83%B6%E7%B3%96%E6%9E%9C",
         "platformPrice": 13,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%87%9D%E8%83%B6%E7%B3%96%E6%9E%9C",
+        "platformPrice": 13,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "凝胶糖果「凝胶糖果」主打增强免疫力，采用片剂剂型（3g（0.1g*30粒））单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地广东，线上渠道专供。",
@@ -12114,9 +13968,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1373-469e85",
+        "url": "https://s.taobao.com/search?q=%E5%B1%B1%E6%A5%82%E9%BA%A6%E8%8A%BD%E8%8C%AF%E8%8B%93",
         "platformPrice": 29,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%B1%B1%E6%A5%82%E9%BA%A6%E8%8A%BD%E8%8C%AF%E8%8B%93",
+        "platformPrice": 29,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "山楂麦芽「山楂麦芽茯苓」主打健脾消食、中药食材，采用片剂剂型（160克（8g*20袋））单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地广东，线上渠道专供。",
@@ -12152,9 +14012,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1405-ab9711",
+        "url": "https://s.taobao.com/search?q=%E8%93%9D%E8%8E%93%E5%8F%B6%E9%BB%84%E7%B4%A0%E9%85%AF%E8%BD%AF%E7%B3%96",
         "platformPrice": 15,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%93%9D%E8%8E%93%E5%8F%B6%E9%BB%84%E7%B4%A0%E9%85%AF%E8%BD%AF%E7%B3%96",
+        "platformPrice": 15,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "蓝莓叶「蓝莓叶黄素酯软糖」主打美容养颜、护眼明目，采用颗粒剂剂型（90g）单盒装。该产品获SC食品生产许可，定位为针对性调理。适合成人、通用人群使用。产地湖北宜昌，线上渠道专供。",
@@ -12189,9 +14055,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1361-5336b6",
+        "url": "https://s.taobao.com/search?q=%E5%AF%8C%E9%93%81%E8%BD%AF%E7%B3%96",
         "platformPrice": 28,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%AF%8C%E9%93%81%E8%BD%AF%E7%B3%96",
+        "platformPrice": 28,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "富铁软「富铁软糖」主打增强免疫力，采用颗粒剂剂型（90g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地湖北宜昌，线上渠道专供。",
@@ -12226,9 +14098,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1503-4cff0d",
+        "url": "https://s.taobao.com/search?q=%E6%9E%A3%E4%BB%81%E6%B4%BE",
         "platformPrice": 17,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%9E%A3%E4%BB%81%E6%B4%BE",
+        "platformPrice": 17,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "枣仁派「枣仁派」主打增强免疫力，采用片剂剂型（252克）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -12263,9 +14141,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1493-acb12d",
+        "url": "https://s.taobao.com/search?q=%E5%8B%BF%E7%B3%96%E6%B7%B7%E5%90%88%E7%87%95%E9%BA%A6%E7%89%87",
         "platformPrice": 26,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%8B%BF%E7%B3%96%E6%B7%B7%E5%90%88%E7%87%95%E9%BA%A6%E7%89%87",
+        "platformPrice": 26,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "勿糖混合「勿糖混合燕麦片」主打谷物膳食，采用片剂剂型（1000g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地山东济南，线上渠道专供。",
@@ -12301,9 +14185,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1498-cbc40f",
+        "url": "https://s.taobao.com/search?q=%E5%8B%BF%E7%B3%96%E9%BB%91%E8%8A%9D%E9%BA%BB%E6%A0%B8%E6%A1%83%E9%BB%91%E8%B1%86%E7%B2%89",
         "platformPrice": 19,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%8B%BF%E7%B3%96%E9%BB%91%E8%8A%9D%E9%BA%BB%E6%A0%B8%E6%A1%83%E9%BB%91%E8%B1%86%E7%B2%89",
+        "platformPrice": 19,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "勿糖黑芝「勿糖黑芝麻核桃黑豆粉」主打增强免疫力、美容养颜，采用片剂剂型（600g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地山东济南，线上渠道专供。",
@@ -12338,9 +14228,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1409-d6652b",
+        "url": "https://s.taobao.com/search?q=%E5%A5%87%E4%BA%9A%E7%B1%BD%E5%9D%9A%E6%9E%9C%E9%9D%92%E7%A8%9E%E7%87%95%E9%BA%A6%E7%89%87",
         "platformPrice": 53,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%A5%87%E4%BA%9A%E7%B1%BD%E5%9D%9A%E6%9E%9C%E9%9D%92%E7%A8%9E%E7%87%95%E9%BA%A6%E7%89%87",
+        "platformPrice": 53,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "奇亚籽坚「奇亚籽坚果青稞燕麦片」主打谷物膳食，采用片剂剂型（1000g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -12376,9 +14272,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1459-1fd7c6",
+        "url": "https://s.taobao.com/search?q=%E7%8C%B4%E5%A4%B4%E8%8F%87%E5%B1%B1%E8%8D%AF%E5%B0%8F%E7%B1%B3%E7%B3%8A",
         "platformPrice": 26,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%8C%B4%E5%A4%B4%E8%8F%87%E5%B1%B1%E8%8D%AF%E5%B0%8F%E7%B1%B3%E7%B3%8A",
+        "platformPrice": 26,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "猴头菇「猴头菇山药小米糊」主打健脾消食、谷物膳食，采用粉剂剂型（600g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地山东济南，线上渠道专供。",
@@ -12413,9 +14315,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1411-77aa29",
+        "url": "https://s.taobao.com/search?q=%E8%96%8F%E8%8B%A1%E4%BB%81",
         "platformPrice": 13,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%96%8F%E8%8B%A1%E4%BB%81",
+        "platformPrice": 13,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "薏苡仁「薏苡仁」主打增强免疫力，采用片剂剂型（48g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地四川成都，线上渠道专供。",
@@ -12451,9 +14359,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1358-844c03",
+        "url": "https://s.taobao.com/search?q=%E9%BB%91%E8%8A%9D%E9%BA%BB",
         "platformPrice": 21,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%BB%91%E8%8A%9D%E9%BA%BB",
+        "platformPrice": 21,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "黑芝「黑芝麻」主打增强免疫力、美容养颜，采用片剂剂型（180克（20丸））单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地山东济南，线上渠道专供。",
@@ -12489,9 +14403,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1405-2c28d2",
+        "url": "https://s.taobao.com/search?q=%E9%BB%91%E8%8A%9D%E9%BA%BB%E4%B8%B8",
         "platformPrice": 20,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%BB%91%E8%8A%9D%E9%BA%BB%E4%B8%B8",
+        "platformPrice": 20,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "黑芝麻丸「黑芝麻丸」主打增强免疫力、美容养颜，采用丸剂剂型（180克）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地山东济南，线上渠道专供。",
@@ -12527,9 +14447,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1415-55d7b8",
+        "url": "https://s.taobao.com/search?q=%E8%83%96%E5%A4%A7%E6%B5%B7%E8%8F%8A%E8%8A%B1%E8%8C%B6",
         "platformPrice": 18,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%83%96%E5%A4%A7%E6%B5%B7%E8%8F%8A%E8%8A%B1%E8%8C%B6",
+        "platformPrice": 18,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "胖大海菊「胖大海菊花茶」主打清咽润喉、中药食材，采用代用茶剂型（150g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地江西南昌，线上渠道专供。",
@@ -12564,9 +14490,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1347-00c404",
+        "url": "https://s.taobao.com/search?q=%E6%9F%A0%E6%AA%AC%E8%8D%B7%E5%8F%B6%E8%8C%B6",
         "platformPrice": 18,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%9F%A0%E6%AA%AC%E8%8D%B7%E5%8F%B6%E8%8C%B6",
+        "platformPrice": 18,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "柠檬荷叶「柠檬荷叶茶」主打增强免疫力，采用代用茶剂型（150g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地江西南昌，线上渠道专供。",
@@ -12601,9 +14533,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1402-c427b0",
+        "url": "https://s.taobao.com/search?q=%E7%AB%B9%E8%94%97%E9%A9%AC%E8%B9%84%E9%9B%AA%E6%A2%A8%E8%8C%B6",
         "platformPrice": 15,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%AB%B9%E8%94%97%E9%A9%AC%E8%B9%84%E9%9B%AA%E6%A2%A8%E8%8C%B6",
+        "platformPrice": 15,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "竹蔗马蹄「竹蔗马蹄雪梨茶」主打增强免疫力，采用代用茶剂型（150g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地江西南昌，线上渠道专供。",
@@ -12638,9 +14576,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1455-6ce35a",
+        "url": "https://s.taobao.com/search?q=%E9%87%91%E6%A1%94%E7%99%BE%E9%A6%99%E6%9E%9C%E6%9F%A0%E6%AA%AC%E8%8C%B6",
         "platformPrice": 18,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%87%91%E6%A1%94%E7%99%BE%E9%A6%99%E6%9E%9C%E6%9F%A0%E6%AA%AC%E8%8C%B6",
+        "platformPrice": 18,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "金桔百香「金桔百香果柠檬茶」主打增强免疫力，采用代用茶剂型（180g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地江西南昌，线上渠道专供。",
@@ -12675,9 +14619,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1417-78e7c3",
+        "url": "https://s.taobao.com/search?q=%E9%85%B8%E6%A2%85%E6%B1%A4",
         "platformPrice": 17,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%85%B8%E6%A2%85%E6%B1%A4",
+        "platformPrice": 17,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "酸梅「酸梅汤」主打增强免疫力，采用片剂剂型（150g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地江西南昌，线上渠道专供。",
@@ -12712,9 +14662,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1493-bd2bb1",
+        "url": "https://s.taobao.com/search?q=%E4%BA%BA%E5%8F%82%E4%BA%94%E5%AE%9D%E8%8C%B6",
         "platformPrice": 21,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E4%BA%BA%E5%8F%82%E4%BA%94%E5%AE%9D%E8%8C%B6",
+        "platformPrice": 21,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "人参五宝「人参五宝茶」主打增强免疫力，采用代用茶剂型（160g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地江西南昌，线上渠道专供。",
@@ -12749,9 +14705,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1402-2b801e",
+        "url": "https://s.taobao.com/search?q=%E5%B0%8F%E7%B2%92%E9%BB%91%E8%8B%A6%E8%8D%9E%E8%8C%B6",
         "platformPrice": 24,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%B0%8F%E7%B2%92%E9%BB%91%E8%8B%A6%E8%8D%9E%E8%8C%B6",
+        "platformPrice": 24,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "小粒黑苦「小粒黑苦荞茶」主打增强免疫力，采用代用茶剂型（208g(8gx26)）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -12786,9 +14748,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1373-9e5189",
+        "url": "https://s.taobao.com/search?q=%E7%8E%89%E9%A1%BB%E8%91%9B%E6%A0%B9%E8%8C%B6",
         "platformPrice": 36,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%8E%89%E9%A1%BB%E8%91%9B%E6%A0%B9%E8%8C%B6",
+        "platformPrice": 36,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "玉须葛根「玉须葛根茶」主打增强免疫力，采用代用茶剂型（150g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -12823,9 +14791,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1402-02ed70",
+        "url": "https://s.taobao.com/search?q=%E5%B0%8F%E5%90%8A%E6%A2%A8%E6%B1%A4",
         "platformPrice": 15,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%B0%8F%E5%90%8A%E6%A2%A8%E6%B1%A4",
+        "platformPrice": 15,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "小吊梨汤「小吊梨汤」主打增强免疫力，采用片剂剂型（140克）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -12862,9 +14836,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1382-f77899",
+        "url": "https://s.taobao.com/search?q=%E7%87%95%E7%AA%9D%E8%83%B6%E5%8E%9F%E8%9B%8B%E7%99%BD%E8%82%BD%E6%9E%9C%E5%86%BB",
         "platformPrice": 18,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%87%95%E7%AA%9D%E8%83%B6%E5%8E%9F%E8%9B%8B%E7%99%BD%E8%82%BD%E6%9E%9C%E5%86%BB",
+        "platformPrice": 18,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "燕窝胶原「燕窝胶原蛋白肽果冻」主打美容养颜、胶原蛋白，采用颗粒剂剂型（15g*10袋）单盒装。该产品获SC食品生产许可，定位为针对性调理。适合女性、成人、通用人群使用。产地湖北宜昌，线上渠道专供。",
@@ -12899,9 +14879,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1417-5ee468",
+        "url": "https://s.taobao.com/search?q=%E5%AF%8C%E7%A1%92%E9%85%B5%E6%AF%8D%E5%A5%B6%E7%B2%89",
         "platformPrice": 51,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%AF%8C%E7%A1%92%E9%85%B5%E6%AF%8D%E5%A5%B6%E7%B2%89",
+        "platformPrice": 51,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "富硒酵母「富硒酵母奶粉」主打增强免疫力，采用粉剂剂型（400g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -12937,9 +14923,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1416-49ff07",
+        "url": "https://s.taobao.com/search?q=%E8%93%9D%E8%8E%93%E5%8F%B6%E9%BB%84%E7%B4%A0%E9%85%AF",
         "platformPrice": 20,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%93%9D%E8%8E%93%E5%8F%B6%E9%BB%84%E7%B4%A0%E9%85%AF",
+        "platformPrice": 20,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "蓝莓叶「蓝莓叶黄素酯」主打美容养颜、护眼明目，采用片剂剂型（100ml（10ml*10））单盒装。该产品获SC食品生产许可，定位为针对性调理。适合成人、通用人群使用。产地湖北宜昌，线上渠道专供。",
@@ -12974,9 +14966,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1416-86b67c",
+        "url": "https://s.taobao.com/search?q=%E8%91%A1%E8%90%84%E7%B3%96%EF%BC%88%E9%A5%AE%E5%93%81%EF%BC%89",
         "platformPrice": 8,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%91%A1%E8%90%84%E7%B3%96%EF%BC%88%E9%A5%AE%E5%93%81%EF%BC%89",
+        "platformPrice": 8,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "葡萄糖「葡萄糖（饮品）」主打增强免疫力，采用片剂剂型（100ml（20ml*5支））单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地湖北宜昌，线上渠道专供。",
@@ -13011,9 +15009,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1373-c75598",
+        "url": "https://s.taobao.com/search?q=%E9%87%91%E4%B8%9D%E7%9A%87%E8%8F%8A",
         "platformPrice": 21,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%87%91%E4%B8%9D%E7%9A%87%E8%8F%8A",
+        "platformPrice": 21,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "金丝皇「金丝皇菊」主打增强免疫力，采用片剂剂型（6g（10袋））单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地江西南昌，线上渠道专供。",
@@ -13048,9 +15052,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1411-0475ef",
+        "url": "https://s.taobao.com/search?q=%E9%BE%9F%E8%8B%93%E8%86%8F",
         "platformPrice": 4,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%BE%9F%E8%8B%93%E8%86%8F",
+        "platformPrice": 4,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "龟苓「龟苓膏」主打增强免疫力，采用膏方剂型（253g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地广东，线上渠道专供。",
@@ -13086,9 +15096,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1406-733d0e",
+        "url": "https://s.taobao.com/search?q=%E5%B1%B1%E6%A5%82%E6%A3%92",
         "platformPrice": 16,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%B1%B1%E6%A5%82%E6%A3%92",
+        "platformPrice": 16,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "山楂棒「山楂棒」主打健脾消食、中药食材，采用片剂剂型（88g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -13123,9 +15139,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1421-f2f599",
+        "url": "https://s.taobao.com/search?q=%E7%88%86%E6%B5%86%E5%B1%B1%E6%A5%82",
         "platformPrice": 11,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%88%86%E6%B5%86%E5%B1%B1%E6%A5%82",
+        "platformPrice": 11,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "爆浆「爆浆山楂」主打健脾消食，采用片剂剂型（100g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -13161,9 +15183,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1509-edc7f4",
+        "url": "https://s.taobao.com/search?q=%E5%B1%B1%E6%A5%82%E6%B1%81",
         "platformPrice": 4,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%B1%B1%E6%A5%82%E6%B1%81",
+        "platformPrice": 4,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "山楂汁「山楂汁」主打健脾消食、中药食材，采用片剂剂型（130g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地山东济南，线上渠道专供。",
@@ -13198,9 +15226,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1368-8e5608",
+        "url": "https://s.taobao.com/search?q=%E6%96%B0%E4%BC%9A%E9%99%88%E7%9A%AE%E4%B8%9D%E8%8C%B6",
         "platformPrice": 27,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%96%B0%E4%BC%9A%E9%99%88%E7%9A%AE%E4%B8%9D%E8%8C%B6",
+        "platformPrice": 27,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "新会陈皮「新会陈皮丝茶」主打增强免疫力，采用代用茶剂型（30g（3g*10袋））单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地广东，线上渠道专供。",
@@ -13235,9 +15269,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1410-b756e1",
+        "url": "https://s.taobao.com/search?q=%E9%93%81%E7%9A%AE%E7%9F%B3%E6%96%9B%E8%8C%B6",
         "platformPrice": 29,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%93%81%E7%9A%AE%E7%9F%B3%E6%96%9B%E8%8C%B6",
+        "platformPrice": 29,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "铁皮石斛「铁皮石斛茶」主打增强免疫力，采用代用茶剂型（30g（3g*10袋））单盒装。该产品获SC食品生产许可，定位为针对性调理。适合成人、通用人群使用。产地广东，线上渠道专供。",
@@ -13273,9 +15313,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1497-1bdc6a",
+        "url": "https://s.taobao.com/search?q=%E9%99%88%E7%9A%AE%E4%BA%BA%E5%8F%82%E8%8C%B6",
         "platformPrice": 29,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%99%88%E7%9A%AE%E4%BA%BA%E5%8F%82%E8%8C%B6",
+        "platformPrice": 29,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "陈皮人参「陈皮人参茶」主打增强免疫力、中药食材，采用代用茶剂型（30g（3g*10袋））单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地广东，线上渠道专供。",
@@ -13310,9 +15356,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1459-d9a38b",
+        "url": "https://s.taobao.com/search?q=%E9%A5%AE%E6%96%99",
         "platformPrice": 4,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%A5%AE%E6%96%99",
+        "platformPrice": 4,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "饮料「饮料」主打增强免疫力，采用片剂剂型（500ml）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -13348,9 +15400,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1302-183002",
+        "url": "https://s.taobao.com/search?q=%E4%B8%AD%E8%80%81%E5%B9%B4%E5%A5%B6%E7%B2%89",
         "platformPrice": 96,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E4%B8%AD%E8%80%81%E5%B9%B4%E5%A5%B6%E7%B2%89",
+        "platformPrice": 96,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "中老年奶「中老年奶粉」主打增强免疫力，采用粉剂剂型（800g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合中老年、成人、通用人群使用。产地未知，线上渠道专供。",
@@ -13385,9 +15443,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1415-6089bf",
+        "url": "https://s.taobao.com/search?q=%E9%9D%92%E6%8F%90%E4%B9%8C%E9%BE%99%E8%8C%B6%E5%90%AB%E7%89%87",
         "platformPrice": 7,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%9D%92%E6%8F%90%E4%B9%8C%E9%BE%99%E8%8C%B6%E5%90%AB%E7%89%87",
+        "platformPrice": 7,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "青提乌龙「青提乌龙茶含片」主打增强免疫力，采用片剂剂型（27g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -13422,9 +15486,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1399-74aa02",
+        "url": "https://s.taobao.com/search?q=%E9%9B%A8%E5%89%8D%E9%BE%99%E4%BA%95%E8%8C%B6%E5%90%AB%E7%89%87",
         "platformPrice": 7,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%9B%A8%E5%89%8D%E9%BE%99%E4%BA%95%E8%8C%B6%E5%90%AB%E7%89%87",
+        "platformPrice": 7,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "雨前龙井「雨前龙井茶含片」主打增强免疫力，采用片剂剂型（27g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -13459,9 +15529,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1413-2f5f73",
+        "url": "https://s.taobao.com/search?q=%E8%8C%89%E8%8E%89%E5%86%B7%E8%90%83%E8%8C%B6%E5%90%AB%E7%89%87",
         "platformPrice": 7,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%8C%89%E8%8E%89%E5%86%B7%E8%90%83%E8%8C%B6%E5%90%AB%E7%89%87",
+        "platformPrice": 7,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "茉莉冷萃「茉莉冷萃茶含片」主打增强免疫力，采用片剂剂型（27g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -13496,9 +15572,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1452-209fab",
+        "url": "https://s.taobao.com/search?q=%E8%8C%B6%E5%8F%B6",
         "platformPrice": 32,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%8C%B6%E5%8F%B6",
+        "platformPrice": 32,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "茶叶「茶叶」主打增强免疫力，采用片剂剂型（60g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地江西南昌，线上渠道专供。",
@@ -13533,9 +15615,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1545-bcd1cd",
+        "url": "https://s.taobao.com/search?q=%E4%BB%A3%E7%94%A8%E8%8C%B6",
         "platformPrice": 19,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E4%BB%A3%E7%94%A8%E8%8C%B6",
+        "platformPrice": 19,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "代用茶「代用茶」主打增强免疫力，采用代用茶剂型（70g（7g*10袋））单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地广东，线上渠道专供。",
@@ -13571,9 +15659,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1316-627175",
+        "url": "https://s.taobao.com/search?q=%E6%A0%B8%E6%A1%83",
         "platformPrice": 45,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%A0%B8%E6%A1%83",
+        "platformPrice": 45,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "核桃「核桃」主打增强免疫力、美容养颜，采用片剂剂型（800g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -13608,9 +15702,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1359-6c2912",
+        "url": "https://s.taobao.com/search?q=%E8%B1%86%E5%A5%B6",
         "platformPrice": 51,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%B1%86%E5%A5%B6",
+        "platformPrice": 51,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "豆奶「豆奶」主打增强免疫力，采用片剂剂型（200ml）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -13645,9 +15745,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1320-456287",
+        "url": "https://s.taobao.com/search?q=%E5%B9%B2%E6%9E%9C",
         "platformPrice": 77,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%B9%B2%E6%9E%9C",
+        "platformPrice": 77,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "干果「干果」主打增强免疫力，采用片剂剂型（1048g（大枣138g+葡萄干288g+巴旦木188g+花生158g+香蕉片138g+核桃138g））单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -13682,9 +15788,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1405-d2f108",
+        "url": "https://s.taobao.com/search?q=%E7%BA%AF%E7%89%9B%E5%A5%B6",
         "platformPrice": 28,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%BA%AF%E7%89%9B%E5%A5%B6",
+        "platformPrice": 28,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "纯牛奶「纯牛奶」主打增强免疫力，采用片剂剂型（200ml*12）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地山东济南，线上渠道专供。",
@@ -13720,9 +15832,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1406-17be43",
+        "url": "https://s.taobao.com/search?q=%E7%9B%8A%E7%94%9F%E5%85%83%E8%A5%BF%E6%A2%85%E7%BA%A4%E7%BB%B4",
         "platformPrice": 9,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%9B%8A%E7%94%9F%E5%85%83%E8%A5%BF%E6%A2%85%E7%BA%A4%E7%BB%B4",
+        "platformPrice": 9,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "益生元西「益生元西梅纤维」主打增强免疫力、健脾消食，采用片剂剂型（120ml）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -13758,9 +15876,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1359-9246b0",
+        "url": "https://s.taobao.com/search?q=%E7%9B%8A%E7%94%9F%E5%85%83%E8%A5%BF%E6%9F%9A%E7%BA%A4%E7%BB%B4",
         "platformPrice": 8,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%9B%8A%E7%94%9F%E5%85%83%E8%A5%BF%E6%9F%9A%E7%BA%A4%E7%BB%B4",
+        "platformPrice": 8,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "益生元西「益生元西柚纤维」主打增强免疫力、健脾消食，采用片剂剂型（120ml）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -13796,9 +15920,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1329-785597",
+        "url": "https://s.taobao.com/search?q=%E5%8F%B6%E9%BB%84%E7%B4%A0%E9%85%AF",
         "platformPrice": 71,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%8F%B6%E9%BB%84%E7%B4%A0%E9%85%AF",
+        "platformPrice": 71,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "叶黄素酯「叶黄素酯」主打美容养颜、护眼明目，采用片剂剂型（60片）单盒装。该产品获SC食品生产许可，定位为针对性调理。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -13833,9 +15963,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1410-cd1279",
+        "url": "https://s.taobao.com/search?q=%E9%85%B5%E7%B4%A0%E6%9E%9C%E5%86%BB",
         "platformPrice": 16,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%85%B5%E7%B4%A0%E6%9E%9C%E5%86%BB",
+        "platformPrice": 16,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "酵素果冻「酵素果冻」主打健脾消食，采用颗粒剂剂型（150g（15g*10））单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地湖北宜昌，线上渠道专供。",
@@ -13870,9 +16006,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1452-33e0cf",
+        "url": "https://s.taobao.com/search?q=%E8%9B%8B%E7%99%BD%E8%82%BD%E6%9E%9C%E5%86%BB",
         "platformPrice": 13,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%9B%8B%E7%99%BD%E8%82%BD%E6%9E%9C%E5%86%BB",
+        "platformPrice": 13,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "蛋白肽果「蛋白肽果冻」主打增强免疫力，采用颗粒剂剂型（150g（15g*10））单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地湖北宜昌，线上渠道专供。",
@@ -13907,9 +16049,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1410-472c7c",
+        "url": "https://s.taobao.com/search?q=%E9%9D%A2%E6%9D%A1",
         "platformPrice": 7,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%9D%A2%E6%9D%A1",
+        "platformPrice": 7,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "面条「面条」主打增强免疫力，采用片剂剂型（100g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地山东济南，线上渠道专供。",
@@ -13944,9 +16092,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1400-2e314a",
+        "url": "https://s.taobao.com/search?q=%E9%A3%9F%E5%93%81",
         "platformPrice": 2,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%A3%9F%E5%93%81",
+        "platformPrice": 2,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "食品「食品」主打增强免疫力，采用片剂剂型（18g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -13982,9 +16136,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1357-029b80",
+        "url": "https://s.taobao.com/search?q=%E6%A1%91%E8%91%9A%E5%B1%B1%E6%A5%82%E7%89%87",
         "platformPrice": 11,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%A1%91%E8%91%9A%E5%B1%B1%E6%A5%82%E7%89%87",
+        "platformPrice": 11,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "桑葚「桑葚山楂片」主打健脾消食、中药食材，采用片剂剂型（188g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -14020,9 +16180,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1366-60d785",
+        "url": "https://s.taobao.com/search?q=%E9%99%88%E7%9A%AE%E5%B1%B1%E6%A5%82%E6%9D%A1",
         "platformPrice": 11,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%99%88%E7%9A%AE%E5%B1%B1%E6%A5%82%E6%9D%A1",
+        "platformPrice": 11,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "陈皮「陈皮山楂条」主打健脾消食、中药食材，采用片剂剂型（208g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -14057,9 +16223,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1407-ab9920",
+        "url": "https://s.taobao.com/search?q=%E8%8C%B6%E5%90%AB%E7%89%87",
         "platformPrice": 8,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%8C%B6%E5%90%AB%E7%89%87",
+        "platformPrice": 8,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "茶含「茶含片」主打增强免疫力，采用片剂剂型（27g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地湖南长沙，线上渠道专供。",
@@ -14095,9 +16267,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1355-0d1158",
+        "url": "https://s.taobao.com/search?q=%E7%8E%89%E7%B1%B3%E9%A1%BB",
         "platformPrice": 28,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%8E%89%E7%B1%B3%E9%A1%BB",
+        "platformPrice": 28,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "玉米须「玉米须」主打增强免疫力、中药食材，采用片剂剂型（160g（8g*20袋））单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地安徽亳州，线上渠道专供。",
@@ -14133,9 +16311,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1503-54cdaf",
+        "url": "https://s.taobao.com/search?q=%E9%A5%AE%E7%89%87-%E4%BA%BA%E5%8F%82",
         "platformPrice": 30,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%A5%AE%E7%89%87-%E4%BA%BA%E5%8F%82",
+        "platformPrice": 30,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "饮片-「饮片-人参」主打增强免疫力、中药食材，采用片剂剂型（1支）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地江西南昌，线上渠道专供。",
@@ -14170,9 +16354,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1505-c5c8db",
+        "url": "https://s.taobao.com/search?q=%E7%BA%A2%E6%99%AF%E5%A4%A9",
         "platformPrice": 34,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%BA%A2%E6%99%AF%E5%A4%A9",
+        "platformPrice": 34,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "红景天「红景天」主打增强免疫力，采用片剂剂型（300mg*30粒）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -14207,9 +16397,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1365-7c8164",
+        "url": "https://s.taobao.com/search?q=%E9%93%B6%E9%B9%AD%E8%8E%B2%E5%AD%90%E5%85%AB%E5%AE%9D%E7%B2%A5",
         "platformPrice": 4,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%93%B6%E9%B9%AD%E8%8E%B2%E5%AD%90%E5%85%AB%E5%AE%9D%E7%B2%A5",
+        "platformPrice": 4,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "银鹭「银鹭莲子八宝粥」主打谷物膳食，采用粉剂剂型（360g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -14244,9 +16440,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1408-5d173d",
+        "url": "https://s.taobao.com/search?q=%E5%9B%9B%E7%89%B9%E9%85%92",
         "platformPrice": 68,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%9B%9B%E7%89%B9%E9%85%92",
+        "platformPrice": 68,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "四特酒「四特酒」主打增强免疫力，采用片剂剂型（500ml）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -14281,9 +16483,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1452-1fa4d4",
+        "url": "https://s.taobao.com/search?q=%E4%B8%87%E9%80%9A%E7%AD%8B%E9%AA%A8%EF%BC%88%E5%A4%96%E7%94%A8%EF%BC%89",
         "platformPrice": 32,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E4%B8%87%E9%80%9A%E7%AD%8B%E9%AA%A8%EF%BC%88%E5%A4%96%E7%94%A8%EF%BC%89",
+        "platformPrice": 32,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "万通「万通筋骨（外用）」主打强健骨骼，采用片剂剂型（60ml）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -14318,9 +16526,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1407-6850ca",
+        "url": "https://s.taobao.com/search?q=%E5%BA%B7%E7%BE%8E%E7%89%8C%E8%8F%8A%E8%8A%B1%E8%83%96%E5%A4%A7%E6%B5%B7%E8%8C%B6",
         "platformPrice": 50,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%BA%B7%E7%BE%8E%E7%89%8C%E8%8F%8A%E8%8A%B1%E8%83%96%E5%A4%A7%E6%B5%B7%E8%8C%B6",
+        "platformPrice": 50,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "康美「康美牌菊花胖大海茶」主打清咽润喉，采用代用茶剂型（6.5g*20包）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -14355,9 +16569,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1417-e8774b",
+        "url": "https://s.taobao.com/search?q=%E5%96%84%E5%85%83%E5%A0%82%E7%89%8C%E9%92%99%E5%92%80%E5%9A%BC%E7%89%87",
         "platformPrice": 199,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%96%84%E5%85%83%E5%A0%82%E7%89%8C%E9%92%99%E5%92%80%E5%9A%BC%E7%89%87",
+        "platformPrice": 199,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "善元堂「善元堂牌钙咀嚼片」主打强健骨骼，采用片剂剂型（135g（1.5g*90s)）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地广东广州，全渠道销售。",
@@ -14393,9 +16613,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1355-1a5273",
+        "url": "https://s.taobao.com/search?q=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%E8%BE%85%E9%85%B6Q10%E5%A4%A9%E7%84%B6%E7%BB%B4E%E8%BD%AF%E8%83%B6%E5%9B%8A",
         "platformPrice": 396,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%E8%BE%85%E9%85%B6Q10%E5%A4%A9%E7%84%B6%E7%BB%B4E%E8%BD%AF%E8%83%B6%E5%9B%8A",
+        "platformPrice": 396,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "汤臣倍健「汤臣倍健辅酶Q10天然维E软胶囊」主打抗氧化、基础维生素，采用胶囊剂型（60s）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地广东珠海，全渠道销售。",
@@ -14430,9 +16656,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1457-b8ae54",
+        "url": "https://s.taobao.com/search?q=%E9%95%BF%E5%85%B4%E7%89%8C%E8%A4%AA%E9%BB%91%E7%B4%A0%E7%89%87",
         "platformPrice": 45,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%95%BF%E5%85%B4%E7%89%8C%E8%A4%AA%E9%BB%91%E7%B4%A0%E7%89%87",
+        "platformPrice": 45,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "长兴牌「长兴牌褪黑素片」主打助眠安神，采用片剂剂型（24g（400mg*60片））单盒装。该产品获SC食品生产许可，定位为针对性调理。适合成人、通用人群使用。产地广东潮州，线上渠道专供。",
@@ -14467,9 +16699,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1312-760632",
+        "url": "https://s.taobao.com/search?q=%E5%A4%9A%E7%A7%8D%E7%BB%B4%E7%94%9F%E7%B4%A0%E5%92%80%E5%9A%BC%E7%89%87",
         "platformPrice": 50,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%A4%9A%E7%A7%8D%E7%BB%B4%E7%94%9F%E7%B4%A0%E5%92%80%E5%9A%BC%E7%89%87",
+        "platformPrice": 50,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "多种维「多种维生素咀嚼片」主打基础维生素，采用片剂剂型（90g（1g*90片））单盒装。该产品获国家蓝帽保健食品认证，定位为日常保健。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -14504,9 +16742,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1415-fc7375",
+        "url": "https://s.taobao.com/search?q=%E5%BA%B7%E5%8A%9B%E5%A3%AB%E7%89%9B%E4%B9%B3%E9%92%99%E7%BB%B4%E7%94%9F%E7%B4%A0CD%E7%89%87",
         "platformPrice": 298,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%BA%B7%E5%8A%9B%E5%A3%AB%E7%89%9B%E4%B9%B3%E9%92%99%E7%BB%B4%E7%94%9F%E7%B4%A0CD%E7%89%87",
+        "platformPrice": 298,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "康力士牛「康力士牛乳钙维生素CD片」主打强健骨骼，采用片剂剂型（60片）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -14544,9 +16788,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1419-7e98b4",
+        "url": "https://s.taobao.com/search?q=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%E8%83%B6%E5%8E%9F%E8%BD%AF%E9%AA%A8%E7%B4%A0%E9%92%99%E7%89%87",
         "platformPrice": 248,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%E8%83%B6%E5%8E%9F%E8%BD%AF%E9%AA%A8%E7%B4%A0%E9%92%99%E7%89%87",
+        "platformPrice": 248,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "汤臣倍健「汤臣倍健胶原软骨素钙片」主打强健骨骼、美容养颜、胶原蛋白，采用片剂剂型（90片）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合女性、成人、通用人群使用。产地广东珠海，全渠道销售。",
@@ -14582,9 +16832,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1459-596aea",
+        "url": "https://s.taobao.com/search?q=%E7%BB%B4%E7%94%9F%E7%B4%A0C%E7%BB%B4%E7%94%9F%E7%B4%A0E%E8%9B%8B%E7%99%BD%E7%B2%89",
         "platformPrice": 89,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%BB%B4%E7%94%9F%E7%B4%A0C%E7%BB%B4%E7%94%9F%E7%B4%A0E%E8%9B%8B%E7%99%BD%E7%B2%89",
+        "platformPrice": 89,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "维生「维生素C维生素E蛋白粉」主打蛋白质补充、基础维生素，采用粉剂剂型（300g（10g*30袋））单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -14619,9 +16875,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1407-232cf7",
+        "url": "https://s.taobao.com/search?q=%E7%A6%8F%E6%A0%BC%E6%A3%AE%E5%8F%B6%E9%85%B8%E8%90%A5%E5%85%BB%E7%B4%A0%E8%BD%AF%E8%83%B6%E5%9B%8A",
         "platformPrice": 188,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%A6%8F%E6%A0%BC%E6%A3%AE%E5%8F%B6%E9%85%B8%E8%90%A5%E5%85%BB%E7%B4%A0%E8%BD%AF%E8%83%B6%E5%9B%8A",
+        "platformPrice": 188,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "福格森叶「福格森叶酸营养素软胶囊」主打增强免疫力，采用胶囊剂型（0.26g*60s）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -14657,9 +16919,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1511-4edff6",
+        "url": "https://s.taobao.com/search?q=%E5%96%84%E5%85%83%E5%A0%82%E4%B9%90%E5%94%B1%E8%BD%AF%E8%83%B6%E5%9B%8A(%E9%80%9A%E4%BE%BF%E8%BD%AF%E8%83%B6%E5%9B%8A%EF%BC%89",
         "platformPrice": 178,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%96%84%E5%85%83%E5%A0%82%E4%B9%90%E5%94%B1%E8%BD%AF%E8%83%B6%E5%9B%8A(%E9%80%9A%E4%BE%BF%E8%BD%AF%E8%83%B6%E5%9B%8A%EF%BC%89",
+        "platformPrice": 178,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "善元堂「善元堂乐唱软胶囊(通便软胶囊）」主打增强免疫力、健脾消食，采用胶囊剂型（0.8g*60粒）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地广东广州，全渠道销售。",
@@ -14696,9 +16964,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1510-c92fee",
+        "url": "https://s.taobao.com/search?q=%E5%AD%95%E5%B0%94%E5%AE%812%E6%AE%B5%E5%BA%B7%E6%96%BD%E7%A6%8F%E7%89%8C%E7%BB%B4%E7%94%9F%E7%B4%A0A%E5%8A%A0D%E9%92%99%E9%94%8C%E5%92%80%E5%9A%BC%E7%89%87",
         "platformPrice": 498,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%AD%95%E5%B0%94%E5%AE%812%E6%AE%B5%E5%BA%B7%E6%96%BD%E7%A6%8F%E7%89%8C%E7%BB%B4%E7%94%9F%E7%B4%A0A%E5%8A%A0D%E9%92%99%E9%94%8C%E5%92%80%E5%9A%BC%E7%89%87",
+        "platformPrice": 498,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "孕尔宁「孕尔宁2段康施福牌维生素A加D钙锌咀嚼片」主打强健骨骼、矿物质补充，采用片剂剂型（2.0g*5片*6小盒）单盒装。该产品获国家蓝帽保健食品认证，定位为日常保健。适合孕妇、成人、通用人群使用。产地未知，全渠道销售。",
@@ -14733,9 +17007,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1455-a66ae4",
+        "url": "https://s.taobao.com/search?q=%E8%84%91%E7%99%BD%E9%87%91%E8%83%B6%E5%9B%8A%E5%8F%A3%E6%9C%8D%E6%B6%B2%EF%BC%88%E7%A4%BC%E4%B8%89%E8%A3%85%EF%BC%89",
         "platformPrice": 386,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%84%91%E7%99%BD%E9%87%91%E8%83%B6%E5%9B%8A%E5%8F%A3%E6%9C%8D%E6%B6%B2%EF%BC%88%E7%A4%BC%E4%B8%89%E8%A3%85%EF%BC%89",
+        "platformPrice": 386,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "脑白金胶「脑白金胶囊口服液（礼三装）」主打增强免疫力，采用口服液剂型（0.25g*30s*250ml*3瓶）礼盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -14770,9 +17050,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1456-22bc9f",
+        "url": "https://s.taobao.com/search?q=%E9%87%91%E5%A3%AB%E5%8A%9B%E7%89%8C%E8%8A%B7%E8%8F%B2%E8%83%B6%E5%9B%8A",
         "platformPrice": 131,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%87%91%E5%A3%AB%E5%8A%9B%E7%89%8C%E8%8A%B7%E8%8F%B2%E8%83%B6%E5%9B%8A",
+        "platformPrice": 131,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "金士力「金士力牌芷菲胶囊」主打增强免疫力，采用胶囊剂型（36g（0.45g*80s））单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -14808,9 +17094,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1452-3cd3e2",
+        "url": "https://s.taobao.com/search?q=%E4%BC%98%E5%8A%9B%E9%92%99%E7%89%8C%E9%92%99%E7%BB%B4%E7%94%9F%E7%B4%A0D%E8%BD%AF%E8%83%B6%E5%9B%8A",
         "platformPrice": 140,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E4%BC%98%E5%8A%9B%E9%92%99%E7%89%8C%E9%92%99%E7%BB%B4%E7%94%9F%E7%B4%A0D%E8%BD%AF%E8%83%B6%E5%9B%8A",
+        "platformPrice": 140,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "优力钙「优力钙牌钙维生素D软胶囊」主打强健骨骼、矿物质补充，采用胶囊剂型（1.15g*150粒）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -14846,9 +17138,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1412-f4b952",
+        "url": "https://s.taobao.com/search?q=%E5%96%84%E5%85%83%E5%A0%82%E8%A4%AA%E9%BB%91%E7%B4%A0%E7%BB%B4B6%E8%BD%AF%E8%83%B6%E5%9B%8A",
         "platformPrice": 109,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%96%84%E5%85%83%E5%A0%82%E8%A4%AA%E9%BB%91%E7%B4%A0%E7%BB%B4B6%E8%BD%AF%E8%83%B6%E5%9B%8A",
+        "platformPrice": 109,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "善元堂「善元堂褪黑素维B6软胶囊」主打助眠安神、基础维生素，采用胶囊剂型（0.23g*60粒）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地广东广州，全渠道销售。",
@@ -14883,9 +17181,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1417-de5784",
+        "url": "https://s.taobao.com/search?q=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%E7%95%AA%E8%8C%84%E7%BA%A2%E7%B4%A0%E7%BB%B4%E7%94%9F%E7%B4%A0E%E8%BD%AF%E8%83%B6%E5%9B%8A",
         "platformPrice": 262,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%E7%95%AA%E8%8C%84%E7%BA%A2%E7%B4%A0%E7%BB%B4%E7%94%9F%E7%B4%A0E%E8%BD%AF%E8%83%B6%E5%9B%8A",
+        "platformPrice": 262,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "汤臣倍健「汤臣倍健番茄红素维生素E软胶囊」主打基础维生素，采用胶囊剂型（500mg*60s）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地广东珠海，全渠道销售。",
@@ -14921,9 +17225,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1455-7d13ce",
+        "url": "https://s.taobao.com/search?q=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%E8%9B%8B%E7%99%BD%E7%B2%89",
         "platformPrice": 423,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%E8%9B%8B%E7%99%BD%E7%B2%89",
+        "platformPrice": 423,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "汤臣倍健「汤臣倍健蛋白粉」主打增强免疫力、蛋白质补充，采用粉剂剂型（450g）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地广东珠海，全渠道销售。",
@@ -14958,9 +17268,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1367-948a72",
+        "url": "https://s.taobao.com/search?q=%E9%B9%B0%E7%89%8C%E8%8A%B1%E6%97%97%E5%8F%82%E8%8C%B6",
         "platformPrice": 300,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%B9%B0%E7%89%8C%E8%8A%B1%E6%97%97%E5%8F%82%E8%8C%B6",
+        "platformPrice": 300,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "鹰牌花旗「鹰牌花旗参茶」主打增强免疫力，采用代用茶剂型（3g*40包）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -14995,9 +17311,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1463-cfa984",
+        "url": "https://s.taobao.com/search?q=%E4%BA%BA%E5%8F%82%E6%B0%A8%E5%9F%BA%E9%85%B8%E5%8F%A3%E6%9C%8D%E6%B6%B2",
         "platformPrice": 122,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E4%BA%BA%E5%8F%82%E6%B0%A8%E5%9F%BA%E9%85%B8%E5%8F%A3%E6%9C%8D%E6%B6%B2",
+        "platformPrice": 122,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "人参氨基「人参氨基酸口服液」主打增强免疫力，采用口服液剂型（200ml*3瓶）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -15033,9 +17355,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1456-0b7fd5",
+        "url": "https://s.taobao.com/search?q=%E5%8D%83%E6%9E%97%E8%9B%8B%E7%99%BD%E7%B2%89",
         "platformPrice": 398,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%8D%83%E6%9E%97%E8%9B%8B%E7%99%BD%E7%B2%89",
+        "platformPrice": 398,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "千林「千林蛋白粉」主打增强免疫力、蛋白质补充，采用粉剂剂型（10g/袋*30袋）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -15070,9 +17398,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1369-66a587",
+        "url": "https://s.taobao.com/search?q=%E6%B5%B7%E6%99%B6%E7%89%8C%E5%A4%A7%E8%B1%86%E7%A3%B7%E8%84%82%E8%BD%AF%E8%83%B6%E5%9B%8A",
         "platformPrice": 109,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%B5%B7%E6%99%B6%E7%89%8C%E5%A4%A7%E8%B1%86%E7%A3%B7%E8%84%82%E8%BD%AF%E8%83%B6%E5%9B%8A",
+        "platformPrice": 109,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "海晶「海晶牌大豆磷脂软胶囊」主打益智健脑，采用胶囊剂型（1200mg*100s）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -15107,9 +17441,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1407-f6a028",
+        "url": "https://s.taobao.com/search?q=%E5%96%84%E5%85%83%E5%A0%82%E7%BB%B4%E7%94%9F%E7%B4%A0E%E8%BD%AF%E8%83%B6%E5%9B%8A",
         "platformPrice": 161,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%96%84%E5%85%83%E5%A0%82%E7%BB%B4%E7%94%9F%E7%B4%A0E%E8%BD%AF%E8%83%B6%E5%9B%8A",
+        "platformPrice": 161,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "善元堂「善元堂维生素E软胶囊」主打基础维生素，采用胶囊剂型（0.5g*100s）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地广东广州，线上渠道专供。",
@@ -15144,9 +17484,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1503-a9a5dc",
+        "url": "https://s.taobao.com/search?q=%E5%96%84%E5%85%83%E5%A0%82%E7%89%8C%E5%A4%9A%E7%A7%8DB%E6%97%8F%E7%BB%B4%E7%94%9F%E7%B4%A0%E8%BD%AF%E8%83%B6%E5%9B%8A",
         "platformPrice": 129,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%96%84%E5%85%83%E5%A0%82%E7%89%8C%E5%A4%9A%E7%A7%8DB%E6%97%8F%E7%BB%B4%E7%94%9F%E7%B4%A0%E8%BD%AF%E8%83%B6%E5%9B%8A",
+        "platformPrice": 129,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "善元堂「善元堂牌多种B族维生素软胶囊」主打基础维生素，采用胶囊剂型（500mg*60s）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地广东广州，线上渠道专供。",
@@ -15183,9 +17529,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1413-d9c346",
+        "url": "https://s.taobao.com/search?q=%E5%96%84%E5%85%83%E5%A0%82%E8%B6%8A%E6%A9%98%E7%BB%B4%E7%94%9F%E7%B4%A0A%E8%BD%AF%E8%83%B6%E5%9B%8A",
         "platformPrice": 198,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%96%84%E5%85%83%E5%A0%82%E8%B6%8A%E6%A9%98%E7%BB%B4%E7%94%9F%E7%B4%A0A%E8%BD%AF%E8%83%B6%E5%9B%8A",
+        "platformPrice": 198,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "善元堂「善元堂越橘维生素A软胶囊」主打美容养颜、护眼明目、基础维生素，采用胶囊剂型（500mg*60s）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地广东广州，全渠道销售。",
@@ -15221,9 +17573,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1409-3246fd",
+        "url": "https://s.taobao.com/search?q=%E9%95%BF%E5%85%B4%E7%89%8C%E9%92%99%E7%BB%B4%E7%94%9F%E7%B4%A0D%E8%BD%AF%E8%83%B6%E5%9B%8A",
         "platformPrice": 95,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%95%BF%E5%85%B4%E7%89%8C%E9%92%99%E7%BB%B4%E7%94%9F%E7%B4%A0D%E8%BD%AF%E8%83%B6%E5%9B%8A",
+        "platformPrice": 95,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "长兴牌「长兴牌钙维生素D软胶囊」主打强健骨骼、矿物质补充，采用胶囊剂型（100g（1g*100粒））单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地广东潮州，线上渠道专供。",
@@ -15258,9 +17616,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1348-05031c",
+        "url": "https://s.taobao.com/search?q=%E5%96%84%E5%85%83%E5%A0%82%E7%A1%AB%E9%85%B8%E8%BD%AF%E9%AA%A8%E7%B4%A0%E9%92%99%E5%92%80%E5%9A%BC%E7%89%87",
         "platformPrice": 129,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%96%84%E5%85%83%E5%A0%82%E7%A1%AB%E9%85%B8%E8%BD%AF%E9%AA%A8%E7%B4%A0%E9%92%99%E5%92%80%E5%9A%BC%E7%89%87",
+        "platformPrice": 129,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "善元堂「善元堂硫酸软骨素钙咀嚼片」主打强健骨骼，采用片剂剂型（1.5g*44s）单盒装。该产品获SC食品生产许可，定位为针对性调理。适合成人、通用人群使用。产地广东广州，线上渠道专供。",
@@ -15296,9 +17660,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1410-8a50c9",
+        "url": "https://s.taobao.com/search?q=%E5%AD%95%E5%B0%94%E5%AE%811%E6%AE%B5%E5%AD%95%E7%A6%8F%E7%89%8C%E5%A4%9A%E7%A7%8D%E7%BB%B4%E7%94%9F%E7%B4%A0%E9%93%81%E8%BD%AF%E8%83%B6%E5%9B%8A",
         "platformPrice": 498,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%AD%95%E5%B0%94%E5%AE%811%E6%AE%B5%E5%AD%95%E7%A6%8F%E7%89%8C%E5%A4%9A%E7%A7%8D%E7%BB%B4%E7%94%9F%E7%B4%A0%E9%93%81%E8%BD%AF%E8%83%B6%E5%9B%8A",
+        "platformPrice": 498,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "孕尔宁「孕尔宁1段孕福牌多种维生素铁软胶囊」主打基础维生素，采用胶囊剂型（0.4g*5粒*6小盒）单盒装。该产品获SC食品生产许可，定位为日常保健。适合孕妇、成人、通用人群使用。产地未知，线上渠道专供。",
@@ -15333,9 +17703,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1411-3f376b",
+        "url": "https://s.taobao.com/search?q=%E5%96%84%E5%85%83%E5%A0%82%E7%89%8C%E5%8F%B6%E9%85%B8%E7%89%87",
         "platformPrice": 149,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%96%84%E5%85%83%E5%A0%82%E7%89%8C%E5%8F%B6%E9%85%B8%E7%89%87",
+        "platformPrice": 149,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "善元堂「善元堂牌叶酸片」主打增强免疫力，采用片剂剂型（500mg*60s）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地广东广州，线上渠道专供。",
@@ -15370,9 +17746,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1407-3ee811",
+        "url": "https://s.taobao.com/search?q=%E5%96%84%E5%85%83%E5%A0%82%E8%BE%85%E9%85%B6Q10%E8%BD%AF%E8%83%B6%E5%9B%8A",
         "platformPrice": 279,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%96%84%E5%85%83%E5%A0%82%E8%BE%85%E9%85%B6Q10%E8%BD%AF%E8%83%B6%E5%9B%8A",
+        "platformPrice": 279,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "善元堂「善元堂辅酶Q10软胶囊」主打抗氧化，采用胶囊剂型（400mg/s*60s）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地广东广州，全渠道销售。",
@@ -15407,9 +17789,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1407-23dc92",
+        "url": "https://s.taobao.com/search?q=%E6%B5%B7%E6%B4%8B%E5%BA%B7%E5%BE%97%E7%89%8C%E6%B7%B1%E6%B5%B7%E9%B1%BC%E6%B2%B9%E8%BD%AF%E8%83%B6%E5%9B%8A",
         "platformPrice": 116,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%B5%B7%E6%B4%8B%E5%BA%B7%E5%BE%97%E7%89%8C%E6%B7%B1%E6%B5%B7%E9%B1%BC%E6%B2%B9%E8%BD%AF%E8%83%B6%E5%9B%8A",
+        "platformPrice": 116,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "海洋康得「海洋康得牌深海鱼油软胶囊」主打调节三高，采用胶囊剂型（100g（1000mg*100粒））单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -15445,9 +17833,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1413-9256fa",
+        "url": "https://s.taobao.com/search?q=MCKlN%20%E9%B1%BC%E6%B2%B9DHA%E8%97%BB%E6%B2%B9%E8%BD%AF%E8%83%B6%E5%9B%8A",
         "platformPrice": 38,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=MCKlN%20%E9%B1%BC%E6%B2%B9DHA%E8%97%BB%E6%B2%B9%E8%BD%AF%E8%83%B6%E5%9B%8A",
+        "platformPrice": 38,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "MCK「MCKlN 鱼油DHA藻油软胶囊」主打调节三高、益智健脑，采用胶囊剂型（27g（0.45g*60粒））单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -15483,9 +17877,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1458-c965ba",
+        "url": "https://s.taobao.com/search?q=life.space%E7%9B%8A%E7%94%9F%E8%8F%8C%E7%B2%89%EF%BC%88%E4%B8%8D%E5%8D%95%E7%8B%AC%E9%94%80%E5%94%AE%EF%BC%89",
         "platformPrice": 15,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=life.space%E7%9B%8A%E7%94%9F%E8%8F%8C%E7%B2%89%EF%BC%88%E4%B8%8D%E5%8D%95%E7%8B%AC%E9%94%80%E5%94%AE%EF%BC%89",
+        "platformPrice": 15,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "lif「life.space益生菌粉（不单独销售）」主打健脾消食、益生菌，采用片剂剂型（12g（1.5g*8袋））单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -15520,9 +17920,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1419-c59c87",
+        "url": "https://s.taobao.com/search?q=%E5%96%84%E5%AD%98%E5%B0%8F%E4%BD%B3%E7%BB%B4%E5%92%80%E5%9A%BC%E7%89%87(%E9%A6%99%E7%94%9C%E6%9F%A0%E6%AA%AC%E5%91%B3)",
         "platformPrice": 98,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%96%84%E5%AD%98%E5%B0%8F%E4%BD%B3%E7%BB%B4%E5%92%80%E5%9A%BC%E7%89%87(%E9%A6%99%E7%94%9C%E6%9F%A0%E6%AA%AC%E5%91%B3)",
+        "platformPrice": 98,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "善存「善存小佳维咀嚼片(香甜柠檬味)」主打增强免疫力，采用片剂剂型（1.95g*40片）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地江苏苏州，全渠道销售。",
@@ -15559,9 +17965,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1460-9a5fe2",
+        "url": "https://s.taobao.com/search?q=%E9%92%99%E5%B0%94%E5%A5%87%E6%9F%A0%E6%AA%AC%E9%85%B8%E9%92%99%E7%BB%B4%E7%94%9F%E7%B4%A0D%E7%89%87(%E5%AD%95%E5%A6%87%E4%B9%B3%E6%AF%8D%EF%BC%89",
         "platformPrice": 88,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%92%99%E5%B0%94%E5%A5%87%E6%9F%A0%E6%AA%AC%E9%85%B8%E9%92%99%E7%BB%B4%E7%94%9F%E7%B4%A0D%E7%89%87(%E5%AD%95%E5%A6%87%E4%B9%B3%E6%AF%8D%EF%BC%89",
+        "platformPrice": 88,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "钙尔奇「钙尔奇柠檬酸钙维生素D片(孕妇乳母）」主打强健骨骼、矿物质补充，采用片剂剂型（1.2g*60s）单盒装。该产品获SC食品生产许可，定位为日常保健。适合孕妇、成人、通用人群使用。产地江苏苏州，线上渠道专供。",
@@ -15598,9 +18010,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1456-bb7c82",
+        "url": "https://s.taobao.com/search?q=%E9%BB%84%E8%8A%AA%E9%98%BF%E8%83%B6%E5%8F%A3%E6%9C%8D%E6%B6%B2",
         "platformPrice": 98,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%BB%84%E8%8A%AA%E9%98%BF%E8%83%B6%E5%8F%A3%E6%9C%8D%E6%B6%B2",
+        "platformPrice": 98,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "黄芪阿胶「黄芪阿胶口服液」主打增强免疫力、美容养颜，采用口服液剂型（250ml*3瓶）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合女性、成人、通用人群使用。产地未知，全渠道销售。",
@@ -15635,9 +18053,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1449-72aaf0",
+        "url": "https://s.taobao.com/search?q=%E9%87%91%E6%96%AF%E5%88%A9%E5%AE%89%E5%A4%9A%E7%BB%B4%E7%89%87",
         "platformPrice": 129,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%87%91%E6%96%AF%E5%88%A9%E5%AE%89%E5%A4%9A%E7%BB%B4%E7%89%87",
+        "platformPrice": 129,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "金斯利安「金斯利安多维片」主打增强免疫力，采用片剂剂型（1.17g*10片*3板）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -15672,9 +18096,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1464-6f58be",
+        "url": "https://s.taobao.com/search?q=%E6%96%AF%E5%88%A9%E5%AE%89%E9%92%99%E7%89%87",
         "platformPrice": 58,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%96%AF%E5%88%A9%E5%AE%89%E9%92%99%E7%89%87",
+        "platformPrice": 58,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "斯利安钙「斯利安钙片」主打强健骨骼，采用片剂剂型（42g（0.7g*60片））单盒装。该产品获国家蓝帽保健食品认证，定位为日常保健。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -15709,9 +18139,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1351-05c430",
+        "url": "https://s.taobao.com/search?q=%E6%96%B0%E6%8A%A4%E5%85%83%E7%89%8C%E8%BE%85%E9%85%B6Q10%E8%BD%AF%E8%83%B6%E5%9B%8A",
         "platformPrice": 45,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%96%B0%E6%8A%A4%E5%85%83%E7%89%8C%E8%BE%85%E9%85%B6Q10%E8%BD%AF%E8%83%B6%E5%9B%8A",
+        "platformPrice": 45,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "新护元「新护元牌辅酶Q10软胶囊」主打抗氧化，采用胶囊剂型（7.5g（250mg*30粒））单盒装。该产品获SC食品生产许可，定位为针对性调理。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -15746,9 +18182,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1420-298de8",
+        "url": "https://s.taobao.com/search?q=%E8%B4%9D%E5%85%B4%E7%89%8C%E5%A4%A7%E8%B1%86%E7%A3%B7%E8%84%82%E8%BD%AF%E8%83%B6%E5%9B%8A",
         "platformPrice": 110,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%B4%9D%E5%85%B4%E7%89%8C%E5%A4%A7%E8%B1%86%E7%A3%B7%E8%84%82%E8%BD%AF%E8%83%B6%E5%9B%8A",
+        "platformPrice": 110,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "贝兴「贝兴牌大豆磷脂软胶囊」主打益智健脑，采用胶囊剂型（120g（1.2g*100粒））单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -15784,9 +18226,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1355-541f21",
+        "url": "https://s.taobao.com/search?q=%E5%96%84%E5%85%83%E5%A0%82%E8%9C%82%E8%83%B6%E8%BD%AF%E8%83%B6%E5%9B%8A",
         "platformPrice": 169,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%96%84%E5%85%83%E5%A0%82%E8%9C%82%E8%83%B6%E8%BD%AF%E8%83%B6%E5%9B%8A",
+        "platformPrice": 169,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "善元堂「善元堂蜂胶软胶囊」主打增强免疫力、蜂产品，采用胶囊剂型（500mg*60粒）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地广东广州，全渠道销售。",
@@ -15821,9 +18269,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1352-06b404",
+        "url": "https://s.taobao.com/search?q=%E8%81%94%E9%82%A6%E5%81%A5%E6%80%A1%E7%BE%8E%E8%BE%85%E9%85%B6Q10%E8%BD%AF%E8%83%B6%E5%9B%8A",
         "platformPrice": 238,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%81%94%E9%82%A6%E5%81%A5%E6%80%A1%E7%BE%8E%E8%BE%85%E9%85%B6Q10%E8%BD%AF%E8%83%B6%E5%9B%8A",
+        "platformPrice": 238,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "联邦健怡「联邦健怡美辅酶Q10软胶囊」主打抗氧化，采用胶囊剂型（240mg*60粒）单盒装。该产品获SC食品生产许可，定位为针对性调理。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -15859,9 +18313,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1451-5aec32",
+        "url": "https://s.taobao.com/search?q=%E6%BA%90%E7%94%9F%E5%A0%82%E7%89%8C%E8%8A%A6%E8%8D%9F%E8%BD%AF%E8%83%B6%E5%9B%8A",
         "platformPrice": 50,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%BA%90%E7%94%9F%E5%A0%82%E7%89%8C%E8%8A%A6%E8%8D%9F%E8%BD%AF%E8%83%B6%E5%9B%8A",
+        "platformPrice": 50,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "源生堂「源生堂牌芦荟软胶囊」主打增强免疫力、健脾消食，采用胶囊剂型（20g（0.5g*10粒*4板））单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -15896,9 +18356,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1403-c26f11",
+        "url": "https://s.taobao.com/search?q=%E8%BE%9B%E5%B8%8C%E5%AE%9D%E9%94%8C%E7%A1%92%E5%92%80%E5%9A%BC%E7%89%87(%E9%94%8C%E7%A1%92%E5%AE%9D)",
         "platformPrice": 39,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%BE%9B%E5%B8%8C%E5%AE%9D%E9%94%8C%E7%A1%92%E5%92%80%E5%9A%BC%E7%89%87(%E9%94%8C%E7%A1%92%E5%AE%9D)",
+        "platformPrice": 39,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "辛希宝锌「辛希宝锌硒咀嚼片(锌硒宝)」主打矿物质补充，采用片剂剂型（45g（0.5g*90片））单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -15934,9 +18400,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1447-c1c1a6",
+        "url": "https://s.taobao.com/search?q=%E5%8D%81%E6%9C%88%E9%A6%A8%E5%AD%95%E5%A6%87%E8%90%A5%E5%85%BBa%E4%BA%9A%E9%BA%BB%E9%85%B8DHA%E8%97%BB%E6%B2%B9%E5%87%9D%E8%83%B6%E7%B3%96%E6%9E%9C(%E6%97%A0%E7%B3%96%E5%9E%8B)",
         "platformPrice": 498,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%8D%81%E6%9C%88%E9%A6%A8%E5%AD%95%E5%A6%87%E8%90%A5%E5%85%BBa%E4%BA%9A%E9%BA%BB%E9%85%B8DHA%E8%97%BB%E6%B2%B9%E5%87%9D%E8%83%B6%E7%B3%96%E6%9E%9C(%E6%97%A0%E7%B3%96%E5%9E%8B)",
+        "platformPrice": 498,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "十月馨「十月馨孕妇营养a亚麻酸DHA藻油凝胶糖果(无糖型)」主打益智健脑，采用片剂剂型（0.7克/粒*120粒(艾聪宝)）单盒装。该产品获SC食品生产许可，定位为日常保健。适合孕妇、成人、通用人群使用。产地广东广州，线上渠道专供。",
@@ -15971,9 +18443,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1447-5ad3a1",
+        "url": "https://s.taobao.com/search?q=%E9%95%BF%E5%85%B4%E7%89%8C%E5%A4%9A%E7%A7%8DB%E6%97%8F%E7%BB%B4%E7%94%9F%E7%B4%A0%E7%89%87",
         "platformPrice": 46,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%95%BF%E5%85%B4%E7%89%8C%E5%A4%9A%E7%A7%8DB%E6%97%8F%E7%BB%B4%E7%94%9F%E7%B4%A0%E7%89%87",
+        "platformPrice": 46,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "长兴牌「长兴牌多种B族维生素片」主打基础维生素，采用片剂剂型（36g（0.6g*60片））单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地广东潮州，线上渠道专供。",
@@ -16010,9 +18488,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1336-939999",
+        "url": "https://s.taobao.com/search?q=%E9%95%BF%E5%85%B4%E7%89%8C%E9%92%99%E9%93%81%E9%94%8C%E7%A1%92%E5%92%80%E5%9A%BC%E7%89%87%EF%BC%884-17%E5%B2%81%EF%BC%89%E7%94%9C%E6%A9%99%E5%91%B3",
         "platformPrice": 50,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%95%BF%E5%85%B4%E7%89%8C%E9%92%99%E9%93%81%E9%94%8C%E7%A1%92%E5%92%80%E5%9A%BC%E7%89%87%EF%BC%884-17%E5%B2%81%EF%BC%89%E7%94%9C%E6%A9%99%E5%91%B3",
+        "platformPrice": 50,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "长兴牌「长兴牌钙铁锌硒咀嚼片（4-17岁）甜橙味」主打强健骨骼、矿物质补充，采用片剂剂型（100g（1g*100片））单盒装。该产品获SC食品生产许可，定位为日常保健。适合儿童、成人、通用人群使用。产地广东潮州，线上渠道专供。",
@@ -16048,9 +18532,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1402-71e12b",
+        "url": "https://s.taobao.com/search?q=MCKIN%E7%9B%8A%E7%94%9F%E8%8F%8C%E7%B2%89",
         "platformPrice": 68,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=MCKIN%E7%9B%8A%E7%94%9F%E8%8F%8C%E7%B2%89",
+        "platformPrice": 68,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "MCK「MCKIN益生菌粉」主打健脾消食、益生菌，采用粉剂剂型（1.5g*20袋）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -16086,9 +18576,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1407-1454cf",
+        "url": "https://s.taobao.com/search?q=MCKlM%20%E9%92%99%E7%BB%B4%E7%94%9F%E7%B4%A0D%E8%BD%AF%E8%83%B6%E5%9B%8A",
         "platformPrice": 38,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=MCKlM%20%E9%92%99%E7%BB%B4%E7%94%9F%E7%B4%A0D%E8%BD%AF%E8%83%B6%E5%9B%8A",
+        "platformPrice": 38,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "MCK「MCKlM 钙维生素D软胶囊」主打强健骨骼、矿物质补充，采用胶囊剂型（120g（1.2g*100粒））单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -16125,9 +18621,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1506-66fdbb",
+        "url": "https://s.taobao.com/search?q=%E8%AF%BA%E7%9B%AF%E8%BD%AF%E8%83%B6%E5%9B%8A%EF%BC%88%E5%BE%B7%E8%87%B4%E5%A0%82%E7%89%8C%E5%8F%B6%E9%BB%84%E7%B4%A0%E9%94%8C%E5%A4%9A%E7%BB%B4%E8%BD%AF%E8%83%B6%E5%9B%8A%EF%BC%89",
         "platformPrice": 196,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%AF%BA%E7%9B%AF%E8%BD%AF%E8%83%B6%E5%9B%8A%EF%BC%88%E5%BE%B7%E8%87%B4%E5%A0%82%E7%89%8C%E5%8F%B6%E9%BB%84%E7%B4%A0%E9%94%8C%E5%A4%9A%E7%BB%B4%E8%BD%AF%E8%83%B6%E5%9B%8A%EF%BC%89",
+        "platformPrice": 196,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "诺盯软胶「诺盯软胶囊（德致堂牌叶黄素锌多维软胶囊）」主打美容养颜、增强免疫力、护眼明目，采用胶囊剂型（0.5g*60s）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -16162,9 +18664,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1452-b0f60f",
+        "url": "https://s.taobao.com/search?q=%E9%9C%80%E5%AE%9DB%E6%97%8F%E7%BB%B4%E7%94%9F%E7%B4%A0%E7%89%87",
         "platformPrice": 75,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%9C%80%E5%AE%9DB%E6%97%8F%E7%BB%B4%E7%94%9F%E7%B4%A0%E7%89%87",
+        "platformPrice": 75,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "需宝B「需宝B族维生素片」主打基础维生素，采用片剂剂型（0.55g*60片）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -16200,9 +18708,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1507-ed1d9d",
+        "url": "https://s.taobao.com/search?q=%E9%BA%A6%E9%87%91%E5%88%A9%E8%A4%AA%E9%BB%91%E7%B4%A0%E7%BB%B4%E7%94%9F%E7%B4%A0B6%E8%83%B6%E5%9B%8A",
         "platformPrice": 30,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%BA%A6%E9%87%91%E5%88%A9%E8%A4%AA%E9%BB%91%E7%B4%A0%E7%BB%B4%E7%94%9F%E7%B4%A0B6%E8%83%B6%E5%9B%8A",
+        "platformPrice": 30,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "麦金利褪「麦金利褪黑素维生素B6胶囊」主打助眠安神、基础维生素，采用胶囊剂型（12g（0.2g*60粒））单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -16240,9 +18754,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1452-a70d5c",
+        "url": "https://s.taobao.com/search?q=%E5%81%A5%E5%8A%9B%E5%A4%9A%E6%B0%A8%E7%B3%96%E7%A1%AB%E9%85%B8%E8%BD%AF%E9%AA%A8%E7%B4%A0%E8%83%B6%E5%8E%9F%E8%9B%8B%E7%99%BD%E8%82%BD%E7%89%87",
         "platformPrice": 392,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%81%A5%E5%8A%9B%E5%A4%9A%E6%B0%A8%E7%B3%96%E7%A1%AB%E9%85%B8%E8%BD%AF%E9%AA%A8%E7%B4%A0%E8%83%B6%E5%8E%9F%E8%9B%8B%E7%99%BD%E8%82%BD%E7%89%87",
+        "platformPrice": 392,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "健力多「健力多氨糖硫酸软骨素胶原蛋白肽片」主打强健骨骼、美容养颜、胶原蛋白，采用片剂剂型（180片）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合女性、成人、通用人群使用。产地广东珠海，全渠道销售。",
@@ -16277,9 +18797,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1364-63819a",
+        "url": "https://s.taobao.com/search?q=%E5%98%89%E5%A3%AB%E5%88%A9167g%E7%89%9B%E5%A5%B6%E5%91%B3%E6%97%A9%E9%A4%90%E9%A5%BC",
         "platformPrice": 5,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%98%89%E5%A3%AB%E5%88%A9167g%E7%89%9B%E5%A5%B6%E5%91%B3%E6%97%A9%E9%A4%90%E9%A5%BC",
+        "platformPrice": 5,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "嘉士利「嘉士利167g牛奶味早餐饼」主打增强免疫力，采用片剂剂型（167g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -16314,9 +18840,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1403-be3414",
+        "url": "https://s.taobao.com/search?q=%E5%98%89%E5%A3%AB%E5%88%A9%E6%9E%9C%E9%85%B1%E5%A4%B9%E5%BF%8385g%E8%8D%89%E8%8E%93%E5%91%B3",
         "platformPrice": 5,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%98%89%E5%A3%AB%E5%88%A9%E6%9E%9C%E9%85%B1%E5%A4%B9%E5%BF%8385g%E8%8D%89%E8%8E%93%E5%91%B3",
+        "platformPrice": 5,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "嘉士利果「嘉士利果酱夹心85g草莓味」主打增强免疫力，采用片剂剂型（85g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -16352,9 +18884,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1403-c531d3",
+        "url": "https://s.taobao.com/search?q=%E7%9B%8A%E7%94%9F%E8%8F%8C%E8%BD%AF%E7%B3%96%E8%93%9D%E8%8E%93%E5%91%B3",
         "platformPrice": 13,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%9B%8A%E7%94%9F%E8%8F%8C%E8%BD%AF%E7%B3%96%E8%93%9D%E8%8E%93%E5%91%B3",
+        "platformPrice": 13,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "益生菌「益生菌软糖蓝莓味」主打健脾消食、益生菌，采用颗粒剂剂型（82g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -16390,9 +18928,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1413-b7c539",
+        "url": "https://s.taobao.com/search?q=%E7%9B%8A%E7%94%9F%E8%8F%8C%E8%BD%AF%E7%B3%96%E8%8D%89%E8%8E%93%E5%91%B3",
         "platformPrice": 13,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%9B%8A%E7%94%9F%E8%8F%8C%E8%BD%AF%E7%B3%96%E8%8D%89%E8%8E%93%E5%91%B3",
+        "platformPrice": 13,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "益生菌「益生菌软糖草莓味」主打健脾消食、益生菌，采用颗粒剂剂型（82g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -16429,9 +18973,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1406-564b2c",
+        "url": "https://s.taobao.com/search?q=%E8%83%B6%E5%8E%9F%E8%9B%8B%E7%99%BD%E8%82%BD%E8%BD%AF%E7%B3%96",
         "platformPrice": 13,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%83%B6%E5%8E%9F%E8%9B%8B%E7%99%BD%E8%82%BD%E8%BD%AF%E7%B3%96",
+        "platformPrice": 13,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "胶原蛋白「胶原蛋白肽软糖」主打美容养颜、胶原蛋白，采用颗粒剂剂型（80g）单盒装。该产品获SC食品生产许可，定位为针对性调理。适合女性、成人、通用人群使用。产地未知，线上渠道专供。",
@@ -16466,9 +19016,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1369-81d767",
+        "url": "https://s.taobao.com/search?q=%E5%BA%B7%E5%B8%88%E5%82%85%E5%86%B0%E7%BA%A2%E8%8C%B6%EF%BC%88%E6%9F%A0%E6%AA%AC%E5%8F%A3%E5%91%B3%EF%BC%89",
         "platformPrice": 5,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%BA%B7%E5%B8%88%E5%82%85%E5%86%B0%E7%BA%A2%E8%8C%B6%EF%BC%88%E6%9F%A0%E6%AA%AC%E5%8F%A3%E5%91%B3%EF%BC%89",
+        "platformPrice": 5,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "康师傅冰「康师傅冰红茶（柠檬口味）」主打增强免疫力，采用片剂剂型（1L）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -16503,9 +19059,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1402-d0b507",
+        "url": "https://s.taobao.com/search?q=%E5%8E%A8%E4%BC%B4%E5%A8%98%E5%85%AB%E8%A7%92",
         "platformPrice": 6,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%8E%A8%E4%BC%B4%E5%A8%98%E5%85%AB%E8%A7%92",
+        "platformPrice": 6,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "厨伴娘八「厨伴娘八角」主打增强免疫力，采用片剂剂型（25g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -16540,9 +19102,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1410-3c15f8",
+        "url": "https://s.taobao.com/search?q=%E6%B4%BD%E6%B4%BD%E7%93%9C%E5%AD%90%EF%BC%88%E5%8E%9F%E5%91%B3%EF%BC%89",
         "platformPrice": 5,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%B4%BD%E6%B4%BD%E7%93%9C%E5%AD%90%EF%BC%88%E5%8E%9F%E5%91%B3%EF%BC%89",
+        "platformPrice": 5,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "洽洽瓜子「洽洽瓜子（原味）」主打增强免疫力，采用片剂剂型（90g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -16577,9 +19145,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1498-fc0cd2",
+        "url": "https://s.taobao.com/search?q=%E5%A5%BD%E4%B8%BD%E5%8F%8B%E5%8F%8C%E8%8E%93%E6%B4%BE",
         "platformPrice": 12,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%A5%BD%E4%B8%BD%E5%8F%8B%E5%8F%8C%E8%8E%93%E6%B4%BE",
+        "platformPrice": 12,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "好丽友双「好丽友双莓派」主打增强免疫力，采用片剂剂型（138g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -16614,9 +19188,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1416-5c89c4",
+        "url": "https://s.taobao.com/search?q=%E5%96%9C%E4%B9%8B%E9%83%8E%E6%9E%9C%E7%B2%92%E7%88%BD%E7%BA%A2%E8%91%A1%E8%90%84%E6%B1%81%E9%A5%AE%E6%96%99",
         "platformPrice": 4,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%96%9C%E4%B9%8B%E9%83%8E%E6%9E%9C%E7%B2%92%E7%88%BD%E7%BA%A2%E8%91%A1%E8%90%84%E6%B1%81%E9%A5%AE%E6%96%99",
+        "platformPrice": 4,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "喜之郎果「喜之郎果粒爽红葡萄汁饮料」主打增强免疫力，采用片剂剂型（258ml）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -16651,9 +19231,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1408-d4581b",
+        "url": "https://s.taobao.com/search?q=%E6%97%BA%E4%BB%94QQ%E7%B3%96%EF%BC%88%E8%93%9D%E8%8E%93%E5%91%B3%EF%BC%89",
         "platformPrice": 2,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%97%BA%E4%BB%94QQ%E7%B3%96%EF%BC%88%E8%93%9D%E8%8E%93%E5%91%B3%EF%BC%89",
+        "platformPrice": 2,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "旺仔Q「旺仔QQ糖（蓝莓味）」主打增强免疫力，采用片剂剂型（20g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -16688,9 +19274,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1364-229c66",
+        "url": "https://s.taobao.com/search?q=%E6%97%BA%E4%BB%94QQ%E7%B3%96%EF%BC%88%E8%8F%A0%E8%90%9D%E5%91%B3%EF%BC%89",
         "platformPrice": 2,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%97%BA%E4%BB%94QQ%E7%B3%96%EF%BC%88%E8%8F%A0%E8%90%9D%E5%91%B3%EF%BC%89",
+        "platformPrice": 2,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "旺仔Q「旺仔QQ糖（菠萝味）」主打增强免疫力，采用片剂剂型（20g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -16725,9 +19317,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1417-1788cf",
+        "url": "https://s.taobao.com/search?q=%E5%90%8D%E5%98%B41%E5%93%A5%EF%BC%88%E6%A3%92%E6%A3%92%E7%B4%A0%E9%B8%A1%E7%AD%8B%E9%9D%A2%E7%AD%8B%EF%BC%89",
         "platformPrice": 5,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%90%8D%E5%98%B41%E5%93%A5%EF%BC%88%E6%A3%92%E6%A3%92%E7%B4%A0%E9%B8%A1%E7%AD%8B%E9%9D%A2%E7%AD%8B%EF%BC%89",
+        "platformPrice": 5,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "名嘴1「名嘴1哥（棒棒素鸡筋面筋）」主打增强免疫力，采用片剂剂型（109g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -16762,9 +19360,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1310-578101",
+        "url": "https://s.taobao.com/search?q=%E6%9E%9C%E4%B9%90%E6%9E%9C%E9%A6%99%EF%BC%88%E8%8D%89%E8%8E%93%E5%8F%A3%E5%91%B3%EF%BC%89",
         "platformPrice": 4,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%9E%9C%E4%B9%90%E6%9E%9C%E9%A6%99%EF%BC%88%E8%8D%89%E8%8E%93%E5%8F%A3%E5%91%B3%EF%BC%89",
+        "platformPrice": 4,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "果乐果香「果乐果香（草莓口味）」主打增强免疫力，采用片剂剂型（93g+17g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -16799,9 +19403,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1461-8ba88b",
+        "url": "https://s.taobao.com/search?q=%E6%9E%9C%E4%B9%90%E6%9E%9C%E9%A6%99%EF%BC%88%E9%A6%99%E6%A9%99%E5%8F%A3%E5%91%B3%EF%BC%89",
         "platformPrice": 4,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%9E%9C%E4%B9%90%E6%9E%9C%E9%A6%99%EF%BC%88%E9%A6%99%E6%A9%99%E5%8F%A3%E5%91%B3%EF%BC%89",
+        "platformPrice": 4,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "果乐果香「果乐果香（香橙口味）」主打增强免疫力，采用片剂剂型（93g+17g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -16836,9 +19446,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1422-3fd979",
+        "url": "https://s.taobao.com/search?q=%E6%97%BA%E6%97%BA%E9%9B%AA%E9%A5%BC",
         "platformPrice": 7,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%97%BA%E6%97%BA%E9%9B%AA%E9%A5%BC",
+        "platformPrice": 7,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "旺旺雪饼「旺旺雪饼」主打增强免疫力，采用片剂剂型（84g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -16873,9 +19489,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1401-1d35b2",
+        "url": "https://s.taobao.com/search?q=%E6%97%BA%E6%97%BA%E4%BB%99%E8%B4%9D",
         "platformPrice": 6,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%97%BA%E6%97%BA%E4%BB%99%E8%B4%9D",
+        "platformPrice": 6,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "旺旺仙贝「旺旺仙贝」主打增强免疫力，采用片剂剂型（52g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -16910,9 +19532,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1451-b24c6b",
+        "url": "https://s.taobao.com/search?q=%E7%9B%BC%E7%9B%BC%E7%A9%BA%E5%BF%83%E8%84%86%E8%91%B1%E9%A6%99%E5%91%B3",
         "platformPrice": 4,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%9B%BC%E7%9B%BC%E7%A9%BA%E5%BF%83%E8%84%86%E8%91%B1%E9%A6%99%E5%91%B3",
+        "platformPrice": 4,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "盼盼「盼盼空心脆葱香味」主打增强免疫力，采用片剂剂型（80g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -16947,9 +19575,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1503-3add5f",
+        "url": "https://s.taobao.com/search?q=%E7%9B%BC%E7%9B%BC%E7%91%9E%E5%A3%AB%E5%8D%B7%E9%A6%99%E6%A9%99%E5%91%B3",
         "platformPrice": 8,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%9B%BC%E7%9B%BC%E7%91%9E%E5%A3%AB%E5%8D%B7%E9%A6%99%E6%A9%99%E5%91%B3",
+        "platformPrice": 8,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "盼盼「盼盼瑞士卷香橙味」主打增强免疫力，采用片剂剂型（200g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -16984,9 +19618,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1459-8a47dc",
+        "url": "https://s.taobao.com/search?q=%E5%AE%9C%E9%A1%B6%E7%89%9B%E4%B9%B3%E5%8E%9A%E5%88%87%E5%90%90%E5%8F%B8%E9%9D%A2%E5%8C%85",
         "platformPrice": 5,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%AE%9C%E9%A1%B6%E7%89%9B%E4%B9%B3%E5%8E%9A%E5%88%87%E5%90%90%E5%8F%B8%E9%9D%A2%E5%8C%85",
+        "platformPrice": 5,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "宜顶牛乳「宜顶牛乳厚切吐司面包」主打增强免疫力，采用片剂剂型（150g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -17021,9 +19661,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1450-0c9c0c",
+        "url": "https://s.taobao.com/search?q=%E8%98%91%E5%8F%A4%E5%8A%9B%E6%A6%9B%E5%AD%90%E5%B7%A7%E5%85%8B%E5%8A%9B%E5%91%B3",
         "platformPrice": 5,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%98%91%E5%8F%A4%E5%8A%9B%E6%A6%9B%E5%AD%90%E5%B7%A7%E5%85%8B%E5%8A%9B%E5%91%B3",
+        "platformPrice": 5,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "蘑古力榛「蘑古力榛子巧克力味」主打增强免疫力，采用片剂剂型（48g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -17058,9 +19704,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1460-8af4d5",
+        "url": "https://s.taobao.com/search?q=%E8%98%91%E5%8F%A4%E5%8A%9B%E7%89%9B%E5%A5%B6%E5%B7%A7%E5%85%8B%E5%8A%9B%E5%91%B3",
         "platformPrice": 5,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%98%91%E5%8F%A4%E5%8A%9B%E7%89%9B%E5%A5%B6%E5%B7%A7%E5%85%8B%E5%8A%9B%E5%91%B3",
+        "platformPrice": 5,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "蘑古力牛「蘑古力牛奶巧克力味」主打增强免疫力，采用片剂剂型（48g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -17095,9 +19747,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1367-579a18",
+        "url": "https://s.taobao.com/search?q=%E7%9B%BC%E7%9B%BC%E9%93%9C%E9%94%A3%E7%83%A7%E5%B7%A7%E5%85%8B%E5%8A%9B%E5%91%B3",
         "platformPrice": 6,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%9B%BC%E7%9B%BC%E9%93%9C%E9%94%A3%E7%83%A7%E5%B7%A7%E5%85%8B%E5%8A%9B%E5%91%B3",
+        "platformPrice": 6,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "盼盼「盼盼铜锣烧巧克力味」主打增强免疫力，采用片剂剂型（144g*12枚）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -17132,9 +19790,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1504-f62caf",
+        "url": "https://s.taobao.com/search?q=%E7%9B%BC%E7%9B%BC%E9%93%9C%E9%94%A3%E7%83%A7%E7%BA%A2%E8%B1%86%E5%91%B3",
         "platformPrice": 6,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%9B%BC%E7%9B%BC%E9%93%9C%E9%94%A3%E7%83%A7%E7%BA%A2%E8%B1%86%E5%91%B3",
+        "platformPrice": 6,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "盼盼「盼盼铜锣烧红豆味」主打增强免疫力，采用片剂剂型（144g*12枚）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -17169,9 +19833,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1306-442350",
+        "url": "https://s.taobao.com/search?q=%E7%9B%BC%E7%9B%BC%E9%93%9C%E9%94%A3%E7%83%A7%E9%A6%99%E8%8A%8B%E5%91%B3",
         "platformPrice": 6,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%9B%BC%E7%9B%BC%E9%93%9C%E9%94%A3%E7%83%A7%E9%A6%99%E8%8A%8B%E5%91%B3",
+        "platformPrice": 6,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "盼盼「盼盼铜锣烧香芋味」主打增强免疫力，采用片剂剂型（144g*12）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -17206,9 +19876,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1365-47b349",
+        "url": "https://s.taobao.com/search?q=%E4%BA%91%E4%B9%A1%E4%BA%BA%E5%AE%B6%E5%B1%B1%E6%A4%92%E7%AC%8B%E7%89%87",
         "platformPrice": 4,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E4%BA%91%E4%B9%A1%E4%BA%BA%E5%AE%B6%E5%B1%B1%E6%A4%92%E7%AC%8B%E7%89%87",
+        "platformPrice": 4,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "云乡人家「云乡人家山椒笋片」主打增强免疫力，采用片剂剂型（120g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -17243,9 +19919,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1360-5280b7",
+        "url": "https://s.taobao.com/search?q=%E5%A8%83%E5%93%88%E5%93%88%E5%86%B0%E7%BA%A2%E8%8C%B6",
         "platformPrice": 4,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%A8%83%E5%93%88%E5%93%88%E5%86%B0%E7%BA%A2%E8%8C%B6",
+        "platformPrice": 4,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "娃哈哈冰「娃哈哈冰红茶」主打增强免疫力，采用代用茶剂型（1kg）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -17280,9 +19962,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1418-c8487d",
+        "url": "https://s.taobao.com/search?q=%E5%A8%83%E5%93%88%E5%93%88C%E8%A5%BF%E6%9F%9A%E7%A2%B3%E9%85%B8%E9%A5%AE%E6%96%99",
         "platformPrice": 4,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%A8%83%E5%93%88%E5%93%88C%E8%A5%BF%E6%9F%9A%E7%A2%B3%E9%85%B8%E9%A5%AE%E6%96%99",
+        "platformPrice": 4,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "娃哈哈「娃哈哈C西柚碳酸饮料」主打增强免疫力，采用片剂剂型（530ml）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -17317,9 +20005,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1322-794725",
+        "url": "https://s.taobao.com/search?q=%E5%A8%83%E5%93%88%E5%93%88C%E6%9F%A0%E6%AA%AC%E7%A2%B3%E9%85%B8%E9%A5%AE%E6%96%99",
         "platformPrice": 4,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%A8%83%E5%93%88%E5%93%88C%E6%9F%A0%E6%AA%AC%E7%A2%B3%E9%85%B8%E9%A5%AE%E6%96%99",
+        "platformPrice": 4,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "娃哈哈「娃哈哈C柠檬碳酸饮料」主打增强免疫力，采用片剂剂型（530ml）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -17354,9 +20048,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1324-797931",
+        "url": "https://s.taobao.com/search?q=%E4%BA%BF%E6%BB%8B%E5%A5%A5%E5%88%A9%E5%A5%A5%E5%86%B0%E6%B7%87%E6%B7%8B%E5%A4%B9%E5%BF%83%E6%8A%B9%E8%8C%B6%E5%91%B3",
         "platformPrice": 15,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E4%BA%BF%E6%BB%8B%E5%A5%A5%E5%88%A9%E5%A5%A5%E5%86%B0%E6%B7%87%E6%B7%8B%E5%A4%B9%E5%BF%83%E6%8A%B9%E8%8C%B6%E5%91%B3",
+        "platformPrice": 15,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "亿滋奥利「亿滋奥利奥冰淇淋夹心抹茶味」主打增强免疫力，采用片剂剂型（194g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -17391,9 +20091,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1412-fe5552",
+        "url": "https://s.taobao.com/search?q=%E6%97%BA%E6%97%BA%E6%B3%A1%E8%8A%99%EF%BC%88%E5%B7%A7%E5%85%8B%E5%8A%9B%E5%91%B3%EF%BC%89",
         "platformPrice": 2,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%97%BA%E6%97%BA%E6%B3%A1%E8%8A%99%EF%BC%88%E5%B7%A7%E5%85%8B%E5%8A%9B%E5%91%B3%EF%BC%89",
+        "platformPrice": 2,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "旺旺泡芙「旺旺泡芙（巧克力味）」主打增强免疫力，采用片剂剂型（18g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -17428,9 +20134,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1400-8d002b",
+        "url": "https://s.taobao.com/search?q=150g%E6%97%A9%E8%8C%B6%E9%A5%BC%EF%BC%88%E5%A5%BD%E5%90%83%E7%82%B9%EF%BC%89",
         "platformPrice": 4,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=150g%E6%97%A9%E8%8C%B6%E9%A5%BC%EF%BC%88%E5%A5%BD%E5%90%83%E7%82%B9%EF%BC%89",
+        "platformPrice": 4,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "150「150g早茶饼（好吃点）」主打增强免疫力，采用片剂剂型（150g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -17465,9 +20177,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1452-f4b25a",
+        "url": "https://s.taobao.com/search?q=%E8%80%81%E5%B9%B2%E5%A6%88%E6%B2%B9%E8%BE%A3%E6%A4%92",
         "platformPrice": 10,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%80%81%E5%B9%B2%E5%A6%88%E6%B2%B9%E8%BE%A3%E6%A4%92",
+        "platformPrice": 10,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "老干妈油「老干妈油辣椒」主打增强免疫力，采用片剂剂型（275g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -17502,9 +20220,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1506-51dfdf",
+        "url": "https://s.taobao.com/search?q=%E8%80%81%E5%B9%B2%E5%A6%88%E9%A3%8E%E5%91%B3%E8%B1%86%E9%BC%93%E6%B2%B9%E5%88%B6%E8%BE%A3%E6%A4%92",
         "platformPrice": 10,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%80%81%E5%B9%B2%E5%A6%88%E9%A3%8E%E5%91%B3%E8%B1%86%E9%BC%93%E6%B2%B9%E5%88%B6%E8%BE%A3%E6%A4%92",
+        "platformPrice": 10,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "老干妈风「老干妈风味豆鼓油制辣椒」主打增强免疫力，采用片剂剂型（280g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -17539,9 +20263,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1400-4bd114",
+        "url": "https://s.taobao.com/search?q=%E8%80%81%E5%B9%B2%E5%A6%88%E9%A3%8E%E5%91%B3%E6%B0%B4%E8%B1%86%E9%BC%93",
         "platformPrice": 6,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%80%81%E5%B9%B2%E5%A6%88%E9%A3%8E%E5%91%B3%E6%B0%B4%E8%B1%86%E9%BC%93",
+        "platformPrice": 6,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "老干妈风「老干妈风味水豆鼓」主打增强免疫力，采用片剂剂型（210g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -17576,9 +20306,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1508-af6d7d",
+        "url": "https://s.taobao.com/search?q=%E8%80%81%E5%B9%B2%E5%A6%88%E9%A3%8E%E5%91%B3%E8%85%90%E4%B9%B3",
         "platformPrice": 8,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%80%81%E5%B9%B2%E5%A6%88%E9%A3%8E%E5%91%B3%E8%85%90%E4%B9%B3",
+        "platformPrice": 8,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "老干妈风「老干妈风味腐乳」主打增强免疫力，采用片剂剂型（260g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -17613,9 +20349,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1403-21c9c1",
+        "url": "https://s.taobao.com/search?q=%E8%80%81%E5%B9%B2%E5%A6%88%E8%BE%A3%E4%B8%89%E4%B8%81%E6%B2%B9%E8%BE%A3%E6%A4%92",
         "platformPrice": 10,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%80%81%E5%B9%B2%E5%A6%88%E8%BE%A3%E4%B8%89%E4%B8%81%E6%B2%B9%E8%BE%A3%E6%A4%92",
+        "platformPrice": 10,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "老干妈辣「老干妈辣三丁油辣椒」主打增强免疫力，采用片剂剂型（280g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -17650,9 +20392,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1503-c4bfa7",
+        "url": "https://s.taobao.com/search?q=%E7%99%BD%E6%B2%99(%E7%A1%AC%E7%B2%BE%E5%93%81%E4%B8%89%E4%BB%A3)",
         "platformPrice": 15,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%99%BD%E6%B2%99(%E7%A1%AC%E7%B2%BE%E5%93%81%E4%B8%89%E4%BB%A3)",
+        "platformPrice": 15,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "白沙(「白沙(硬精品三代)」主打增强免疫力，采用片剂剂型（20支）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -17687,9 +20435,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1406-e3d253",
+        "url": "https://s.taobao.com/search?q=%E5%BA%B7%E5%B8%88%E5%82%85%E9%BA%BB%E8%BE%A3%E7%89%9B%E8%82%89%E9%9D%A2",
         "platformPrice": 5,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%BA%B7%E5%B8%88%E5%82%85%E9%BA%BB%E8%BE%A3%E7%89%9B%E8%82%89%E9%9D%A2",
+        "platformPrice": 5,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "康师傅麻「康师傅麻辣牛肉面」主打增强免疫力，采用片剂剂型（110g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -17724,9 +20478,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1463-fff274",
+        "url": "https://s.taobao.com/search?q=%E5%BA%B7%E5%B8%88%E5%82%85%E8%80%81%E5%9D%9B%E9%85%B8%E8%8F%9C%E7%89%9B%E8%82%89%E9%9D%A2",
         "platformPrice": 5,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%BA%B7%E5%B8%88%E5%82%85%E8%80%81%E5%9D%9B%E9%85%B8%E8%8F%9C%E7%89%9B%E8%82%89%E9%9D%A2",
+        "platformPrice": 5,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "康师傅老「康师傅老坛酸菜牛肉面」主打增强免疫力，采用片剂剂型（119）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -17761,9 +20521,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1418-66fa78",
+        "url": "https://s.taobao.com/search?q=%E5%BA%B7%E5%B8%88%E5%82%85%E6%B3%A1%E6%A4%92%E7%89%9B%E8%82%89%E9%9D%A2",
         "platformPrice": 5,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%BA%B7%E5%B8%88%E5%82%85%E6%B3%A1%E6%A4%92%E7%89%9B%E8%82%89%E9%9D%A2",
+        "platformPrice": 5,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "康师傅泡「康师傅泡椒牛肉面」主打增强免疫力，采用片剂剂型（109g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -17799,9 +20565,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1363-5734d4",
+        "url": "https://s.taobao.com/search?q=%E6%A1%82%E5%9C%86%E8%8E%B2%E5%AD%90%E5%85%AB%E5%AE%9D%E7%B2%A5",
         "platformPrice": 50,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%A1%82%E5%9C%86%E8%8E%B2%E5%AD%90%E5%85%AB%E5%AE%9D%E7%B2%A5",
+        "platformPrice": 50,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "桂圆莲子「桂圆莲子八宝粥」主打中药食材、谷物膳食，采用粉剂剂型（320克*12罐）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -17836,9 +20608,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1455-42c6ce",
+        "url": "https://s.taobao.com/search?q=%E6%B4%A5%E5%A8%81%EF%BC%88%E5%B0%8F%E4%B9%B3%E9%85%B8%EF%BC%89",
         "platformPrice": 6,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%B4%A5%E5%A8%81%EF%BC%88%E5%B0%8F%E4%B9%B3%E9%85%B8%EF%BC%89",
+        "platformPrice": 6,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "津威（「津威（小乳酸）」主打增强免疫力，采用片剂剂型（100ml*4瓶）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -17873,9 +20651,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1352-15a531",
+        "url": "https://s.taobao.com/search?q=%E8%92%99%E7%89%9B%E7%9C%9F%E6%9E%9C%E7%B2%92%EF%BC%88%E8%93%9D%E8%8E%93%E6%9E%9C%E7%B2%92%EF%BC%89",
         "platformPrice": 48,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%92%99%E7%89%9B%E7%9C%9F%E6%9E%9C%E7%B2%92%EF%BC%88%E8%93%9D%E8%8E%93%E6%9E%9C%E7%B2%92%EF%BC%89",
+        "platformPrice": 48,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "蒙牛真果「蒙牛真果粒（蓝莓果粒）」主打增强免疫力，采用片剂剂型（250g*12包）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -17910,9 +20694,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1322-068686",
+        "url": "https://s.taobao.com/search?q=%E5%86%B7%E6%B3%A1.%E9%9D%92%E6%9F%A0%E7%BA%A2%E8%8C%B6",
         "platformPrice": 5,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%86%B7%E6%B3%A1.%E9%9D%92%E6%9F%A0%E7%BA%A2%E8%8C%B6",
+        "platformPrice": 5,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "冷泡.「冷泡.青柠红茶」主打增强免疫力，采用代用茶剂型（480ml）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -17947,9 +20737,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1457-c81d6c",
+        "url": "https://s.taobao.com/search?q=%E5%BE%B7%E8%8A%99%E6%91%A9%E5%8D%A1%E5%8F%8A%E5%B7%B4%E6%97%A6%E6%9C%A8%E5%B7%A7%E5%85%8B%E5%8A%9B",
         "platformPrice": 8,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%BE%B7%E8%8A%99%E6%91%A9%E5%8D%A1%E5%8F%8A%E5%B7%B4%E6%97%A6%E6%9C%A8%E5%B7%A7%E5%85%8B%E5%8A%9B",
+        "platformPrice": 8,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "德芙摩卡「德芙摩卡及巴旦木巧克力」主打增强免疫力，采用片剂剂型（43g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -17984,9 +20780,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1403-fe0431",
+        "url": "https://s.taobao.com/search?q=%E5%BE%B7%E8%8A%99%E8%84%86%E9%A6%99%E7%B1%B3120%E5%85%8B",
         "platformPrice": 16,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%BE%B7%E8%8A%99%E8%84%86%E9%A6%99%E7%B1%B3120%E5%85%8B",
+        "platformPrice": 16,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "德芙脆香「德芙脆香米120克」主打增强免疫力，采用片剂剂型（120g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -18021,9 +20823,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1446-0fba23",
+        "url": "https://s.taobao.com/search?q=%E8%84%86%E9%A6%99%E7%B1%B3",
         "platformPrice": 3,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%84%86%E9%A6%99%E7%B1%B3",
+        "platformPrice": 3,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "脆香米「脆香米」主打增强免疫力，采用片剂剂型（24g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -18058,9 +20866,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1454-31c9bd",
+        "url": "https://s.taobao.com/search?q=%E8%B4%A4%E5%93%A5109g%E9%A6%99%E7%89%87%E7%B4%A0%E7%89%9B%E8%82%89",
         "platformPrice": 5,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%B4%A4%E5%93%A5109g%E9%A6%99%E7%89%87%E7%B4%A0%E7%89%9B%E8%82%89",
+        "platformPrice": 5,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "贤哥1「贤哥109g香片素牛肉」主打增强免疫力，采用片剂剂型（109g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -18095,9 +20909,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1401-42bc60",
+        "url": "https://s.taobao.com/search?q=%E8%B4%A4%E5%93%A5109g%E8%BE%A3%E4%B9%88%E7%B3%95%E5%A4%A7%E5%B0%9A",
         "platformPrice": 5,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%B4%A4%E5%93%A5109g%E8%BE%A3%E4%B9%88%E7%B3%95%E5%A4%A7%E5%B0%9A",
+        "platformPrice": 5,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "贤哥1「贤哥109g辣么糕大尚」主打增强免疫力，采用片剂剂型（109g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -18132,9 +20952,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1421-f9288d",
+        "url": "https://s.taobao.com/search?q=%E8%B4%A4%E5%93%A5109g%E8%B1%86%E9%A6%99%E7%85%8E%E5%8D%B7",
         "platformPrice": 5,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%B4%A4%E5%93%A5109g%E8%B1%86%E9%A6%99%E7%85%8E%E5%8D%B7",
+        "platformPrice": 5,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "贤哥1「贤哥109g豆香煎卷」主打增强免疫力，采用片剂剂型（109g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -18169,9 +20995,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1463-f99cd0",
+        "url": "https://s.taobao.com/search?q=%E8%B4%A4%E5%93%A5%E7%89%9B%E8%82%89%E9%9D%A2105g",
         "platformPrice": 5,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%B4%A4%E5%93%A5%E7%89%9B%E8%82%89%E9%9D%A2105g",
+        "platformPrice": 5,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "贤哥牛肉「贤哥牛肉面105g」主打增强免疫力，采用片剂剂型（105g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -18206,9 +21038,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1411-47f90a",
+        "url": "https://s.taobao.com/search?q=78g%E4%BA%B2%E5%98%B4%E8%AF%AD",
         "platformPrice": 5,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=78g%E4%BA%B2%E5%98%B4%E8%AF%AD",
+        "platformPrice": 5,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "78g「78g亲嘴语」主打增强免疫力，采用片剂剂型（78g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -18243,9 +21081,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1451-e1d4d1",
+        "url": "https://s.taobao.com/search?q=50g%E4%BA%B2%E5%98%B4%E9%81%93",
         "platformPrice": 5,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=50g%E4%BA%B2%E5%98%B4%E9%81%93",
+        "platformPrice": 5,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "50g「50g亲嘴道」主打增强免疫力，采用片剂剂型（50g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -18280,9 +21124,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1459-3f7e5a",
+        "url": "https://s.taobao.com/search?q=%E9%BD%90%E6%B2%BB%E4%BA%AE%E4%BA%AE%E7%89%B9%E7%89%B9%E6%8B%89%E9%9D%A2",
         "platformPrice": 4,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%BD%90%E6%B2%BB%E4%BA%AE%E4%BA%AE%E7%89%B9%E7%89%B9%E6%8B%89%E9%9D%A2",
+        "platformPrice": 4,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "齐治亮亮「齐治亮亮特特拉面」主打增强免疫力，采用片剂剂型（125g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -18317,9 +21167,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1405-5eb234",
+        "url": "https://s.taobao.com/search?q=%E4%BC%8A%E5%88%A9%E7%89%9B%E5%A5%B6%E7%89%87%EF%BC%88%E8%8D%89%E8%8E%93%E5%8F%A3%E5%91%B3%EF%BC%89",
         "platformPrice": 2,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E4%BC%8A%E5%88%A9%E7%89%9B%E5%A5%B6%E7%89%87%EF%BC%88%E8%8D%89%E8%8E%93%E5%8F%A3%E5%91%B3%EF%BC%89",
+        "platformPrice": 2,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "伊利牛奶「伊利牛奶片（草莓口味）」主打增强免疫力，采用片剂剂型（16g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -18354,9 +21210,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1353-404f12",
+        "url": "https://s.taobao.com/search?q=%E9%A6%99%E6%BB%8B%E4%B9%A1%E5%91%B3%E7%8C%AA%E8%B9%84",
         "platformPrice": 11,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%A6%99%E6%BB%8B%E4%B9%A1%E5%91%B3%E7%8C%AA%E8%B9%84",
+        "platformPrice": 11,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "香滋乡味「香滋乡味猪蹄」主打增强免疫力，采用片剂剂型（140g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -18391,9 +21253,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1448-03c1fc",
+        "url": "https://s.taobao.com/search?q=%E5%8E%A8%E9%82%A6%E9%99%88%E9%86%8B%E7%8E%8B",
         "platformPrice": 8,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%8E%A8%E9%82%A6%E9%99%88%E9%86%8B%E7%8E%8B",
+        "platformPrice": 8,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "厨邦陈醋「厨邦陈醋王」主打增强免疫力，采用片剂剂型（420）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -18428,9 +21296,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1503-b3cff3",
+        "url": "https://s.taobao.com/search?q=%E5%B0%8F%E8%8C%97%E5%90%8C%E5%AD%A6%E5%86%B7%E6%B3%A1%E5%86%B0%E6%A9%98%E7%BA%A2%E8%8C%B6",
         "platformPrice": 5,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%B0%8F%E8%8C%97%E5%90%8C%E5%AD%A6%E5%86%B7%E6%B3%A1%E5%86%B0%E6%A9%98%E7%BA%A2%E8%8C%B6",
+        "platformPrice": 5,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "小茗同学「小茗同学冷泡冰橘红茶」主打增强免疫力，采用代用茶剂型（480ml）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -18465,9 +21339,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1356-c03437",
+        "url": "https://s.taobao.com/search?q=%E6%A4%B0%E6%9E%9C%E6%B2%99%E9%BE%99",
         "platformPrice": 3,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%A4%B0%E6%9E%9C%E6%B2%99%E9%BE%99",
+        "platformPrice": 3,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "椰果沙龙「椰果沙龙」主打增强免疫力，采用片剂剂型（250g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -18502,9 +21382,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1458-c753ec",
+        "url": "https://s.taobao.com/search?q=%E4%B8%9C%E9%B9%8F%E8%A1%A5%E6%B0%B4%E5%95%A6%EF%BC%88%E6%9F%A0%E6%AA%AC%EF%BC%89",
         "platformPrice": 5,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E4%B8%9C%E9%B9%8F%E8%A1%A5%E6%B0%B4%E5%95%A6%EF%BC%88%E6%9F%A0%E6%AA%AC%EF%BC%89",
+        "platformPrice": 5,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "东鹏补水「东鹏补水啦（柠檬）」主打增强免疫力，采用片剂剂型（555ml）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -18539,9 +21425,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1364-75f118",
+        "url": "https://s.taobao.com/search?q=%E5%A5%BD%E4%B8%BD%E5%8F%8B%E8%98%91%E8%8F%87%E5%8A%9B%E8%8D%89%E8%8E%93%E9%85%B8%E5%A5%B6%E5%91%B341%E5%85%8B",
         "platformPrice": 5,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%A5%BD%E4%B8%BD%E5%8F%8B%E8%98%91%E8%8F%87%E5%8A%9B%E8%8D%89%E8%8E%93%E9%85%B8%E5%A5%B6%E5%91%B341%E5%85%8B",
+        "platformPrice": 5,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "好丽友蘑「好丽友蘑菇力草莓酸奶味41克」主打增强免疫力，采用片剂剂型（41g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -18576,9 +21468,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1416-6d9c82",
+        "url": "https://s.taobao.com/search?q=%E4%BA%91%E5%8D%97%E6%98%A0%E8%B1%A1%E6%9C%88%E9%A5%BC%EF%BC%88%E6%BB%87%E6%9C%88%E5%A5%BD%E7%A4%BC%EF%BC%89",
         "platformPrice": 59,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E4%BA%91%E5%8D%97%E6%98%A0%E8%B1%A1%E6%9C%88%E9%A5%BC%EF%BC%88%E6%BB%87%E6%9C%88%E5%A5%BD%E7%A4%BC%EF%BC%89",
+        "platformPrice": 59,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "云南映象「云南映象月饼（滇月好礼）」主打增强免疫力，采用片剂剂型（460g）礼盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -18614,9 +21512,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1454-5c7b3b",
+        "url": "https://s.taobao.com/search?q=%E9%95%BF%E5%85%B4%E7%89%8C%E8%9B%8B%E7%99%BD%E7%B2%89",
         "platformPrice": 195,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%95%BF%E5%85%B4%E7%89%8C%E8%9B%8B%E7%99%BD%E7%B2%89",
+        "platformPrice": 195,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "长兴牌「长兴牌蛋白粉」主打增强免疫力、蛋白质补充，采用粉剂剂型（600g（10g*30袋*2罐））单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地广东潮州，全渠道销售。",
@@ -18651,9 +21555,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1451-8aa06c",
+        "url": "https://s.taobao.com/search?q=%E6%AF%8F%E6%97%A5%E6%AC%A3%E7%BB%B4%E7%94%9F%E7%B4%A0C%E7%89%87%EF%BC%88%E8%8F%A0%E8%90%9D%E5%91%B3%EF%BC%89",
         "platformPrice": 2,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%AF%8F%E6%97%A5%E6%AC%A3%E7%BB%B4%E7%94%9F%E7%B4%A0C%E7%89%87%EF%BC%88%E8%8F%A0%E8%90%9D%E5%91%B3%EF%BC%89",
+        "platformPrice": 2,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "每日欣维「每日欣维生素C片（菠萝味）」主打基础维生素，采用片剂剂型（1g*60片）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -18688,9 +21598,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1315-729315",
+        "url": "https://s.taobao.com/search?q=%E9%A6%99%E9%A3%98%E9%A3%98%E5%8E%9F%E5%91%B3%E5%A5%B6%E8%8C%B6",
         "platformPrice": 4,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%A6%99%E9%A3%98%E9%A3%98%E5%8E%9F%E5%91%B3%E5%A5%B6%E8%8C%B6",
+        "platformPrice": 4,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "香飘飘原「香飘飘原味奶茶」主打增强免疫力，采用代用茶剂型（80g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -18726,9 +21642,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1304-443023",
+        "url": "https://s.taobao.com/search?q=%E4%B8%9C%E9%98%BF%E9%98%BF%E8%83%B6%E7%89%8C%E9%98%BF%E8%83%B6%E7%B2%89",
         "platformPrice": 568,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E4%B8%9C%E9%98%BF%E9%98%BF%E8%83%B6%E7%89%8C%E9%98%BF%E8%83%B6%E7%B2%89",
+        "platformPrice": 568,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "东阿阿胶「东阿阿胶牌阿胶粉」主打美容养颜，采用粉剂剂型（4g*30袋）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合女性、成人、通用人群使用。产地山东东阿，全渠道销售。",
@@ -18763,9 +21685,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1412-1d890f",
+        "url": "https://s.taobao.com/search?q=%E9%9B%80%E5%B7%A2%E5%92%96%E5%95%A11%2B2%E5%A5%B6%E9%A6%99",
         "platformPrice": 11,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%9B%80%E5%B7%A2%E5%92%96%E5%95%A11%2B2%E5%A5%B6%E9%A6%99",
+        "platformPrice": 11,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "雀巢咖啡「雀巢咖啡1+2奶香」主打增强免疫力，采用片剂剂型（105g（7*15g））单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -18800,9 +21728,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1363-73338c",
+        "url": "https://s.taobao.com/search?q=%E9%93%B6%E9%B9%AD%E4%BD%8E%E7%B3%96%E8%8E%B2%E5%AD%90%E5%85%AB%E5%AE%9D%E7%B2%A5",
         "platformPrice": 4,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%93%B6%E9%B9%AD%E4%BD%8E%E7%B3%96%E8%8E%B2%E5%AD%90%E5%85%AB%E5%AE%9D%E7%B2%A5",
+        "platformPrice": 4,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "银鹭「银鹭低糖莲子八宝粥」主打谷物膳食，采用粉剂剂型（360g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -18838,9 +21772,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1504-ca7a7e",
+        "url": "https://s.taobao.com/search?q=%E6%99%BA%E6%B1%87%E5%85%BB%E7%94%9F%E5%9E%8B%E5%85%AD%E4%B8%AA%E6%A0%B8%E6%A1%83*",
         "platformPrice": 88,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%99%BA%E6%B1%87%E5%85%BB%E7%94%9F%E5%9E%8B%E5%85%AD%E4%B8%AA%E6%A0%B8%E6%A1%83*",
+        "platformPrice": 88,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "智汇养生「智汇养生型六个核桃*」主打增强免疫力、美容养颜，采用片剂剂型（240ml*15罐）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -18875,9 +21815,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1449-b20a8d",
+        "url": "https://s.taobao.com/search?q=%E8%84%91%E7%99%BD%E9%87%91%E8%83%B6%E5%9B%8A%E5%8F%A3%E6%9C%8D%E6%B6%B2%EF%BC%88%E6%9C%AC%E5%93%81%E4%B8%8D%E5%8D%95%E7%8B%AC%E9%94%80%E5%94%AE%EF%BC%89",
         "platformPrice": 98,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%84%91%E7%99%BD%E9%87%91%E8%83%B6%E5%9B%8A%E5%8F%A3%E6%9C%8D%E6%B6%B2%EF%BC%88%E6%9C%AC%E5%93%81%E4%B8%8D%E5%8D%95%E7%8B%AC%E9%94%80%E5%94%AE%EF%BC%89",
+        "platformPrice": 98,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "脑白金胶「脑白金胶囊口服液（本品不单独销售）」主打增强免疫力，采用口服液剂型（0.25g*7s+175ml）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -18914,9 +21860,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1410-d027d9",
+        "url": "https://s.taobao.com/search?q=%E5%90%88%E7%94%9F%E5%85%83%E5%84%BF%E7%AB%A5%E7%9B%8A%E7%94%9F%E8%8F%8C%E7%B2%89%EF%BC%88%E5%A5%B6%E5%91%B3%EF%BC%89",
         "platformPrice": 176,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%90%88%E7%94%9F%E5%85%83%E5%84%BF%E7%AB%A5%E7%9B%8A%E7%94%9F%E8%8F%8C%E7%B2%89%EF%BC%88%E5%A5%B6%E5%91%B3%EF%BC%89",
+        "platformPrice": 176,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "合生元「合生元儿童益生菌粉（奶味）」主打健脾消食、益生菌，采用片剂剂型（2g/26袋）单盒装。该产品获SC食品生产许可，定位为日常保健。适合儿童、成人、通用人群使用。产地广东广州，线上渠道专供。",
@@ -18951,9 +21903,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1357-1082a9",
+        "url": "https://s.taobao.com/search?q=%E5%85%BB%E7%94%9F%E5%A0%82%E5%A4%A9%E9%BA%BB%E6%B0%A8%E5%9F%BA%E4%B8%81%E9%85%B8%E7%89%87",
         "platformPrice": 198,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%85%BB%E7%94%9F%E5%A0%82%E5%A4%A9%E9%BA%BB%E6%B0%A8%E5%9F%BA%E4%B8%81%E9%85%B8%E7%89%87",
+        "platformPrice": 198,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "养生堂「养生堂天麻氨基丁酸片」主打增强免疫力，采用片剂剂型（21g（0.7g*30片））单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地浙江杭州，全渠道销售。",
@@ -18988,9 +21946,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1402-a180e3",
+        "url": "https://s.taobao.com/search?q=%E9%AB%98%E9%9C%B2%E6%B4%81%E8%8D%89%E6%9C%AC%E9%98%B2%E8%9B%80%E7%89%99%E8%86%8F%EF%BC%88%E6%B8%85%E7%88%BD%E8%96%84%E8%8D%B7%EF%BC%89",
         "platformPrice": 6,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%AB%98%E9%9C%B2%E6%B4%81%E8%8D%89%E6%9C%AC%E9%98%B2%E8%9B%80%E7%89%99%E8%86%8F%EF%BC%88%E6%B8%85%E7%88%BD%E8%96%84%E8%8D%B7%EF%BC%89",
+        "platformPrice": 6,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "高露洁草「高露洁草本防蛀牙膏（清爽薄荷）」主打增强免疫力，采用片剂剂型（140克）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -19025,9 +21989,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1450-f63ab0",
+        "url": "https://s.taobao.com/search?q=%E9%AB%98%E9%9C%B2%E6%B4%81%E5%86%B0%E7%88%BD%E7%89%99%E8%86%8F%EF%BC%88%E5%86%B7%E8%90%83%E9%BE%99%E4%BA%95%E9%A6%99%E5%9E%8B%EF%BC%89",
         "platformPrice": 19,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%AB%98%E9%9C%B2%E6%B4%81%E5%86%B0%E7%88%BD%E7%89%99%E8%86%8F%EF%BC%88%E5%86%B7%E8%90%83%E9%BE%99%E4%BA%95%E9%A6%99%E5%9E%8B%EF%BC%89",
+        "platformPrice": 19,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "高露洁冰「高露洁冰爽牙膏（冷萃龙井香型）」主打增强免疫力，采用片剂剂型（180克）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -19062,9 +22032,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1409-aa9653",
+        "url": "https://s.taobao.com/search?q=%E6%B5%B7%E5%A4%A9%E7%83%A7%E7%83%A4%E6%B1%81",
         "platformPrice": 5,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%B5%B7%E5%A4%A9%E7%83%A7%E7%83%A4%E6%B1%81",
+        "platformPrice": 5,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "海天烧烤「海天烧烤汁」主打增强免疫力，采用片剂剂型（230毫升）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -19099,9 +22075,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1355-32242f",
+        "url": "https://s.taobao.com/search?q=%E7%99%BE%E8%8A%B1%E4%B8%B2%E9%A3%8E%E5%91%B3%E8%85%90%E4%B9%B3",
         "platformPrice": 8,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%99%BE%E8%8A%B1%E4%B8%B2%E9%A3%8E%E5%91%B3%E8%85%90%E4%B9%B3",
+        "platformPrice": 8,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "百花串风「百花串风味腐乳」主打增强免疫力，采用片剂剂型（310克）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -19136,9 +22118,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1369-3d5795",
+        "url": "https://s.taobao.com/search?q=%E9%9D%99%E5%BF%83%E5%8A%A9%E7%9C%A0%E5%8F%A3%E6%9C%8D%E6%B6%B2",
         "platformPrice": 79,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%9D%99%E5%BF%83%E5%8A%A9%E7%9C%A0%E5%8F%A3%E6%9C%8D%E6%B6%B2",
+        "platformPrice": 79,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "静心助眠「静心助眠口服液」主打助眠安神，采用口服液剂型（15ml*10支）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -19175,9 +22163,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1369-5d6099",
+        "url": "https://s.taobao.com/search?q=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%E9%92%99%E7%BB%B4%E7%94%9F%E7%B4%A0D%E7%89%87%EF%BC%88%E5%AD%95%E5%A6%87%E4%B9%B3%E6%AF%8D%E5%9E%8B%EF%BC%89",
         "platformPrice": 108,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%E9%92%99%E7%BB%B4%E7%94%9F%E7%B4%A0D%E7%89%87%EF%BC%88%E5%AD%95%E5%A6%87%E4%B9%B3%E6%AF%8D%E5%9E%8B%EF%BC%89",
+        "platformPrice": 108,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "汤臣倍健「汤臣倍健钙维生素D片（孕妇乳母型）」主打强健骨骼、矿物质补充，采用片剂剂型（1.3g*60片）单盒装。该产品获SC食品生产许可，定位为日常保健。适合孕妇、成人、通用人群使用。产地广东珠海，线上渠道专供。",
@@ -19213,9 +22207,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1457-a68eb3",
+        "url": "https://s.taobao.com/search?q=%E6%96%B0%E7%9B%96%E4%B8%AD%E7%9B%96%E7%89%8C%E7%A2%B3%E9%85%B8%E9%92%99%E7%BB%B4%E7%94%9F%E7%B4%A0D3%E5%92%80%E5%9A%BC%E7%89%87",
         "platformPrice": 48,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%96%B0%E7%9B%96%E4%B8%AD%E7%9B%96%E7%89%8C%E7%A2%B3%E9%85%B8%E9%92%99%E7%BB%B4%E7%94%9F%E7%B4%A0D3%E5%92%80%E5%9A%BC%E7%89%87",
+        "platformPrice": 48,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "新盖中盖「新盖中盖牌碳酸钙维生素D3咀嚼片」主打强健骨骼、矿物质补充，采用片剂剂型（2.1g*36片）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -19251,9 +22251,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1403-bb1365",
+        "url": "https://s.taobao.com/search?q=%E5%96%84%E5%85%83%E5%A0%82%E7%9B%8A%E7%94%9F%E8%8F%8C%E7%B2%89",
         "platformPrice": 148,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%96%84%E5%85%83%E5%A0%82%E7%9B%8A%E7%94%9F%E8%8F%8C%E7%B2%89",
+        "platformPrice": 148,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "善元堂「善元堂益生菌粉」主打健脾消食、益生菌，采用粉剂剂型（10g（1g*10包））单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地广东广州，全渠道销售。",
@@ -19289,9 +22295,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1401-30e3d2",
+        "url": "https://s.taobao.com/search?q=%E5%88%9B%E5%96%9C%E7%89%8C%E5%8F%B6%E9%BB%84%E7%B4%A0%E6%A1%91%E8%91%9A%E8%8F%8A%E8%8A%B1%E5%90%AB%E7%89%87",
         "platformPrice": 143,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%88%9B%E5%96%9C%E7%89%8C%E5%8F%B6%E9%BB%84%E7%B4%A0%E6%A1%91%E8%91%9A%E8%8F%8A%E8%8A%B1%E5%90%AB%E7%89%87",
+        "platformPrice": 143,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "创喜牌「创喜牌叶黄素桑葚菊花含片」主打美容养颜、护眼明目，采用片剂剂型（51g（0.85g*60片））单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -19326,9 +22338,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1366-48e139",
+        "url": "https://s.taobao.com/search?q=%E5%86%A0%E7%94%9F%E5%9B%AD%E8%87%BB%E6%83%85%E5%A5%BD%E7%A4%BC%E6%9C%88%E9%A5%BC(%E7%9B%92%EF%BC%89",
         "platformPrice": 105,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%86%A0%E7%94%9F%E5%9B%AD%E8%87%BB%E6%83%85%E5%A5%BD%E7%A4%BC%E6%9C%88%E9%A5%BC(%E7%9B%92%EF%BC%89",
+        "platformPrice": 105,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "冠生「冠生园臻情好礼月饼(盒）」主打增强免疫力，采用片剂剂型（900g）礼盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -19363,9 +22381,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1366-3589e0",
+        "url": "https://s.taobao.com/search?q=%E9%85%B5%E6%AF%8D%E5%AF%8C%E9%94%8C%E5%87%9D%E8%83%B6%E7%B3%96%E6%9E%9C%EF%BC%88%E6%97%A0%E7%B3%96%E5%9E%8B%E5%B0%8F%E8%B1%A1%E7%B1%B3%E5%A1%94%EF%BC%89",
         "platformPrice": 139,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%85%B5%E6%AF%8D%E5%AF%8C%E9%94%8C%E5%87%9D%E8%83%B6%E7%B3%96%E6%9E%9C%EF%BC%88%E6%97%A0%E7%B3%96%E5%9E%8B%E5%B0%8F%E8%B1%A1%E7%B1%B3%E5%A1%94%EF%BC%89",
+        "platformPrice": 139,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "小象米塔「酵母富锌凝胶糖果（无糖型小象米塔）」主打增强免疫力，采用片剂剂型（30粒）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -19401,9 +22425,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1408-9da901",
+        "url": "https://s.taobao.com/search?q=%E5%8F%B6%E9%BB%84%E7%B4%A0%E9%85%AF%E8%BD%AF%E7%B3%96%E9%A6%99%E6%A9%99%E5%91%B3",
         "platformPrice": 13,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%8F%B6%E9%BB%84%E7%B4%A0%E9%85%AF%E8%BD%AF%E7%B3%96%E9%A6%99%E6%A9%99%E5%91%B3",
+        "platformPrice": 13,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "叶黄素酯「叶黄素酯软糖香橙味」主打美容养颜、护眼明目，采用颗粒剂剂型（80g）单盒装。该产品获SC食品生产许可，定位为针对性调理。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -19438,9 +22468,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1461-c91ee6",
+        "url": "https://s.taobao.com/search?q=%E9%87%91%E5%85%83%E5%AE%9D%E7%A8%BB%E8%8A%B1%E9%A6%99%E7%B1%B3",
         "platformPrice": 75,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%87%91%E5%85%83%E5%AE%9D%E7%A8%BB%E8%8A%B1%E9%A6%99%E7%B1%B3",
+        "platformPrice": 75,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "金元宝稻「金元宝稻花香米」主打增强免疫力，采用片剂剂型（10kg）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -19476,9 +22512,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1464-e64e9c",
+        "url": "https://s.taobao.com/search?q=Swisse%E9%92%99%E7%BB%B4%E7%94%9F%E7%B4%A0D%E7%89%87%EF%BC%8890%E7%B2%92%EF%BC%89",
         "platformPrice": 198,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=Swisse%E9%92%99%E7%BB%B4%E7%94%9F%E7%B4%A0D%E7%89%87%EF%BC%8890%E7%B2%92%EF%BC%89",
+        "platformPrice": 198,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "Swi「Swisse钙维生素D片（90粒）」主打强健骨骼、矿物质补充，采用片剂剂型（170.55g（1.895g*90片））单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -19513,9 +22555,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1453-c92a1e",
+        "url": "https://s.taobao.com/search?q=%E7%99%BE%E9%99%88%E9%85%A5%E8%82%89%E7%B2%89%E9%A6%99%E8%BE%A3%E5%91%B3",
         "platformPrice": 7,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%99%BE%E9%99%88%E9%85%A5%E8%82%89%E7%B2%89%E9%A6%99%E8%BE%A3%E5%91%B3",
+        "platformPrice": 7,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "百陈酥肉「百陈酥肉粉香辣味」主打增强免疫力，采用片剂剂型（个）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -19550,9 +22598,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1461-43ce8f",
+        "url": "https://s.taobao.com/search?q=%E6%B8%85%E5%91%A4%E5%8D%AB%E5%A3%AB%E9%92%BE%E6%B3%A1%E8%85%BE%E7%89%87%EF%BC%88%E6%9F%A0%E6%AA%AC%E5%91%B3%EF%BC%89",
         "platformPrice": 128,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%B8%85%E5%91%A4%E5%8D%AB%E5%A3%AB%E9%92%BE%E6%B3%A1%E8%85%BE%E7%89%87%EF%BC%88%E6%9F%A0%E6%AA%AC%E5%91%B3%EF%BC%89",
+        "platformPrice": 128,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "清呤卫士「清呤卫士钾泡腾片（柠檬味）」主打增强免疫力，采用片剂剂型（80g（4g*20片））单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -19588,9 +22642,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1370-49e493",
+        "url": "https://s.taobao.com/search?q=%E5%8D%81%E6%9C%88%E9%A6%A8%E5%84%BF%E7%AB%A5%E8%90%A5%E5%85%BBDHA%E8%97%BB%E6%B2%B9a%E4%BA%9A%E9%BA%BB%E9%85%B8%E5%87%9D%E8%83%B6%E7%B3%96%E6%9E%9C",
         "platformPrice": 309,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%8D%81%E6%9C%88%E9%A6%A8%E5%84%BF%E7%AB%A5%E8%90%A5%E5%85%BBDHA%E8%97%BB%E6%B2%B9a%E4%BA%9A%E9%BA%BB%E9%85%B8%E5%87%9D%E8%83%B6%E7%B3%96%E6%9E%9C",
+        "platformPrice": 309,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "十月馨「十月馨儿童营养DHA藻油a亚麻酸凝胶糖果」主打益智健脑，采用片剂剂型（0.6g*60粒(艾聪宝)）单盒装。该产品获SC食品生产许可，定位为日常保健。适合儿童、成人、通用人群使用。产地广东广州，线上渠道专供。",
@@ -19627,9 +22687,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1395-11c2d0",
+        "url": "https://s.taobao.com/search?q=%E6%97%A0%E7%B3%96%E5%8D%97%E6%96%B9%E9%BB%91%E8%8A%9D%E9%BA%BB%E4%B8%AD%E8%80%81%E5%B9%B4%E9%AB%98%E9%92%99%E5%A5%B6",
         "platformPrice": 58,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%97%A0%E7%B3%96%E5%8D%97%E6%96%B9%E9%BB%91%E8%8A%9D%E9%BA%BB%E4%B8%AD%E8%80%81%E5%B9%B4%E9%AB%98%E9%92%99%E5%A5%B6",
+        "platformPrice": 58,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "南方「无糖南方黑芝麻中老年高钙奶」主打增强免疫力、美容养颜，采用片剂剂型（248ml*10）单盒装。该产品获SC食品生产许可，定位为日常保健。适合中老年、成人、通用人群使用。产地未知，线上渠道专供。",
@@ -19664,9 +22730,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1405-1c6e15",
+        "url": "https://s.taobao.com/search?q=%E5%96%84%E5%85%83%E5%A0%82%E7%89%8C%E5%A4%9A%E7%A7%8DB%E6%97%8F%E7%BB%B4%E7%94%9F%E7%B4%A0%E7%89%87",
         "platformPrice": 49,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%96%84%E5%85%83%E5%A0%82%E7%89%8C%E5%A4%9A%E7%A7%8DB%E6%97%8F%E7%BB%B4%E7%94%9F%E7%B4%A0%E7%89%87",
+        "platformPrice": 49,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "善元堂「善元堂牌多种B族维生素片」主打基础维生素，采用片剂剂型（500mg*40片）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地广东广州，线上渠道专供。",
@@ -19701,9 +22773,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1452-23ba6f",
+        "url": "https://s.taobao.com/search?q=%E5%8F%98%E9%80%9A%E7%89%8C%E5%A4%A9%E5%A4%A9%E5%8F%A3%E6%9C%8D%E6%B6%B2",
         "platformPrice": 58,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%8F%98%E9%80%9A%E7%89%8C%E5%A4%A9%E5%A4%A9%E5%8F%A3%E6%9C%8D%E6%B6%B2",
+        "platformPrice": 58,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "变通「变通牌天天口服液」主打增强免疫力，采用口服液剂型（80ml（10ml*8支））单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -19738,9 +22816,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1508-fc9d5a",
+        "url": "https://s.taobao.com/search?q=ZP%E5%85%94%E4%B9%8B%E5%8A%9B%E9%A6%99%E6%B0%9B%E7%88%86%E7%82%B8%E7%9B%90%E6%B3%A1%E6%B4%97%E7%B2%89",
         "platformPrice": 6,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=ZP%E5%85%94%E4%B9%8B%E5%8A%9B%E9%A6%99%E6%B0%9B%E7%88%86%E7%82%B8%E7%9B%90%E6%B3%A1%E6%B4%97%E7%B2%89",
+        "platformPrice": 6,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "ZP兔「ZP兔之力香氛爆炸盐泡洗粉」主打增强免疫力，采用粉剂剂型（85g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -19776,9 +22860,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1456-ff911a",
+        "url": "https://s.taobao.com/search?q=%E5%AD%95%E5%85%A8%E7%B4%A0%E5%AD%95%E5%A6%87%E4%B8%93%E7%94%A8%E8%90%A5%E5%85%BB%E7%B4%A0",
         "platformPrice": 468,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%AD%95%E5%85%A8%E7%B4%A0%E5%AD%95%E5%A6%87%E4%B8%93%E7%94%A8%E8%90%A5%E5%85%BB%E7%B4%A0",
+        "platformPrice": 468,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "孕全素孕「孕全素孕妇专用营养素」主打增强免疫力，采用片剂剂型（150g(10g/袋*15袋））单盒装。该产品获SC食品生产许可，定位为日常保健。适合孕妇、成人、通用人群使用。产地未知，线上渠道专供。",
@@ -19814,9 +22904,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1307-720244",
+        "url": "https://s.taobao.com/search?q=%E8%AF%BA%E7%91%9E%E7%89%B9%E7%89%8C%E5%BD%93%E5%BD%92%E8%8A%A6%E8%8D%9F%E8%83%B6%E5%9B%8A",
         "platformPrice": 78,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%AF%BA%E7%91%9E%E7%89%B9%E7%89%8C%E5%BD%93%E5%BD%92%E8%8A%A6%E8%8D%9F%E8%83%B6%E5%9B%8A",
+        "platformPrice": 78,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "诺瑞特「诺瑞特牌当归芦荟胶囊」主打美容养颜、健脾消食，采用胶囊剂型（0.45g*24粒）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -19852,9 +22948,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1461-e38ea7",
+        "url": "https://s.taobao.com/search?q=%E9%87%91%E9%93%B6%E8%8A%B1%E6%9E%87%E6%9D%B7%E7%B3%96(%E7%BE%8E%E5%BE%95%E5%81%A5%EF%BC%89",
         "platformPrice": 10,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%87%91%E9%93%B6%E8%8A%B1%E6%9E%87%E6%9D%B7%E7%B3%96(%E7%BE%8E%E5%BE%95%E5%81%A5%EF%BC%89",
+        "platformPrice": 10,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "金银花「金银花枇杷糖(美徕健）」主打清咽润喉、中药食材，采用片剂剂型（2.5克*12粒）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -19890,9 +22992,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1314-286181",
+        "url": "https://s.taobao.com/search?q=%E8%83%96%E5%A4%A7%E6%B5%B7%E6%9E%87%E6%9D%B7%E7%B3%96%EF%BC%88%E7%BE%8E%E5%BE%95%E5%81%A5%EF%BC%89",
         "platformPrice": 10,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%83%96%E5%A4%A7%E6%B5%B7%E6%9E%87%E6%9D%B7%E7%B3%96%EF%BC%88%E7%BE%8E%E5%BE%95%E5%81%A5%EF%BC%89",
+        "platformPrice": 10,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "胖大海枇「胖大海枇杷糖（美徕健）」主打清咽润喉、中药食材，采用片剂剂型（2.5g/片*12片）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -19928,9 +23036,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1513-9fa8ed",
+        "url": "https://s.taobao.com/search?q=%E9%92%99%E5%B0%94%E5%A5%87%E6%B0%A8%E7%B3%96%E8%BD%AF%E9%AA%A8%E7%B4%A0%E5%8A%A0%E9%92%99%E7%89%87%EF%BC%88%E6%9C%AC%E5%93%81%E4%B8%8D%E5%8D%95%E7%8B%AC%E9%94%80%E5%94%AE%EF%BC%89",
         "platformPrice": 50,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%92%99%E5%B0%94%E5%A5%87%E6%B0%A8%E7%B3%96%E8%BD%AF%E9%AA%A8%E7%B4%A0%E5%8A%A0%E9%92%99%E7%89%87%EF%BC%88%E6%9C%AC%E5%93%81%E4%B8%8D%E5%8D%95%E7%8B%AC%E9%94%80%E5%94%AE%EF%BC%89",
+        "platformPrice": 50,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "钙尔奇「钙尔奇氨糖软骨素加钙片（本品不单独销售）」主打强健骨骼、矿物质补充，采用片剂剂型（28g（1.0g /片*28片））单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地江苏苏州，全渠道销售。",
@@ -19965,9 +23079,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1367-62927e",
+        "url": "https://s.taobao.com/search?q=%E4%BB%8A%E7%BB%B4%E5%A4%9A%E7%BB%B4%E7%94%9F%E7%B4%A0C%E5%92%80%E5%9A%BC%E7%89%87%EF%BC%88%E8%8D%89%E8%8E%93%E5%91%B3)",
         "platformPrice": 10,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E4%BB%8A%E7%BB%B4%E5%A4%9A%E7%BB%B4%E7%94%9F%E7%B4%A0C%E5%92%80%E5%9A%BC%E7%89%87%EF%BC%88%E8%8D%89%E8%8E%93%E5%91%B3)",
+        "platformPrice": 10,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "今维多维「今维多维生素C咀嚼片（草莓味)」主打基础维生素，采用片剂剂型（0.65g*20粒）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -20003,9 +23123,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1458-cfe741",
+        "url": "https://s.taobao.com/search?q=%E9%92%99%E5%B0%94%E5%A5%87%20%E6%B0%A8%E7%B3%96%E8%BD%AF%E9%AA%A8%E7%B4%A0%E5%8A%A0%E9%92%99%E7%89%87",
         "platformPrice": 258,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%92%99%E5%B0%94%E5%A5%87%20%E6%B0%A8%E7%B3%96%E8%BD%AF%E9%AA%A8%E7%B4%A0%E5%8A%A0%E9%92%99%E7%89%87",
+        "platformPrice": 258,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "钙尔奇「钙尔奇 氨糖软骨素加钙片」主打强健骨骼、矿物质补充，采用片剂剂型（60g（1.0g*60片））单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地江苏苏州，全渠道销售。",
@@ -20041,9 +23167,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1410-81c65c",
+        "url": "https://s.taobao.com/search?q=%E7%BB%B4%E7%94%9F%E7%B4%A0B6%E7%83%9F%E9%85%B8%E5%8F%B6%E9%85%B8%E7%BB%B4%E7%94%9F%E7%B4%A0C%E6%B3%9B%E9%85%B8%E7%89%87(%E5%AD%95%E5%A6%87)%22",
         "platformPrice": 53,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%BB%B4%E7%94%9F%E7%B4%A0B6%E7%83%9F%E9%85%B8%E5%8F%B6%E9%85%B8%E7%BB%B4%E7%94%9F%E7%B4%A0C%E6%B3%9B%E9%85%B8%E7%89%87(%E5%AD%95%E5%A6%87)%22",
+        "platformPrice": 53,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "维生「维生素B6烟酸叶酸维生素C泛酸片(孕妇)\"」主打基础维生素，采用片剂剂型（\"69）单盒装。该产品获SC食品生产许可，定位为日常保健。适合孕妇、成人、通用人群使用。产地未知，线上渠道专供。",
@@ -20079,9 +23211,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1453-e2c8a2",
+        "url": "https://s.taobao.com/search?q=%E7%BB%B4%E7%94%9F%E7%B4%A0B6%E7%83%9F%E9%85%B8%E5%8F%B6%E9%85%B8%E7%BB%B4%E7%94%9F%E7%B4%A0C%E6%B3%9B%E9%85%B8%E5%A4%9A%E7%A7%8D%E7%9F%BF%E7%89%A9%E8%B4%A8%E7%89%87(%E5%AD%95%E5%A6%87)%22",
         "platformPrice": 53,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%BB%B4%E7%94%9F%E7%B4%A0B6%E7%83%9F%E9%85%B8%E5%8F%B6%E9%85%B8%E7%BB%B4%E7%94%9F%E7%B4%A0C%E6%B3%9B%E9%85%B8%E5%A4%9A%E7%A7%8D%E7%9F%BF%E7%89%A9%E8%B4%A8%E7%89%87(%E5%AD%95%E5%A6%87)%22",
+        "platformPrice": 53,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "维生「维生素B6烟酸叶酸维生素C泛酸多种矿物质片(孕妇)\"」主打基础维生素，采用片剂剂型（\"69）单盒装。该产品获SC食品生产许可，定位为日常保健。适合孕妇、成人、通用人群使用。产地未知，线上渠道专供。",
@@ -20117,9 +23255,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1412-1c7f65",
+        "url": "https://s.taobao.com/search?q=%22%E5%8D%81%E6%9C%88%E9%A6%A8%E7%89%8C%E7%BB%B4%E7%94%9F%E7%B4%A0A%E7%BB%B4%E7%94%9F%E7%B4%A0D%E7%BB%B4%E7%94%9F%E7%B4%A0B1%E7%BB%B4%E7%94%9F%E7%B4%A0B2",
         "platformPrice": 346,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%22%E5%8D%81%E6%9C%88%E9%A6%A8%E7%89%8C%E7%BB%B4%E7%94%9F%E7%B4%A0A%E7%BB%B4%E7%94%9F%E7%B4%A0D%E7%BB%B4%E7%94%9F%E7%B4%A0B1%E7%BB%B4%E7%94%9F%E7%B4%A0B2",
+        "platformPrice": 346,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "十月馨「\"十月馨牌维生素A维生素D维生素B1维生素B2」主打强健骨骼、基础维生素，采用片剂剂型（549）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地广东广州，线上渠道专供。",
@@ -20156,9 +23300,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1509-ce3fd8",
+        "url": "https://s.taobao.com/search?q=%E5%8D%81%E6%9C%88%E9%A6%A8%E7%89%8C%E5%A4%9A%E7%A7%8D%E7%BB%B4%E7%94%9F%E7%B4%A0%E9%92%99%E9%93%81%E9%94%8C%E7%89%87(%E4%B9%B3%E6%AF%8D)",
         "platformPrice": 398,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%8D%81%E6%9C%88%E9%A6%A8%E7%89%8C%E5%A4%9A%E7%A7%8D%E7%BB%B4%E7%94%9F%E7%B4%A0%E9%92%99%E9%93%81%E9%94%8C%E7%89%87(%E4%B9%B3%E6%AF%8D)",
+        "platformPrice": 398,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "十月馨「十月馨牌多种维生素钙铁锌片(乳母)」主打强健骨骼、矿物质补充，采用片剂剂型（1.05g/片(十月馨4段)*60片）单盒装。该产品获SC食品生产许可，定位为日常保健。适合孕妇、成人、通用人群使用。产地广东广州，线上渠道专供。",
@@ -20193,9 +23343,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1456-904bcf",
+        "url": "https://s.taobao.com/search?q=%E6%96%AF%E7%BB%B4%E8%AF%97%E6%A4%8D%E7%89%A9%E4%B9%B3%E9%85%B8%E8%8F%8C%E8%83%B6%E5%9B%8A",
         "platformPrice": 188,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%96%AF%E7%BB%B4%E8%AF%97%E6%A4%8D%E7%89%A9%E4%B9%B3%E9%85%B8%E8%8F%8C%E8%83%B6%E5%9B%8A",
+        "platformPrice": 188,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "斯维诗植「斯维诗植物乳酸菌胶囊」主打增强免疫力，采用胶囊剂型（9.84g（0.41g*24粒））单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -20230,9 +23386,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1503-d9fb1a",
+        "url": "https://s.taobao.com/search?q=%E7%88%B1%E4%B9%90%E7%BB%B4%E7%8E%9B%E5%92%96%E9%94%8C%E6%B7%AB%E7%BE%8A%E8%97%BF%E8%83%B6%E5%9B%8A",
         "platformPrice": 138,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%88%B1%E4%B9%90%E7%BB%B4%E7%8E%9B%E5%92%96%E9%94%8C%E6%B7%AB%E7%BE%8A%E8%97%BF%E8%83%B6%E5%9B%8A",
+        "platformPrice": 138,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "爱乐维玛「爱乐维玛咖锌淫羊藿胶囊」主打补肾益气，采用胶囊剂型（120粒）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -20268,9 +23430,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1506-ccd6d6",
+        "url": "https://s.taobao.com/search?q=%E9%87%91%E9%93%B6%E8%8A%B1%E5%90%AB%E7%89%87",
         "platformPrice": 53,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%87%91%E9%93%B6%E8%8A%B1%E5%90%AB%E7%89%87",
+        "platformPrice": 53,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "金银花含「金银花含片」主打增强免疫力、中药食材，采用片剂剂型（748）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -20307,9 +23475,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1504-59baaf",
+        "url": "https://s.taobao.com/search?q=%E9%92%99%E9%92%99%E6%98%9F%E7%89%8C%E7%89%9B%E5%88%9D%E4%B9%B3%E9%92%99%E5%92%80%E5%9A%BC%E7%89%87",
         "platformPrice": 168,
-        "collectedAt": "2026-06-20"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%92%99%E9%92%99%E6%98%9F%E7%89%8C%E7%89%9B%E5%88%9D%E4%B9%B3%E9%92%99%E5%92%80%E5%9A%BC%E7%89%87",
+        "platformPrice": 168,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "钙钙星「钙钙星牌牛初乳钙咀嚼片」主打增强免疫力、强健骨骼、矿物质补充，采用片剂剂型（1.2g*100片）单盒装。该产品获国家蓝帽保健食品认证，定位为日常保健。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -20344,9 +23518,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1451-a27b5b",
+        "url": "https://s.taobao.com/search?q=%E5%A4%9A%E7%A6%8F%E5%9C%A3%E5%BA%B7",
         "platformPrice": 53,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%A4%9A%E7%A6%8F%E5%9C%A3%E5%BA%B7",
+        "platformPrice": 53,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "多福圣康「多福圣康」主打增强免疫力，采用片剂剂型（1000mg*120片）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地山东济南，线上渠道专供。",
@@ -20381,9 +23561,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1357-d84203",
+        "url": "https://s.taobao.com/search?q=%E7%BE%8E%E6%9E%97%E6%B0%B4%E6%B0%B4%E4%B9%90",
         "platformPrice": 65,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%BE%8E%E6%9E%97%E6%B0%B4%E6%B0%B4%E4%B9%90",
+        "platformPrice": 65,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "美林「美林水水乐」主打增强免疫力，采用片剂剂型（8袋）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地江苏，线上渠道专供。",
@@ -20419,9 +23605,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1411-366d3e",
+        "url": "https://s.taobao.com/search?q=%E8%8A%A6%E8%8D%9F%E5%A4%A7%E8%B1%86%E8%86%B3%E9%A3%9F%E7%BA%A4%E7%BB%B4%E8%A5%BF%E6%B4%8B%E5%8F%82%E8%8D%B7%E5%8F%B6",
         "platformPrice": 76,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%8A%A6%E8%8D%9F%E5%A4%A7%E8%B1%86%E8%86%B3%E9%A3%9F%E7%BA%A4%E7%BB%B4%E8%A5%BF%E6%B4%8B%E5%8F%82%E8%8D%B7%E5%8F%B6",
+        "platformPrice": 76,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "美澳健「芦荟大豆膳食纤维西洋参荷叶」主打健脾消食、中药食材调理，采用片剂剂型（0.4g*72粒）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地广东，全渠道销售。",
@@ -20456,9 +23648,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1462-56aef7",
+        "url": "https://s.taobao.com/search?q=%E8%9C%9C%E7%89%99%E8%B4%9D%E8%B4%9D",
         "platformPrice": 79,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%9C%9C%E7%89%99%E8%B4%9D%E8%B4%9D",
+        "platformPrice": 79,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "蜜牙贝贝「蜜牙贝贝」主打增强免疫力，采用片剂剂型（1.0*30粒）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -20495,9 +23693,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1407-205cf7",
+        "url": "https://s.taobao.com/search?q=%E9%B2%81%E6%B6%A6%E9%98%BF%E8%83%B6",
         "platformPrice": 10,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%B2%81%E6%B6%A6%E9%98%BF%E8%83%B6",
+        "platformPrice": 10,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "鲁润「鲁润阿胶」主打美容养颜、中药食材调理，采用片剂剂型（100g）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合女性、成人、通用人群使用。产地山东济南，全渠道销售。",
@@ -20532,9 +23736,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1404-ec1263",
+        "url": "https://s.taobao.com/search?q=%E8%B6%8A%E6%A9%98%E5%8F%B6%E9%BB%84%E7%B4%A0%E9%85%AF%CE%B2-%E8%83%A1%E8%90%9D%E5%8D%9C%E7%B4%A0%E8%BD%AF%E8%83%B6%E5%9B%8A",
         "platformPrice": 105,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%B6%8A%E6%A9%98%E5%8F%B6%E9%BB%84%E7%B4%A0%E9%85%AF%CE%B2-%E8%83%A1%E8%90%9D%E5%8D%9C%E7%B4%A0%E8%BD%AF%E8%83%B6%E5%9B%8A",
+        "platformPrice": 105,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "汤臣倍健「越橘叶黄素酯β-胡萝卜素软胶囊」主打护眼明目，采用胶囊剂型（0.5g*30粒）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地广东珠海，全渠道销售。",
@@ -20569,9 +23779,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1410-50fd92",
+        "url": "https://s.taobao.com/search?q=%E7%94%9F%E5%91%BD%E9%9C%80%E5%AE%9D",
         "platformPrice": 24,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%94%9F%E5%91%BD%E9%9C%80%E5%AE%9D",
+        "platformPrice": 24,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "生命需宝「生命需宝」主打增强免疫力，采用片剂剂型（10ml*10瓶）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地广东，全渠道销售。",
@@ -20607,9 +23823,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1452-0d1eb8",
+        "url": "https://s.taobao.com/search?q=%E6%88%90%E9%95%BF%E5%BF%AB%E4%B9%90",
         "platformPrice": 122,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%88%90%E9%95%BF%E5%BF%AB%E4%B9%90",
+        "platformPrice": 122,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "成长快乐「成长快乐」主打增强免疫力，采用片剂剂型（3g*50片）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合儿童、成人、通用人群使用。产地安徽亳州，全渠道销售。",
@@ -20644,9 +23866,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1411-87eb32",
+        "url": "https://s.taobao.com/search?q=%E5%85%8B%E5%8A%B3%E5%85%8B%E6%B6%B2",
         "platformPrice": 13,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%85%8B%E5%8A%B3%E5%85%8B%E6%B6%B2",
+        "platformPrice": 13,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "克劳克液「克劳克液」主打增强免疫力，采用口服液剂型（100ml）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -20681,9 +23909,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1362-47a428",
+        "url": "https://s.taobao.com/search?q=%E7%BE%8E%E5%A5%BD%E8%95%B4%E8%82%B2",
         "platformPrice": 599,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%BE%8E%E5%A5%BD%E8%95%B4%E8%82%B2",
+        "platformPrice": 599,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "美好蕴育「美好蕴育」主打增强免疫力，采用片剂剂型（90粒）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -20718,9 +23952,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1399-620ab4",
+        "url": "https://s.taobao.com/search?q=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%E5%81%A5%E8%A7%86%E4%BD%B3",
         "platformPrice": 181,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%B1%A4%E8%87%A3%E5%80%8D%E5%81%A5%E5%81%A5%E8%A7%86%E4%BD%B3",
+        "platformPrice": 181,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "汤臣倍健「汤臣倍健健视佳」主打增强免疫力，采用片剂剂型（45粒）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地广东珠海，全渠道销售。",
@@ -20756,9 +23996,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1509-b6fbf7",
+        "url": "https://s.taobao.com/search?q=%E7%A2%B3%E9%85%B8%E9%92%99%E7%BB%B4%E7%94%9F%E7%B4%A0D3",
         "platformPrice": 26,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%A2%B3%E9%85%B8%E9%92%99%E7%BB%B4%E7%94%9F%E7%B4%A0D3",
+        "platformPrice": 26,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "哈药集团「碳酸钙维生素D3」主打强健骨骼、基础维生素补充，采用片剂剂型（2.1g*36片）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -20793,9 +24039,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1357-2723d3",
+        "url": "https://s.taobao.com/search?q=VC(%E7%A7%92%E6%9D%80%E8%A3%85)",
         "platformPrice": 112,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=VC(%E7%A7%92%E6%9D%80%E8%A3%85)",
+        "platformPrice": 112,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "汤臣倍健「VC(秒杀装)」主打增强免疫力，采用片剂剂型（780mg*100片）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地广东珠海，线上渠道专供。",
@@ -20832,9 +24084,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1407-ce4353",
+        "url": "https://s.taobao.com/search?q=%E6%B0%B4%E9%A3%9E%E8%93%9F%E5%AE%BE%E8%91%9B%E6%A0%B9%E4%B8%B9%E5%8F%82",
         "platformPrice": 190,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%B0%B4%E9%A3%9E%E8%93%9F%E5%AE%BE%E8%91%9B%E6%A0%B9%E4%B8%B9%E5%8F%82",
+        "platformPrice": 190,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "汤臣倍健「水飞蓟宾葛根丹参」主打调节三高、中药食材调理、护肝养肝，采用片剂剂型（60片）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地广东珠海，全渠道销售。",
@@ -20869,9 +24127,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1357-325c44",
+        "url": "https://s.taobao.com/search?q=%E5%A4%9A%E7%A7%8D%E7%BB%B4%E7%94%9F%E7%B4%A0%E9%92%99",
         "platformPrice": 140,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%A4%9A%E7%A7%8D%E7%BB%B4%E7%94%9F%E7%B4%A0%E9%92%99",
+        "platformPrice": 140,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "成长快乐「多种维生素钙」主打基础维生素补充，采用片剂剂型（1.5g*80片）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -20906,9 +24170,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1464-e7c6b9",
+        "url": "https://s.taobao.com/search?q=%E5%8D%B5%E7%A3%B7%E8%84%82%E7%BB%9C%E5%90%88%E7%A2%98",
         "platformPrice": 53,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%8D%B5%E7%A3%B7%E8%84%82%E7%BB%9C%E5%90%88%E7%A2%98",
+        "platformPrice": 53,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "卵磷脂络「卵磷脂络合碘」主打调节三高，采用片剂剂型（1.5mg*60片/盒/片剂）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -20943,9 +24213,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1414-5669bb",
+        "url": "https://s.taobao.com/search?q=%E7%A3%B7%E8%84%82%E9%85%B0%E4%B8%9D%E6%B0%A8%E9%85%B8",
         "platformPrice": 239,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%A3%B7%E8%84%82%E9%85%B0%E4%B8%9D%E6%B0%A8%E9%85%B8",
+        "platformPrice": 239,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "仙乐健康「磷脂酰丝氨酸」主打益智健脑，采用片剂剂型（45g(0.75g/粒*60粒)/盒）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -20980,9 +24256,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1504-9bdba6",
+        "url": "https://s.taobao.com/search?q=%E5%A4%A7%E8%B1%86%E5%8D%B5%E7%A3%B7%E8%84%82",
         "platformPrice": 88,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%A4%A7%E8%B1%86%E5%8D%B5%E7%A3%B7%E8%84%82",
+        "platformPrice": 88,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "汤臣倍健「大豆卵磷脂」主打调节三高，采用片剂剂型（700mg*120粒/瓶）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地广东珠海，全渠道销售。",
@@ -21017,9 +24299,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1506-5beff2",
+        "url": "https://s.taobao.com/search?q=%E9%B1%BC%E6%B2%B9%E8%BD%AF%E8%83%B6%E5%9B%8A(%E7%BE%8E%E6%BE%B3%E5%81%A5)",
         "platformPrice": 71,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%B1%BC%E6%B2%B9%E8%BD%AF%E8%83%B6%E5%9B%8A(%E7%BE%8E%E6%BE%B3%E5%81%A5)",
+        "platformPrice": 71,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "美澳健「鱼油软胶囊(美澳健)」主打调节三高，采用胶囊剂型（100g(1g*100粒)/瓶）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地广东广州，线上渠道专供。",
@@ -21054,9 +24342,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1457-16fd7a",
+        "url": "https://s.taobao.com/search?q=%E9%92%99%E9%94%8C%E7%BB%B4%E7%94%9F%E7%B4%A0K%E5%8F%A3%E6%9C%8D%E6%B6%B2",
         "platformPrice": 72,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%92%99%E9%94%8C%E7%BB%B4%E7%94%9F%E7%B4%A0K%E5%8F%A3%E6%9C%8D%E6%B6%B2",
+        "platformPrice": 72,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "汤臣倍健「钙锌维生素K口服液」主打基础维生素补充，采用口服液剂型（180ml(15ml*12)/盒）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地广东珠海，线上渠道专供。",
@@ -21091,9 +24385,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1549-eacee2",
+        "url": "https://s.taobao.com/search?q=%E7%94%9F%E5%91%BD%E5%A3%B9%E8%99%9F",
         "platformPrice": 39,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%94%9F%E5%91%BD%E5%A3%B9%E8%99%9F",
+        "platformPrice": 39,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "广东十八宝「生命壹號」主打增强免疫力，采用片剂剂型（0.218mg*48粒+10ml*12支/盒）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地广东，全渠道销售。",
@@ -21128,9 +24428,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1448-9b11ba",
+        "url": "https://s.taobao.com/search?q=%E8%8E%B1%E9%98%B3%E6%A2%A8%E6%B1%81",
         "platformPrice": 5,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%8E%B1%E9%98%B3%E6%A2%A8%E6%B1%81",
+        "platformPrice": 5,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "山东一品堂「莱阳梨汁」主打增强免疫力，采用口服液剂型（245ml/瓶）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地山东济南，全渠道销售。",
@@ -21165,9 +24471,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1407-cc3950",
+        "url": "https://s.taobao.com/search?q=%E5%87%89%E6%A1%91%E7%89%8C%E8%83%96%E5%A4%A7%E6%B5%B7%E8%8F%8A%E8%8A%B1",
         "platformPrice": 17,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%87%89%E6%A1%91%E7%89%8C%E8%83%96%E5%A4%A7%E6%B5%B7%E8%8F%8A%E8%8A%B1",
+        "platformPrice": 17,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "凉桑「凉桑牌胖大海菊花」主打清咽润喉，采用片剂剂型（1.5g*10粒/盒）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地江西南昌，全渠道销售。",
@@ -21202,9 +24514,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1418-84e83f",
+        "url": "https://s.taobao.com/search?q=%E5%B7%A6%E6%97%8B%E8%82%89%E7%A2%B1%E7%BB%BF%E8%8C%B6",
         "platformPrice": 49,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%B7%A6%E6%97%8B%E8%82%89%E7%A2%B1%E7%BB%BF%E8%8C%B6",
+        "platformPrice": 49,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "威海振兴生物「左旋肉碱绿茶」主打增强免疫力，采用代用茶剂型（25.2g(0.42g/粒*60粒)/瓶）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -21241,9 +24559,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1461-f34f8b",
+        "url": "https://s.taobao.com/search?q=%E8%83%B6%E5%8E%9F%E8%9B%8B%E7%99%BD%E7%BB%B4C",
         "platformPrice": 92,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%83%B6%E5%8E%9F%E8%9B%8B%E7%99%BD%E7%BB%B4C",
+        "platformPrice": 92,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "广州市龙力「胶原蛋白维C」主打基础维生素补充、胶原蛋白补充，采用片剂剂型（36g(0.6g*60片)/盒）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合女性、成人、通用人群使用。产地广东广州，全渠道销售。",
@@ -21279,9 +24603,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1319-152878",
+        "url": "https://s.taobao.com/search?q=%E5%A4%A7%E8%B1%86%E5%BC%82%E9%BB%84%E9%85%AE%E9%92%99",
         "platformPrice": 124,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%A4%A7%E8%B1%86%E5%BC%82%E9%BB%84%E9%85%AE%E9%92%99",
+        "platformPrice": 124,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "广州市龙力「大豆异黄酮钙」主打美容养颜，采用片剂剂型（1.0g*60粒/瓶）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合女性、成人、通用人群使用。产地广东广州，全渠道销售。",
@@ -21316,9 +24646,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1407-b5138d",
+        "url": "https://s.taobao.com/search?q=%E6%B6%88%E9%A3%9F%E5%8C%96%E7%A7%AF%E5%8F%A3%E6%9C%8D%E6%B6%B2",
         "platformPrice": 7,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%B6%88%E9%A3%9F%E5%8C%96%E7%A7%AF%E5%8F%A3%E6%9C%8D%E6%B6%B2",
+        "platformPrice": 7,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "川奇「消食化积口服液」主打健脾消食，采用口服液剂型（10ml/支*6支/盒）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -21353,9 +24689,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1458-7fda44",
+        "url": "https://s.taobao.com/search?q=%E8%9C%82%E8%9C%9C%E8%8A%A6%E8%8D%9F%E4%BF%9D%E5%81%A5",
         "platformPrice": 36,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%9C%82%E8%9C%9C%E8%8A%A6%E8%8D%9F%E4%BF%9D%E5%81%A5",
+        "platformPrice": 36,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "哈医集正「蜂蜜芦荟保健」主打蜂产品滋补，采用片剂剂型（50g/盒/其他）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -21390,9 +24732,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1406-750bd4",
+        "url": "https://s.taobao.com/search?q=%CE%B2-%E8%83%A1%E8%90%9D%E5%8D%9C%E7%B4%A0",
         "platformPrice": 87,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%CE%B2-%E8%83%A1%E8%90%9D%E5%8D%9C%E7%B4%A0",
+        "platformPrice": 87,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "美澳健「β-胡萝卜素」主打增强免疫力，采用片剂剂型（30g(500mg*60粒)瓶）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地广东广州，全渠道销售。",
@@ -21427,9 +24775,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1399-2bb081",
+        "url": "https://s.taobao.com/search?q=%E6%B0%A8%E7%B3%96%E8%BD%AF%E9%AA%A8%E7%B4%A0%E9%86%8B%E9%85%B8",
         "platformPrice": 71,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%B0%A8%E7%B3%96%E8%BD%AF%E9%AA%A8%E7%B4%A0%E9%86%8B%E9%85%B8",
+        "platformPrice": 71,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "纽斯葆「氨糖软骨素醋酸」主打强健骨骼，采用片剂剂型（78g(1.3g/片*60片)/盒）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地广东，全渠道销售。",
@@ -21464,9 +24818,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1419-f8a569",
+        "url": "https://s.taobao.com/search?q=%E9%92%99VDVK",
         "platformPrice": 151,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%92%99VDVK",
+        "platformPrice": 151,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "汤臣倍健「钙VDVK」主打增强免疫力，采用片剂剂型（1000mg*200粒*2瓶/盒）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地广东珠海，线上渠道专供。",
@@ -21501,9 +24861,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1453-51cbf4",
+        "url": "https://s.taobao.com/search?q=%E9%92%99DK%E7%89%B9%E6%83%A0%E8%A3%85",
         "platformPrice": 69,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%92%99DK%E7%89%B9%E6%83%A0%E8%A3%85",
+        "platformPrice": 69,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "汤臣倍健「钙DK特惠装」主打增强免疫力，采用片剂剂型（1000mg*60粒*2瓶）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地广东珠海，线上渠道专供。",
@@ -21540,9 +24906,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1357-3f6510",
+        "url": "https://s.taobao.com/search?q=%E8%83%B6%E5%8E%9F%E8%9B%8B%E7%99%BD%E8%BD%AF%E9%AA%A8%E7%B4%A0%E9%92%99",
         "platformPrice": 252,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%83%B6%E5%8E%9F%E8%9B%8B%E7%99%BD%E8%BD%AF%E9%AA%A8%E7%B4%A0%E9%92%99",
+        "platformPrice": 252,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "汤臣倍健「胶原蛋白软骨素钙」主打强健骨骼、胶原蛋白补充，采用片剂剂型（1200mg*90片*2瓶/盒）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合女性、成人、通用人群使用。产地广东珠海，全渠道销售。",
@@ -21577,9 +24949,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1307-542314",
+        "url": "https://s.taobao.com/search?q=%E6%B0%A8%E7%B3%96%E8%BD%AF%E9%AA%A8%E7%B4%A0VD%E9%92%99",
         "platformPrice": 166,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%B0%A8%E7%B3%96%E8%BD%AF%E9%AA%A8%E7%B4%A0VD%E9%92%99",
+        "platformPrice": 166,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "艾兰得「氨糖软骨素VD钙」主打强健骨骼，采用片剂剂型（0.85g*120片/瓶）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地江苏，全渠道销售。",
@@ -21614,9 +24992,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1448-cd4b21",
+        "url": "https://s.taobao.com/search?q=VC%E5%8A%A0E",
         "platformPrice": 151,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=VC%E5%8A%A0E",
+        "platformPrice": 151,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "汤臣倍健「VC加E」主打增强免疫力，采用片剂剂型（410mg*60片/瓶）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地广东珠海，全渠道销售。",
@@ -21651,9 +25035,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1404-337ab4",
+        "url": "https://s.taobao.com/search?q=%E8%BE%85%E9%85%B6Q10VE",
         "platformPrice": 261,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%BE%85%E9%85%B6Q10VE",
+        "platformPrice": 261,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "汤臣倍健「辅酶Q10VE」主打增强免疫力，采用片剂剂型（400mg*60粒+30粒/盒）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地广东珠海，全渠道销售。",
@@ -21688,9 +25078,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1406-df9120",
+        "url": "https://s.taobao.com/search?q=%E7%9F%BF%E7%89%A9%E8%B4%A8%E5%8F%A3%E6%9C%8D%E6%B6%B2",
         "platformPrice": 97,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%9F%BF%E7%89%A9%E8%B4%A8%E5%8F%A3%E6%9C%8D%E6%B6%B2",
+        "platformPrice": 97,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "纽斯葆「矿物质口服液」主打增强免疫力，采用口服液剂型（300ml(10ml/支*30支)/盒）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地广东，线上渠道专供。",
@@ -21725,9 +25121,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1398-04c02e",
+        "url": "https://s.taobao.com/search?q=%E5%85%BB%E7%94%9F%E5%A0%82%E7%A4%BC%E8%A2%8B",
         "platformPrice": 141,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%85%BB%E7%94%9F%E5%A0%82%E7%A4%BC%E8%A2%8B",
+        "platformPrice": 141,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "养生堂「养生堂礼袋」主打增强免疫力，采用片剂剂型（850mg*30片+1g*30粒+50g+1.5*14片）礼盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地浙江杭州，全渠道销售。",
@@ -21762,9 +25164,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1459-3ef7d2",
+        "url": "https://s.taobao.com/search?q=%E6%9C%B4%E9%9B%AA%E7%89%8C%E9%93%81%E7%BB%B4%E7%94%9F%E7%B4%A0B12",
         "platformPrice": 132,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%9C%B4%E9%9B%AA%E7%89%8C%E9%93%81%E7%BB%B4%E7%94%9F%E7%B4%A0B12",
+        "platformPrice": 132,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "哈药集团「朴雪牌铁维生素B12」主打基础维生素补充，采用片剂剂型（10ml*90支/盒）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -21799,9 +25207,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1415-f0759d",
+        "url": "https://s.taobao.com/search?q=%E5%A4%9A%E7%A7%8D%E7%BB%B4%E7%94%9F%E7%B4%A0%E5%8F%A3%E6%9C%8D%E6%B6%B2",
         "platformPrice": 29,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%A4%9A%E7%A7%8D%E7%BB%B4%E7%94%9F%E7%B4%A0%E5%8F%A3%E6%9C%8D%E6%B6%B2",
+        "platformPrice": 29,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "永安康健「多种维生素口服液」主打基础维生素补充，采用口服液剂型（100ml/瓶*4瓶/盒）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -21836,9 +25250,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1492-b1ab4b",
+        "url": "https://s.taobao.com/search?q=%E8%9E%BA%E6%97%8B%E8%97%BB%E7%A1%92",
         "platformPrice": 85,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%9E%BA%E6%97%8B%E8%97%BB%E7%A1%92",
+        "platformPrice": 85,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "汤臣倍健「螺旋藻硒」主打增强免疫力，采用片剂剂型（620mg/片）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地广东珠海，全渠道销售。",
@@ -21873,9 +25293,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1354-1a1555",
+        "url": "https://s.taobao.com/search?q=%E7%89%9B%E5%88%9D%E4%B9%B3%E4%BB%B7%E6%A0%BC",
         "platformPrice": 41,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%89%9B%E5%88%9D%E4%B9%B3%E4%BB%B7%E6%A0%BC",
+        "platformPrice": 41,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "汤臣倍健「牛初乳价格」主打增强免疫力，采用片剂剂型（1.2g/片*30片/瓶）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地广东珠海，全渠道销售。",
@@ -21910,9 +25336,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1419-9ee826",
+        "url": "https://s.taobao.com/search?q=%E5%85%8D%E7%96%AB%E7%90%83%E8%9B%8B%E7%99%BD",
         "platformPrice": 170,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%85%8D%E7%96%AB%E7%90%83%E8%9B%8B%E7%99%BD",
+        "platformPrice": 170,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "上海金好尔「免疫球蛋白」主打增强免疫力，采用片剂剂型（48粒）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地上海，全渠道销售。",
@@ -21947,9 +25379,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1447-61a2ad",
+        "url": "https://s.taobao.com/search?q=%E5%86%AC%E8%99%AB%E5%A4%8F%E8%8D%89",
         "platformPrice": 91,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%86%AC%E8%99%AB%E5%A4%8F%E8%8D%89",
+        "platformPrice": 91,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "山东智灵「冬虫夏草」主打增强免疫力，采用片剂剂型（0.37g*48粒/盒/胶丸剂）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地山东济南，全渠道销售。",
@@ -21986,9 +25424,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1409-37be17",
+        "url": "https://s.taobao.com/search?q=%E9%98%BF%E8%83%B6%E9%87%91%E4%B8%9D%E6%9E%A3",
         "platformPrice": 6,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%98%BF%E8%83%B6%E9%87%91%E4%B8%9D%E6%9E%A3",
+        "platformPrice": 6,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "鲁润「阿胶金丝枣」主打美容养颜、中药食材调理，采用片剂剂型（100克）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合女性、成人、通用人群使用。产地山东济南，全渠道销售。",
@@ -22024,9 +25468,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1452-6ad07b",
+        "url": "https://s.taobao.com/search?q=%E5%AE%9D%E5%AE%9D%E5%90%83%E9%A5%AD%E9%A6%99%E5%84%BF%E7%AB%A5%E8%90%A5%E5%85%BB%E6%B6%B2",
         "platformPrice": 35,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%AE%9D%E5%AE%9D%E5%90%83%E9%A5%AD%E9%A6%99%E5%84%BF%E7%AB%A5%E8%90%A5%E5%85%BB%E6%B6%B2",
+        "platformPrice": 35,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "江西益佰年「宝宝吃饭香儿童营养液」主打增强免疫力，采用口服液剂型（10ml*9支）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合儿童、成人、通用人群使用。产地江西南昌，全渠道销售。",
@@ -22061,9 +25511,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1465-f8f71e",
+        "url": "https://s.taobao.com/search?q=%E9%A2%88%E8%85%B0%E5%BA%B7%E8%B4%B4",
         "platformPrice": 19,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%A2%88%E8%85%B0%E5%BA%B7%E8%B4%B4",
+        "platformPrice": 19,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "修正药业「颈腰康贴」主打增强免疫力，采用片剂剂型（2贴/袋*5袋/盒）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -22099,9 +25555,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1415-439cc9",
+        "url": "https://s.taobao.com/search?q=%E5%8C%BB%E7%94%A8%E9%87%8D%E7%BB%84%E5%B7%9D%E5%9E%8B%E4%BA%BA%E6%BA%90%E5%8C%96%E8%83%B6%E5%8E%9F%E8%9B%8B%E7%99%BD%E4%BF%AE%E6%8A%A4",
         "platformPrice": 53,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%8C%BB%E7%94%A8%E9%87%8D%E7%BB%84%E5%B7%9D%E5%9E%8B%E4%BA%BA%E6%BA%90%E5%8C%96%E8%83%B6%E5%8E%9F%E8%9B%8B%E7%99%BD%E4%BF%AE%E6%8A%A4",
+        "platformPrice": 53,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "医用重组「医用重组川型人源化胶原蛋白修护」主打胶原蛋白补充，采用片剂剂型（通用规格）单盒装。该产品获SC食品生产许可，定位为日常保健。适合女性、成人、通用人群使用。产地未知，线上渠道专供。",
@@ -22137,9 +25599,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1457-51dd7d",
+        "url": "https://s.taobao.com/search?q=%E6%B4%BB%E6%80%A7%E5%A4%8D%E5%90%88%E7%9B%8A%E7%94%9F%E8%8F%8C",
         "platformPrice": 57,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%B4%BB%E6%80%A7%E5%A4%8D%E5%90%88%E7%9B%8A%E7%94%9F%E8%8F%8C",
+        "platformPrice": 57,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "锦乔生物科技「活性复合益生菌」主打健脾消食、益生菌调理，采用片剂剂型（20克(2克*10)/盒）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -22174,9 +25642,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1406-c6d540",
+        "url": "https://s.taobao.com/search?q=%E9%85%B5%E6%AF%8D%E7%B2%89%E7%BB%B4%E7%94%9F%E7%B4%A0%E8%BD%AF%E7%B3%96",
         "platformPrice": 33,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%85%B5%E6%AF%8D%E7%B2%89%E7%BB%B4%E7%94%9F%E7%B4%A0%E8%BD%AF%E7%B3%96",
+        "platformPrice": 33,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "江西众腾「酵母粉维生素软糖」主打增强免疫力，采用颗粒剂剂型（64克(2克/粒*32粒)/盒）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地江西南昌，线上渠道专供。",
@@ -22211,9 +25685,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1545-0eaafd",
+        "url": "https://s.taobao.com/search?q=%E5%B1%B1%E6%A5%82%E9%B8%A1%E5%86%85%E9%87%91%E8%BD%AF%E7%B3%96",
         "platformPrice": 35,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%B1%B1%E6%A5%82%E9%B8%A1%E5%86%85%E9%87%91%E8%BD%AF%E7%B3%96",
+        "platformPrice": 35,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "江西众腾「山楂鸡内金软糖」主打健脾消食，采用颗粒剂剂型（64克(2克/粒*32粒)/盒）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地江西南昌，线上渠道专供。",
@@ -22249,9 +25729,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1414-4736fd",
+        "url": "https://s.taobao.com/search?q=%E4%B9%B3%E9%92%99%E7%9B%8A%E7%94%9F%E8%8F%8C%E8%BD%AF%E7%B3%96",
         "platformPrice": 33,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E4%B9%B3%E9%92%99%E7%9B%8A%E7%94%9F%E8%8F%8C%E8%BD%AF%E7%B3%96",
+        "platformPrice": 33,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "江西众腾「乳钙益生菌软糖」主打健脾消食、益生菌调理，采用颗粒剂剂型（64克(2克/粒*32粒)/盒）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地江西南昌，线上渠道专供。",
@@ -22286,9 +25772,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1368-8447b7",
+        "url": "https://s.taobao.com/search?q=%E4%B8%AB-%E6%B0%A8%E5%9F%BA%E4%B8%81%E9%85%B8%E6%B0%B4%E8%A7%A3%E8%9B%8B%E9%BB%84%E7%B2%89%E8%BD%AF%E7%B3%96",
         "platformPrice": 33,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E4%B8%AB-%E6%B0%A8%E5%9F%BA%E4%B8%81%E9%85%B8%E6%B0%B4%E8%A7%A3%E8%9B%8B%E9%BB%84%E7%B2%89%E8%BD%AF%E7%B3%96",
+        "platformPrice": 33,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "江西众腾「丫-氨基丁酸水解蛋黄粉软糖」主打增强免疫力，采用颗粒剂剂型（64克(2克/粒*32粒)/盒）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地江西南昌，线上渠道专供。",
@@ -22323,9 +25815,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1304-112516",
+        "url": "https://s.taobao.com/search?q=%E6%A4%B4%E6%A0%91%E8%9C%82%E8%9C%9C",
         "platformPrice": 62,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%A4%B4%E6%A0%91%E8%9C%82%E8%9C%9C",
+        "platformPrice": 62,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "上海森蜂园「椴树蜂蜜」主打蜂产品滋补，采用片剂剂型（2kg/瓶）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地上海，线上渠道专供。",
@@ -22360,9 +25858,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1418-285fd9",
+        "url": "https://s.taobao.com/search?q=%E5%98%89%E6%84%8F%E4%BA%AB%E8%9C%9C%E7%A4%BC%E8%9C%82%E8%9C%9C",
         "platformPrice": 104,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%98%89%E6%84%8F%E4%BA%AB%E8%9C%9C%E7%A4%BC%E8%9C%82%E8%9C%9C",
+        "platformPrice": 104,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "上海森蜂园「嘉意享蜜礼蜂蜜」主打蜂产品滋补，采用片剂剂型（250g*4瓶/盒）礼盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地上海，线上渠道专供。",
@@ -22397,9 +25901,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1453-ea3d35",
+        "url": "https://s.taobao.com/search?q=%E5%BF%83%E6%84%BF%E5%9C%9F%E8%9C%82%E8%9C%9C",
         "platformPrice": 31,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%BF%83%E6%84%BF%E5%9C%9F%E8%9C%82%E8%9C%9C",
+        "platformPrice": 31,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "江西意峰实业「心愿土蜂蜜」主打蜂产品滋补，采用片剂剂型（450g/瓶）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地江西南昌，线上渠道专供。",
@@ -22434,9 +25944,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1452-0bc5e5",
+        "url": "https://s.taobao.com/search?q=%E5%A4%9A%E7%BB%B4%E8%91%A1%E8%90%84%E7%B3%96",
         "platformPrice": 4,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%A4%9A%E7%BB%B4%E8%91%A1%E8%90%84%E7%B3%96",
+        "platformPrice": 4,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "辽源市金百乐「多维葡萄糖」主打基础维生素补充，采用颗粒剂剂型（400g/袋）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -22471,9 +25987,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1397-0d500d",
+        "url": "https://s.taobao.com/search?q=%E8%91%A1%E8%90%84%E7%B3%96%E7%B2%89",
         "platformPrice": 4,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%91%A1%E8%90%84%E7%B3%96%E7%B2%89",
+        "platformPrice": 4,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "商丘亚翔生物「葡萄糖粉」主打增强免疫力，采用片剂剂型（500g/袋±50g/袋）家庭装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -22509,9 +26031,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1410-ae9722",
+        "url": "https://s.taobao.com/search?q=%E7%8C%B4%E5%A4%B4%E8%8F%87%E7%9B%8A%E7%94%9F%E8%8F%8C%E5%8E%8B%E7%89%87%E7%B3%96%E6%9E%9C",
         "platformPrice": 220,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%8C%B4%E5%A4%B4%E8%8F%87%E7%9B%8A%E7%94%9F%E8%8F%8C%E5%8E%8B%E7%89%87%E7%B3%96%E6%9E%9C",
+        "platformPrice": 220,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "汤臣倍健「猴头菇益生菌压片糖果」主打健脾消食、益生菌调理，采用片剂剂型（600mg/片*10片/板*2板/盒）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地广东珠海，线上渠道专供。",
@@ -22546,9 +26074,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1359-50814e",
+        "url": "https://s.taobao.com/search?q=%E4%B9%90%E5%8A%9B%E9%92%99(%E4%B9%90%E5%8A%9B)",
         "platformPrice": 89,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E4%B9%90%E5%8A%9B%E9%92%99(%E4%B9%90%E5%8A%9B)",
+        "platformPrice": 89,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "乐力「乐力钙(乐力)」主打增强免疫力，采用片剂剂型（60粒）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -22583,9 +26117,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1362-17d455",
+        "url": "https://s.taobao.com/search?q=%E6%9E%B8%E6%9D%9E%E5%AD%90(250g)",
         "platformPrice": 27,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%9E%B8%E6%9D%9E%E5%AD%90(250g)",
+        "platformPrice": 27,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "默认生产企「枸杞子(250g)」主打中药食材调理，采用片剂剂型（250g）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -22620,9 +26160,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1410-875cb1",
+        "url": "https://s.taobao.com/search?q=%E7%9B%8A%E6%99%AE%E5%88%A9%E7%94%9Fq",
         "platformPrice": 57,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%9B%8A%E6%99%AE%E5%88%A9%E7%94%9Fq",
+        "platformPrice": 57,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "默认生产企「益普利生q」主打增强免疫力，采用片剂剂型（1.2g*200粒）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -22657,9 +26203,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1413-c0e939",
+        "url": "https://s.taobao.com/search?q=%E4%BD%90%E5%80%8D%E5%BA%B7%20q",
         "platformPrice": 48,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E4%BD%90%E5%80%8D%E5%BA%B7%20q",
+        "platformPrice": 48,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "威海紫光生物「佐倍康 q」主打增强免疫力，采用片剂剂型（100g（1000mg*100粒）*1瓶）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -22694,9 +26246,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1457-f0c9a6",
+        "url": "https://s.taobao.com/search?q=%E6%85%88%E5%AE%89%E5%A0%82%20q",
         "platformPrice": 7,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%85%88%E5%AE%89%E5%A0%82%20q",
+        "platformPrice": 7,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "默认生产企「慈安堂 q」主打增强免疫力，采用片剂剂型（2g*16片）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -22731,9 +26289,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1359-2c2691",
+        "url": "https://s.taobao.com/search?q=%E7%A6%8F%E6%BA%90%E5%A0%82%E7%89%8C",
         "platformPrice": 14,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%A6%8F%E6%BA%90%E5%A0%82%E7%89%8C",
+        "platformPrice": 14,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "默认生产企「福源堂牌」主打增强免疫力，采用片剂剂型（0.5g*100片）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -22768,9 +26332,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1465-5d8b9e",
+        "url": "https://s.taobao.com/search?q=%E8%8D%AF%E7%9B%9F%20ym",
         "platformPrice": 54,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%8D%AF%E7%9B%9F%20ym",
+        "platformPrice": 54,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "威海紫光「药盟 ym」主打增强免疫力，采用片剂剂型（1000mg*60粒）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -22805,9 +26375,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1452-73ca5a",
+        "url": "https://s.taobao.com/search?q=%E6%B2%9B%E5%8A%9B%E5%81%A5%20%E5%8D%97%E4%BA%AC%E5%90%8C%E4%BB%81%E5%A0%82",
         "platformPrice": 25,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%B2%9B%E5%8A%9B%E5%81%A5%20%E5%8D%97%E4%BA%AC%E5%90%8C%E4%BB%81%E5%A0%82",
+        "platformPrice": 25,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "同仁堂「沛力健 南京同仁堂」主打增强免疫力，采用片剂剂型（21g（0.7g/片*30片））单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -22842,9 +26418,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1411-4287ae",
+        "url": "https://s.taobao.com/search?q=%E6%BE%B3%E5%8F%A4%E7%AB%8B%E5%81%A5",
         "platformPrice": 64,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%BE%B3%E5%8F%A4%E7%AB%8B%E5%81%A5",
+        "platformPrice": 64,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "默认生产企「澳古立健」主打增强免疫力，采用片剂剂型（0.85g*45片*2瓶（76.5g））单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -22879,9 +26461,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1369-27686d",
+        "url": "https://s.taobao.com/search?q=%E5%8D%97%E4%BB%81%E4%B9%90%E9%93%BA",
         "platformPrice": 35,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%8D%97%E4%BB%81%E4%B9%90%E9%93%BA",
+        "platformPrice": 35,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "默认生产企「南仁乐铺」主打增强免疫力，采用片剂剂型（1.2g*60片）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -22916,9 +26504,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1408-04d92e",
+        "url": "https://s.taobao.com/search?q=%E4%BB%81%E5%92%8C%20tek",
         "platformPrice": 33,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E4%BB%81%E5%92%8C%20tek",
+        "platformPrice": 33,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "默认生产企「仁和 tek」主打增强免疫力，采用片剂剂型（36g(0.6d*60片)）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -22953,9 +26547,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1501-ba7db5",
+        "url": "https://s.taobao.com/search?q=%E6%B5%B7%E7%8E%8B%E9%87%91%E6%A8%BD",
         "platformPrice": 20,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E6%B5%B7%E7%8E%8B%E9%87%91%E6%A8%BD",
+        "platformPrice": 20,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "海王「海王金樽」主打增强免疫力，采用片剂剂型（50ml*1瓶（8瓶/盒））单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地广东深圳，全渠道销售。",
@@ -22990,9 +26590,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1399-402ae3",
+        "url": "https://s.taobao.com/search?q=%E7%A6%8F%E6%BA%90%E5%A0%82%E7%89%8C%E7%9B%8A%E8%83%83%E6%B6%88%E9%A3%9F%E7%89%87",
         "platformPrice": 13,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%A6%8F%E6%BA%90%E5%A0%82%E7%89%8C%E7%9B%8A%E8%83%83%E6%B6%88%E9%A3%9F%E7%89%87",
+        "platformPrice": 13,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "江西奇而特「福源堂牌益胃消食片」主打健脾消食，采用片剂剂型（0.5g*100片）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地江西南昌，全渠道销售。",
@@ -23027,9 +26633,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1462-9add84",
+        "url": "https://s.taobao.com/search?q=%E7%BB%B4%E7%94%9F%E7%B4%A0C%E5%90%AB%E7%89%87%EF%BC%88%E6%B0%B4%E8%9C%9C%E6%A1%83%E5%91%B3)36g",
         "platformPrice": 12,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E7%BB%B4%E7%94%9F%E7%B4%A0C%E5%90%AB%E7%89%87%EF%BC%88%E6%B0%B4%E8%9C%9C%E6%A1%83%E5%91%B3)36g",
+        "platformPrice": 12,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "山东正奇「维生素C含片（水蜜桃味)36g」主打基础维生素补充，采用片剂剂型（0.6g*60片）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地山东济南，线上渠道专供。",
@@ -23064,9 +26676,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1355-0b1466",
+        "url": "https://s.taobao.com/search?q=%E5%BA%B7%E8%B4%9D%E7%BB%B4%E5%AE%9DB%E6%97%8F%E7%BB%B4%E7%94%9F%E7%B4%A0%E5%92%80%E5%9A%BC%E7%89%87%EF%BC%88%E5%BA%B7%E6%81%A9%E8%B4%9D%EF%BC%89",
         "platformPrice": 68,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E5%BA%B7%E8%B4%9D%E7%BB%B4%E5%AE%9DB%E6%97%8F%E7%BB%B4%E7%94%9F%E7%B4%A0%E5%92%80%E5%9A%BC%E7%89%87%EF%BC%88%E5%BA%B7%E6%81%A9%E8%B4%9D%EF%BC%89",
+        "platformPrice": 68,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "康恩贝「康贝维宝B族维生素咀嚼片（康恩贝）」主打基础维生素补充，采用片剂剂型（100片）单盒装。该产品获SC食品生产许可，定位为日常保健。适合成人、通用人群使用。产地未知，线上渠道专供。",
@@ -23101,9 +26719,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1511-89cfbc",
+        "url": "https://s.taobao.com/search?q=%E9%87%87%E6%A3%AE%E7%89%8CB%E6%97%8F%E7%BB%B4%E7%94%9F%E7%B4%A0%E7%89%87",
         "platformPrice": 29,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E9%87%87%E6%A3%AE%E7%89%8CB%E6%97%8F%E7%BB%B4%E7%94%9F%E7%B4%A0%E7%89%87",
+        "platformPrice": 29,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "默认生产企「采森牌B族维生素片」主打基础维生素补充，采用片剂剂型（0.7g*100片）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",
@@ -23138,9 +26762,15 @@ window.PRODUCT_DATA = [
     "listingUrls": [
       {
         "platform": "淘宝",
-        "url": "https://item.taobao.com/item.htm?id=csv1451-15a5fa",
+        "url": "https://s.taobao.com/search?q=%E8%8D%89%E7%8F%8A%E7%91%9A%E7%B3%96",
         "platformPrice": 11,
-        "collectedAt": "2026-06-24"
+        "collectedAt": "2026-06-25"
+      },
+      {
+        "platform": "京东",
+        "url": "https://search.jd.com/Search?keyword=%E8%8D%89%E7%8F%8A%E7%91%9A%E7%B3%96",
+        "platformPrice": 11,
+        "collectedAt": "2026-06-25"
       }
     ],
     "description": "草珊瑚「草珊瑚糖」主打清咽润喉，采用颗粒剂剂型（16片）单盒装。该产品获国家蓝帽保健食品认证，定位为针对性调理。适合成人、通用人群使用。产地未知，全渠道销售。",

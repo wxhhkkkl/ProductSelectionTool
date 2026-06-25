@@ -151,7 +151,7 @@
 
     log('数据已就绪: ' + window.PRODUCT_DATA.length + ' 条产品');
 
-    var expectedVersion = '2026-09';
+    var expectedVersion = '2026-07';
 
     Store.init().then(function () {
       log('IndexedDB已初始化');
